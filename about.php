@@ -508,7 +508,7 @@
 
 				<li>
 					<a href="#!">
-						<img src="assets/images/" alt="Image_not_found">
+						<img src="assets/images/company/hnb.png" alt="Image_not_found">
 					</a>
 				</li>
 				<li>
@@ -518,12 +518,12 @@
 				</li>
 				<li>
 					<a href="#!">
-						<img src="assets/images/partners/image4.png" alt="Image_not_found">
+						<img src="assets/images/company/hemas.png" alt="Image_not_found">
 					</a>
 				</li>
 				<li>
 					<a href="#!">
-						<img src="assets/images/partners/image6.png" alt="Image_not_found">
+						<img src="assets/images/company/elephanthouse.png" alt="Image_not_found">
 					</a>
 				</li>
 				
@@ -553,7 +553,7 @@
 									<div class="col-lg-6">
 										<div class="speaker-image image-wrapper text-center">
 											<img src="assets/images/speaker/speakes1.png" alt="Image_not_found">
-											<span class="speaker-name"><strong>Jenni</strong> Berthas</span>
+											<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
 										</div>
 									</div>
 									<!-- speaker-image - end -->
@@ -565,31 +565,20 @@
 											<!-- section-title - start -->
 											<div class="section-title text-left mb-50">
 												<span class="line-style"></span>
-												<small class="sub-title">harmoni staffs</small>
-												<h2 class="big-title">Professional <strong>Speakers</strong></h2>
+												<small class="sub-title">RGB EVENTS staffs</small>
+												<h2 class="big-title">Meet the<strong>Team</strong></h2>
 											</div>
 											<!-- section-title - end -->
 
 											<div class="speaker-info">
 												<div class="speaker-title mb-30">
-													<span class="speaker-name"><strong>Jenni</strong> Berthas</span>
-													<span class="work-experienc yellow-color"><strong>15 Years</strong> experienced</span>
+													<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
+													<span class="work-experienc yellow-color"><strong>Director</strong></span>
 												</div>
 												<p class="black-color mb-30">
-													Lorem ipsum dollor site amet the best  consectuer adipiscing elites sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam...
+													Director at RGB Advertising (pvt) Ltd Degree in Supply chain and Material Management <br><br>
+													Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias soluta doloribus harum saepe, accusamus repellat magnam....
 												</p>
-												<div class="speaker-social-network ul-li">
-													<h3 class="title title-medium mb-15">
-														<strong>Social</strong> Network
-													</h3>
-													<ul>
-														<li><a href="#!"><i class="fab fa-facebook-f"></i></a></li>
-														<li><a href="#!"><i class="fab fa-twitter"></i></a></li>
-														<li><a href="#!"><i class="fab fa-twitch"></i></a></li>
-														<li><a href="#!"><i class="fab fa-google-plus-g"></i></a></li>
-														<li><a href="#!"><i class="fab fa-instagram"></i></a></li>
-													</ul>
-												</div>
 											</div>
 
 										</div>
@@ -606,7 +595,7 @@
 									<div class="col-lg-6">
 										<div class="speaker-image image-wrapper text-center">
 											<img src="assets/images/speaker/speakes1.png" alt="Image_not_found">
-											<span class="speaker-name"><strong>Jonathan</strong> Doe</span>
+											<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
 										</div>
 									</div>
 									<!-- speaker-image - end -->
@@ -618,31 +607,20 @@
 											<!-- section-title - start -->
 											<div class="section-title text-left mb-50">
 												<span class="line-style"></span>
-												<small class="sub-title">harmoni staffs</small>
-												<h2 class="big-title">Professional <strong>Speakers</strong></h2>
+												<small class="sub-title">RGB EVENTS staffs</small>
+												<h2 class="big-title">Meet the<strong>Team</strong></h2>
 											</div>
 											<!-- section-title - end -->
 
 											<div class="speaker-info">
 												<div class="speaker-title mb-30">
-													<span class="speaker-name"><strong>Jonathan</strong> Doe</span>
-													<span class="work-experienc yellow-color"><strong>15 Years</strong> experienced</span>
+													<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
+													<span class="work-experienc yellow-color"><strong>Director</strong></span>
 												</div>
 												<p class="black-color mb-30">
-													Lorem ipsum dollor site amet the best  consectuer adipiscing elites sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam...
+													Director at RGB Advertising (pvt) Ltd Degree in Supply chain and Material Management <br><br>
+													Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias soluta doloribus harum saepe, accusamus repellat magnam....
 												</p>
-												<div class="speaker-social-network ul-li">
-													<h3 class="title title-medium mb-15">
-														<strong>Social</strong> Network
-													</h3>
-													<ul>
-														<li><a href="#!"><i class="fab fa-facebook-f"></i></a></li>
-														<li><a href="#!"><i class="fab fa-twitter"></i></a></li>
-														<li><a href="#!"><i class="fab fa-twitch"></i></a></li>
-														<li><a href="#!"><i class="fab fa-google-plus-g"></i></a></li>
-														<li><a href="#!"><i class="fab fa-instagram"></i></a></li>
-													</ul>
-												</div>
 											</div>
 
 										</div>
@@ -659,7 +637,7 @@
 									<div class="col-lg-6">
 										<div class="speaker-image image-wrapper text-center">
 											<img src="assets/images/speaker/speakes1.png" alt="Image_not_found">
-											<span class="speaker-name"><strong>Denies</strong> Suarez</span>
+											<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
 										</div>
 									</div>
 									<!-- speaker-image - end -->
@@ -671,31 +649,20 @@
 											<!-- section-title - start -->
 											<div class="section-title text-left mb-50">
 												<span class="line-style"></span>
-												<small class="sub-title">harmoni staffs</small>
-												<h2 class="big-title">Professional <strong>Speakers</strong></h2>
+												<small class="sub-title">RGB EVENTS staffs</small>
+												<h2 class="big-title">Meet the<strong>Team</strong></h2>
 											</div>
 											<!-- section-title - end -->
 
 											<div class="speaker-info">
 												<div class="speaker-title mb-30">
-													<span class="speaker-name"><strong>Denies</strong> Suarez</span>
-													<span class="work-experienc yellow-color"><strong>15 Years</strong> experienced</span>
+													<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
+													<span class="work-experienc yellow-color"><strong>Director</strong></span>
 												</div>
 												<p class="black-color mb-30">
-													Lorem ipsum dollor site amet the best  consectuer adipiscing elites sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam...
+													Director at RGB Advertising (pvt) Ltd Degree in Supply chain and Material Management <br><br>
+													Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias soluta doloribus harum saepe, accusamus repellat magnam....
 												</p>
-												<div class="speaker-social-network ul-li">
-													<h3 class="title title-medium mb-15">
-														<strong>Social</strong> Network
-													</h3>
-													<ul>
-														<li><a href="#!"><i class="fab fa-facebook-f"></i></a></li>
-														<li><a href="#!"><i class="fab fa-twitter"></i></a></li>
-														<li><a href="#!"><i class="fab fa-twitch"></i></a></li>
-														<li><a href="#!"><i class="fab fa-google-plus-g"></i></a></li>
-														<li><a href="#!"><i class="fab fa-instagram"></i></a></li>
-													</ul>
-												</div>
 											</div>
 
 										</div>
@@ -712,7 +679,7 @@
 									<div class="col-lg-6">
 										<div class="speaker-image image-wrapper text-center">
 											<img src="assets/images/speaker/speakes1.png" alt="Image_not_found">
-											<span class="speaker-name"><strong>Jonathan</strong> Doe</span>
+											<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
 										</div>
 									</div>
 									<!-- speaker-image - end -->
@@ -724,31 +691,20 @@
 											<!-- section-title - start -->
 											<div class="section-title text-left mb-50">
 												<span class="line-style"></span>
-												<small class="sub-title">harmoni staffs</small>
-												<h2 class="big-title">Professional <strong>Speakers</strong></h2>
+												<small class="sub-title">RGB EVENTS staffs</small>
+												<h2 class="big-title">Meet the<strong>Team</strong></h2>
 											</div>
 											<!-- section-title - end -->
 
 											<div class="speaker-info">
 												<div class="speaker-title mb-30">
-													<span class="speaker-name"><strong>Jonathan</strong> Doe</span>
-													<span class="work-experienc yellow-color"><strong>15 Years</strong> experienced</span>
+													<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
+													<span class="work-experienc yellow-color"><strong>Director</strong></span>
 												</div>
 												<p class="black-color mb-30">
-													Lorem ipsum dollor site amet the best  consectuer adipiscing elites sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam...
+													Director at RGB Advertising (pvt) Ltd Degree in Supply chain and Material Management <br><br>
+													Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias soluta doloribus harum saepe, accusamus repellat magnam....
 												</p>
-												<div class="speaker-social-network ul-li">
-													<h3 class="title title-medium mb-15">
-														<strong>Social</strong> Network
-													</h3>
-													<ul>
-														<li><a href="#!"><i class="fab fa-facebook-f"></i></a></li>
-														<li><a href="#!"><i class="fab fa-twitter"></i></a></li>
-														<li><a href="#!"><i class="fab fa-twitch"></i></a></li>
-														<li><a href="#!"><i class="fab fa-google-plus-g"></i></a></li>
-														<li><a href="#!"><i class="fab fa-instagram"></i></a></li>
-													</ul>
-												</div>
 											</div>
 
 										</div>
@@ -761,13 +717,12 @@
 						</div>
 
 						<div class="slider-nav">
-							<div class="item">
+							<<div class="item">
 								<div class="item-content">
 									<span class="speaker-thumbnail">
 										<img src="assets/images/speaker/speakes-thumbnail.png" alt="Image_not_found">
 									</span>
-									<h3 class="speaker-name">Jenni Berthas</h3>
-									<span class="sub-title">Harmoni Speaker</span>
+									<h3 class="speaker-name">Lakmini Wickramaarachchi</h3>
 								</div>
 							</div>
 
@@ -776,8 +731,7 @@
 									<span class="speaker-thumbnail">
 										<img src="assets/images/speaker/speakes-thumbnail.png" alt="Image_not_found">
 									</span>
-									<h3 class="speaker-name">Jonathan Doe</h3>
-									<span class="sub-title">Harmoni Speaker</span>
+									<h3 class="speaker-name">Lakmini Wickramaarachchi</h3>
 								</div>
 							</div>
 
@@ -786,18 +740,14 @@
 									<span class="speaker-thumbnail">
 										<img src="assets/images/speaker/speakes-thumbnail.png" alt="Image_not_found">
 									</span>
-									<h3 class="speaker-name">Denies Suarez</h3>
-									<span class="sub-title">Harmoni Speaker</span>
+									<h3 class="speaker-name">Lakmini Wickramaarachchi</h3>
 								</div>
-							</div>
-
-							<div class="item">
+							</div><div class="item">
 								<div class="item-content">
 									<span class="speaker-thumbnail">
 										<img src="assets/images/speaker/speakes-thumbnail.png" alt="Image_not_found">
 									</span>
-									<h3 class="speaker-name">Jonathan Doe</h3>
-									<span class="sub-title">Harmoni Speaker</span>
+									<h3 class="speaker-name">Lakmini Wickramaarachchi</h3>
 								</div>
 							</div>
 
@@ -817,7 +767,7 @@
 
 		<!-- special-offer-section - start
 		================================================== -->
-		<section id="special-offer-section" class="special-offer-section clearfix" style="background-image: url(assets/images/special-offer-bg.png);">
+		<section id="special-offer-section" class="special-offer-section clearfix" style="background-image: url(assets/images/special-offer-bg.jpg);">
 			<div class="container">
 				<div class="row">
 

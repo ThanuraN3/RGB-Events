@@ -2824,10 +2824,10 @@ button {
           content: '';
           z-index: -1;
           position: absolute;
-          background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-          background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-          background: -o-linear-gradient(top left, #1272c1, #015ba6);
-          background: linear-gradient(to bottom right, #1272c1, #015ba6);
+          background: -webkit-gradient(linear, left top, right bottom, from(#60b7fd), to(#ecf573));
+          background: -webkit-linear-gradient(top left, #60b7fd, #ecf573);
+          background: -o-linear-gradient(top left, #60b7fd, #ecf573);
+          background: linear-gradient(to bottom right, #60b7fd, #ecf573);
           -webkit-transition: all 0.3s ease-in-out;
           -o-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
@@ -3587,7 +3587,7 @@ button {
         left: 0px;
         right: 0px;
         bottom: 0px;
-        background: -webkit-gradient(linear, left top, right bottom, from(rgba(255, 62, 0, 0.8)), to(rgba(255, 190, 48, 0.8)));
+        background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(rgba(255, 190, 48, 0.8)));
         background: -webkit-linear-gradient(top left, rgba(255, 62, 0, 0.8), rgba(255, 190, 48, 0.8));
         background: -o-linear-gradient(top left, rgba(255, 62, 0, 0.8), rgba(255, 190, 48, 0.8));
         background: linear-gradient(to bottom right, rgba(255, 62, 0, 0.8), rgba(255, 190, 48, 0.8)); }
@@ -3826,10 +3826,10 @@ button {
           z-index: -1;
           content: '';
           position: absolute;
-          background: -webkit-gradient(linear, left top, right bottom, from(#ff3e00), to(#ffbe30));
-          background: -webkit-linear-gradient(top left, #ff3e00, #ffbe30);
-          background: -o-linear-gradient(top left, #ff3e00, #ffbe30);
-          background: linear-gradient(to bottom right, #ff3e00, #ffbe30);
+          background: -webkit-gradient(linear, left top, right bottom, from(#ed1c24), to(#ff666b));
+          background: -webkit-linear-gradient(top left, #ed1c24, #ff666b);
+          background: -o-linear-gradient(top left, #ed1c24, #ff666b);
+          background: linear-gradient(to bottom right, #ed1c24, #ff666b);
           -webkit-transition: all 0.3s ease-in-out;
           -o-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
@@ -5518,7 +5518,7 @@ button {
       width: 50px;
       content: '';
       position: absolute;
-      background-color: #ffbe30; }
+      background-color: #1272c1; }
 
 .award-section .company-age {
   height: 620px;
@@ -5577,7 +5577,7 @@ button {
           padding-left: 10px;
           position: absolute;
           padding-bottom: 10px;
-          color: #ffbe30;
+          color: #1272c1;
           font-size: 16px;
           text-transform: uppercase; }
           .award-section .awaed-item-area .awaed-wrapper .awaed-item .awaed-content .awaed-title .awaed-date:before {
@@ -5589,7 +5589,7 @@ button {
             height: 10px;
             position: absolute;
             border-radius: 100%;
-            background-color: #ffbe30; }
+            background-color: #1272c1 ; }
           .award-section .awaed-item-area .awaed-wrapper .awaed-item .awaed-content .awaed-title .awaed-date:after {
             left: 0;
             right: 0;

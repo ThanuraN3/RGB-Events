@@ -10,7 +10,7 @@
 						<div class="col-lg-3">
 							<div class="site-logo-wrapper">
 								<a href="index-1.html" class="logo">
-									<img src="assets/images/1.site-logo.png" alt="logo_not_found">
+									<img src="assets/images/RGB-logo.png" alt="logo_not_found">
 								</a>
 							</div>
 						</div>
