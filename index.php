@@ -1373,106 +1373,32 @@
 
 										<li>
 											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
+												<img src="assets/images/company/hnb.png" alt="Image_not_found">
 											</a>
 										</li>
 										<li>
 											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
+												<img src="assets/images/company/cricket.jpg" alt="Image_not_found">
 											</a>
 										</li>
 										<li>
 											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
+												<img src="assets/images/company/hnb.png" alt="Image_not_found">
 											</a>
 										</li>
 										<li>
 											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
+												<img src="assets/images/company/hnb.png" alt="Image_not_found">
 											</a>
 										</li>
 										<li>
 											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
+												<img src="assets/images/company/hemas.png" alt="Image_not_found">
 											</a>
 										</li>
 										<li>
 											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
-											</a>
-										</li>
-
-									</ul>
-								</div>
-
-								<div class="item">
-									<ul>
-
-										<li>
-											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
-											</a>
-										</li>
-										<li>
-											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
-											</a>
-										</li>
-										<li>
-											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
-											</a>
-										</li>
-										<li>
-											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
-											</a>
-										</li>
-										<li>
-											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
-											</a>
-										</li>
-										<li>
-											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
-											</a>
-										</li>
-
-									</ul>
-								</div>
-
-								<div class="item">
-									<ul>
-
-										<li>
-											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
-											</a>
-										</li>
-										<li>
-											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
-											</a>
-										</li>
-										<li>
-											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
-											</a>
-										</li>
-										<li>
-											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
-											</a>
-										</li>
-										<li>
-											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
-											</a>
-										</li>
-										<li>
-											<a href="#!">
-												<img src="assets/images/partners/image1.png" alt="Image_not_found">
+												<img src="assets/images/company/hnb.png" alt="Image_not_found">
 											</a>
 										</li>
 
