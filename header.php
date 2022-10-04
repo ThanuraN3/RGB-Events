@@ -64,11 +64,8 @@
 													<a href="speaker.html">speaker</a>
 												</li>
 												<li class="menu-item-has-children">
-													<a href="#!">contact</a>
-													<ul class="sub-menu">
-														<li><a href="contact.html">contact us</a></li>
-														<li><a href='404-error.html'>404 Error</a></li>
-													</ul>
+													<a href="contact.php">contact</a>
+													
 												</li>
 											</ul>
 										</div>
