@@ -29,20 +29,23 @@
 													<a href="index.php">home</a>
 												</li>
 												<li class="menu-item-has-children">
-													<a href="about.php">about us</a>
-												</li>
-												<li class="menu-item-has-children">
 													<a href="#">Services</a>
 													<ul class="sub-menu">
 														<li><a href="about.html">Advertising</a></li>
-														<li><a href='events.php'>Events</a></li>
+														<li><a href='event.php'>Events</a></li>
 													</ul>
 												</li>
 												<li class="menu-item-has-children">
-													<a href="blog.php">blogs</a>
+													<a href="#">Projects</a>
+												</li>
+												<li class="menu-item-has-children">
+													<a href="about.php">about us</a>
 												</li>
 												<li class="menu-item-has-children">
 													<a href="contact.php">Contact us</a>	
+												</li>
+												<li class="menu-item-has-children">
+													<a href="blog.php">blogs</a>
 												</li>
 											</ul>
 										</div>
@@ -217,7 +220,7 @@
 							</li>
 							
 							<li>
-								<a href="events.php">
+								<a href="event.php">
 									<span class="icon"><i class="fas fa-home"></i></span>
 									Events
 								</a>
