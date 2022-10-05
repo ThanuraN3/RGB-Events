@@ -386,6 +386,8 @@
 		<!-- testimonial5-section - start
 		================================================== -->
 		<section id="testimonial5-section" class="testimonial5-section sec-ptb-100 clearfix">
+		<div class="jarallax" style="background-image: url(assets/images/new/slide-1.jpg);">
+			<div class="overlay-black sec-ptb-100">
 			<div class="container">
 
 				<!-- section-title - start -->

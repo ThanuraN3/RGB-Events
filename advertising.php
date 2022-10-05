@@ -28,8 +28,8 @@
 
 									<!-- breadcrumb-title - start -->
 									<div class="breadcrumb-title text-center mb-50">
-										<span class="sub-title">our blogs</span>
-										<h2 class="big-title">RGB Events<strong>latest blogs</strong></h2>
+										<span class="sub-title">Our services</span>
+										<h2 class="big-title">RGB Events<strong>advertising</strong></h2>
 									</div>
 									<!-- breadcrumb-title - end -->
 
@@ -37,7 +37,7 @@
 									<div class="breadcrumb-list">
 										<ul>
 											<li class="breadcrumb-item"><a href="index-1.html" class="breadcrumb-link">Home</a></li>
-											<li class="breadcrumb-item active" aria-current="page">our blogs</li>
+											<li class="breadcrumb-item active" aria-current="page">Advertising</li>
 										</ul>
 									</div>
 									<!-- breadcrumb-list - end -->
@@ -60,7 +60,7 @@
 				<!-- section-title - start -->
 				<div class="section-title text-center mb-50">
 					<small class="sub-title">our services</small>
-					<h2 class="big-title">harmony <strong>Expertise</strong></h2>
+					<h2 class="big-title">RGB <strong>Advertising</strong></h2>
 				</div>
 				<!-- section-title - end -->
 
@@ -69,14 +69,14 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">Wedding Party</h3>
+								<h3 class="title">Hoardings</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
@@ -85,14 +85,14 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">birthday Party</h3>
+								<h3 class="title">Dealer Boards</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
@@ -101,14 +101,14 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">business meeting</h3>
+								<h3 class="title">Light Boards</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
@@ -117,14 +117,14 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">Wedding Party</h3>
+								<h3 class="title">Sign Boards</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
@@ -133,14 +133,14 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">birthday Party</h3>
+								<h3 class="title">Banners</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
@@ -149,14 +149,14 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">harmoni party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">business meeting</h3>
+								<h3 class="title">X- Stands</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
@@ -165,14 +165,14 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">Wedding Party</h3>
+								<h3 class="title">Pullup Stands</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
@@ -181,14 +181,14 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">birthday Party</h3>
+								<h3 class="title">Vehical Brandings</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
@@ -197,14 +197,14 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">business meeting</h3>
+								<h3 class="title">Display Racks</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
@@ -213,14 +213,14 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">Wedding Party</h3>
+								<h3 class="title">Exhibition Stalls</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
@@ -229,30 +229,14 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">birthday Party</h3>
-								<p>Start from <strong>$1.200-$2.000</strong></p>
-							</div>
-						</div>
-					</div>
-					<!-- expertise-item - end -->
-
-					<!-- expertise-item - start -->
-					<div class="item">
-						<span class="expertise-title">RGB party events</span>
-						<div class="expertise-item">
-							<div class="image image-wrapper">
-								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
-								<a href="#!" class="plus-effect"></a>
-							</div>
-							<div class="content">
-								<h3 class="title">business meeting</h3>
+								<h3 class="title">others</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
