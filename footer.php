@@ -183,8 +183,8 @@
 						<div class="col-lg-5 col-md-12 col-sm-12">
 							<div class="footer-menu">
 								<ul>
-									<li><a href="contact.html">Contact us</a></li>
-									<li><a href="about.html">About us</a></li>
+									<li><a href="contact.php">Contact us</a></li>
+									<li><a href="about.php">About us</a></li>
 									<li><a href="#!">Site map</a></li>
 									<li><a href="#!">Privacy policy</a></li>
 								</ul>

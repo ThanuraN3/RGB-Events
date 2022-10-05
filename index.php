@@ -1,50 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-
-	<head>
-
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<meta http-equiv="x-ua-compatible" content="ie=edge">
-
-		<title>Harmoni - Home 1</title>
-		<link rel="shortcut icon" href="assets/images/favicon.png">
-
-		<!-- fraimwork - css include -->
-		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
-
-		<!-- icon css include -->
-		<link rel="stylesheet" type="text/css" href="assets/css/fontawesome-all.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/flaticon.css">
-
-		<!-- carousel css include -->
-		<link rel="stylesheet" type="text/css" href="assets/css/slick.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/slick-theme.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/animate.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/owl.theme.default.min.css">
-
-		<!-- others css include -->
-		<link rel="stylesheet" type="text/css" href="assets/css/magnific-popup.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/jquery.mCustomScrollbar.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/calendar.css">
-
-		<!-- color switcher css include -->
-		<!-- <link rel="stylesheet" type="text/css" href="assets/css/colors/style-switcher.css"> -->
-		<!-- <link id="color_theme" rel="stylesheet" type="text/css" href="assets/css/colors/default.css"> -->
-
-		<!-- custom css include -->
-		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
-
-	</head>
+<?php include('head.php') ?>
 
 
-	<body>
-
-
-
-
-		
+	<body>	
 		<!-- backtotop - start -->
 		<div id="thetop" class="thetop"></div>
 		<div class='backtotop'>
@@ -75,7 +32,7 @@
 								<small class="small-text">every event sould be perfect</small>
 
 								<div class="link-groups">
-									<a href="about.html" class="about-btn custom-btn">about us</a>
+									<a href="about.php" class="about-btn custom-btn">about us</a>
 									<a href="#!" class="start-btn">get started!</a>
 								</div>
 

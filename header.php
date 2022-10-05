@@ -29,20 +29,20 @@
 													<a href="index.php">home</a>
 												</li>
 												<li class="menu-item-has-children">
-													<a href="about.php">about</a>
+													<a href="about.php">about us</a>
 												</li>
 												<li class="menu-item-has-children">
-													<a href="about.php">Services</a>
+													<a href="#">Services</a>
 													<ul class="sub-menu">
 														<li><a href="about.html">Advertising</a></li>
 														<li><a href='events.php'>Events</a></li>
 													</ul>
 												</li>
 												<li class="menu-item-has-children">
-													<a href="#!">blogs</a>
+													<a href="blog.php">blogs</a>
 												</li>
 												<li class="menu-item-has-children">
-													<a href="contact.php">Contact</a>	
+													<a href="contact.php">Contact us</a>	
 												</li>
 											</ul>
 										</div>
@@ -204,44 +204,34 @@
 								</a>
 							</li>
 							<li>
-								<a href="service.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									our Services
-									<ul class="sub-menu">
-										<li><a href="contact.html">contact us</a></li>
-										<li><a href='404-error.html'>404 Error</a></li>
-									</ul>
-								</a>
-							</li>
-							<li>
 								<a href="about.php">
 									<span class="icon"><i class="fas fa-home"></i></span>
 									About Us
 								</a>
 							</li>
+							<li>
+								<a href="Advertising.php">
+									<span class="icon"><i class="fas fa-home"></i></span>
+									Advertising
+								</a>
+							</li>
 							
 							<li>
-								<a href="blog.html">
+								<a href="events.php">
 									<span class="icon"><i class="fas fa-home"></i></span>
-									Latest blogs
+									Events
 								</a>
 							</li>
 							<li>
-								<a href="gallery.html">
+								<a href="blog.php">
 									<span class="icon"><i class="fas fa-home"></i></span>
-									our gallery
-								</a>
-							</li>
-							<li>
-								<a href="speaker.html">
-									<span class="icon"><i class="fas fa-home"></i></span>
-									event speakers
+									Blogs
 								</a>
 							</li>
 							<li>
 								<a href="contact.php">
 									<span class="icon"><i class="fas fa-home"></i></span>
-									contact us
+									Contact Us
 								</a>
 							</li>
 						</ul>
