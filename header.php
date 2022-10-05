@@ -207,6 +207,12 @@
 								</a>
 							</li>
 							<li>
+								<a href="project.php">
+									<span class="icon"><i class="fas fa-home"></i></span>
+									Projects
+								</a>
+							</li>
+							<li>
 								<a href="about.php">
 									<span class="icon"><i class="fas fa-home"></i></span>
 									About Us

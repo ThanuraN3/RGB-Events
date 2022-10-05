@@ -89,7 +89,7 @@
                             <br>
 							<div class="text-left">
 								<a href="#!" class="custom-btn">make an event</a>
-								<a href="#!" class="conference-btn">conference event</a>
+								<a href="test-event.php" class="conference-btn">Conference and Meeting</a>
 							</div>
 						</div>
 					</div>
@@ -120,7 +120,7 @@
                             <br>
 							<div class="text-left">
 								<a href="#!" class="custom-btn">make an event</a>
-								<a href="#!" class="conference-btn">musical event</a>
+								<a href="#!" class="conference-btn">Awards Ceremony</a>
 							</div>
 						</div>
 					</div>
@@ -151,7 +151,7 @@
                             <br>
 							<div class="text-left">
 								<a href="#!" class="custom-btn">make an event</a>
-								<a href="#!" class="conference-btn">conference event</a>
+								<a href="#!" class="conference-btn">Product Launch</a>
 							</div>
 						</div>
 					</div>
@@ -182,7 +182,7 @@
                             <br>
 							<div class="text-left">
 								<a href="#!" class="custom-btn">make an event</a>
-								<a href="#!" class="conference-btn">musical event</a>
+								<a href="#!" class="conference-btn">Exhibitions</a>
 							</div>
 						</div>
 					</div>
@@ -213,7 +213,7 @@
                             <br>
 							<div class="text-left">
 								<a href="#!" class="custom-btn">make an event</a>
-								<a href="#!" class="conference-btn">conference event</a>
+								<a href="#!" class="conference-btn">Dealer Convention</a>
 							</div>
 						</div>
 					</div>
@@ -244,7 +244,7 @@
                             <br>
 							<div class="text-left">
 								<a href="#!" class="custom-btn">make an event</a>
-								<a href="#!" class="conference-btn">musical event</a>
+								<a href="#!" class="conference-btn">Opening Ceremonies</a>
 							</div>
 						</div>
 					</div>
@@ -275,7 +275,7 @@
                             <br>
 							<div class="text-left">
 								<a href="#!" class="custom-btn">make an event</a>
-								<a href="#!" class="conference-btn">conference event</a>
+								<a href="#!" class="conference-btn">Press onferences</a>
 							</div>
 						</div>
 					</div>
@@ -306,7 +306,7 @@
                             <br>
 							<div class="text-left">
 								<a href="#!" class="custom-btn">make an event</a>
-								<a href="#!" class="conference-btn">musical event</a>
+								<a href="#!" class="conference-btn">Sport Events</a>
 							</div>
 						</div>
 					</div>
@@ -336,7 +336,7 @@
                             <br>
 							<div class="text-left">
 								<a href="#!" class="custom-btn">make an event</a>
-								<a href="#!" class="conference-btn">conference event</a>
+								<a href="#!" class="conference-btn">Fashion show</a>
 							</div>
 						</div>
 					</div>
@@ -366,7 +366,7 @@
                             <br>
 							<div class="text-left">
 								<a href="#!" class="custom-btn">make an event</a>
-								<a href="#!" class="conference-btn">musical event</a>
+								<a href="#!" class="conference-btn">Brand Activations & Promotions</a>
 							</div>
 						</div>
 					</div>

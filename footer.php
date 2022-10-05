@@ -6,7 +6,7 @@
 				<!-- address-info-topbar - start -->
 				<div class="address-info-topbar mb-30 clearfix">
 					<div class="address-info-left">
-						<h3 class="title-text">harmoni event management</h3>
+						<h3 class="title-text">RGB event management</h3>
 						<p class="m-0">
 							Apple Store, 112 Prince St New York,
 							NY 10012, United States 80361,
