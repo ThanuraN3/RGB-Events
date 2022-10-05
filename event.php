@@ -89,7 +89,7 @@
                             <br>
 							<div class="text-left">
 								<a href="#!" class="custom-btn">make an event</a>
-								<a href="test-event.php" class="conference-btn">Conference and Meeting</a>
+								<a href="event-details.php" class="conference-btn">Conference and Meeting</a>
 							</div>
 						</div>
 					</div>

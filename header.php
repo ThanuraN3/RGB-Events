@@ -31,7 +31,7 @@
 												<li class="menu-item-has-children">
 													<a href="#">Services</a>
 													<ul class="sub-menu">
-														<li><a href="about.html">Advertising</a></li>
+														<li><a href="advertising.php">Advertising</a></li>
 														<li><a href='event.php'>Events</a></li>
 													</ul>
 												</li>

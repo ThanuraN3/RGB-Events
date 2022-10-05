@@ -1084,7 +1084,7 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">harmoni party events</span>
+						<span class="expertise-title">RGB party events</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
@@ -1100,7 +1100,7 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">harmoni party events</span>
+						<span class="expertise-title">RGB party events</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
@@ -1116,7 +1116,7 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">harmoni party events</span>
+						<span class="expertise-title">RGB party events</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
@@ -1132,7 +1132,7 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">harmoni party events</span>
+						<span class="expertise-title">RGB party events</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
@@ -1148,7 +1148,7 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">harmoni party events</span>
+						<span class="expertise-title">RGB party events</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
@@ -1164,7 +1164,7 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">harmoni party events</span>
+						<span class="expertise-title">RGB party events</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
@@ -1180,7 +1180,7 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">harmoni party events</span>
+						<span class="expertise-title">RGB party events</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
@@ -1196,7 +1196,7 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">harmoni party events</span>
+						<span class="expertise-title">RGB party events</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
@@ -1212,7 +1212,7 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">harmoni party events</span>
+						<span class="expertise-title">RGB party events</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
@@ -1228,7 +1228,7 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">harmoni party events</span>
+						<span class="expertise-title">RGB party events</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
@@ -1244,7 +1244,7 @@
 
 					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">harmoni party events</span>
+						<span class="expertise-title">RGB party events</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
