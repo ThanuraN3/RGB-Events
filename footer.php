@@ -137,7 +137,7 @@
 								<!-- site-logo-wrapper - start -->
 								<div class="site-logo-wrapper mb-30">
 									<a href="index-1.html" class="logo">
-										<img src="assets/images/RGB-logo.png" alt="logo_not_found">
+										<img src="<?php echo BASE_URL; ?>assets/images/RGB-logo.png" alt="logo_not_found">
 									</a>
 								</div>
 								<!-- site-logo-wrapper - end -->
@@ -200,27 +200,27 @@
 								</h3>
 								<ul>
 									<li class="image-wrapper">
-										<img src="assets/images/footer/instagram/img1.png" alt="Image_not_found">
+										<img src="<?php echo BASE_URL; ?>assets/images/footer/instagram/img1.png" alt="Image_not_found">
 										<a href="#!"><i class="fab fa-instagram"></i></a>
 									</li>
 									<li class="image-wrapper">
-										<img src="assets/images/footer/instagram/img2.png" alt="Image_not_found">
+										<img src="<?php echo BASE_URL; ?>assets/images/footer/instagram/img2.png" alt="Image_not_found">
 										<a href="#!"><i class="fab fa-instagram"></i></a>
 									</li>
 									<li class="image-wrapper">
-										<img src="assets/images/footer/instagram/img3.png" alt="Image_not_found">
+										<img src="<?php echo BASE_URL; ?>assets/images/footer/instagram/img3.png" alt="Image_not_found">
 										<a href="#!"><i class="fab fa-instagram"></i></a>
 									</li>
 									<li class="image-wrapper">
-										<img src="assets/images/footer/instagram/img4.png" alt="Image_not_found">
+										<img src="<?php echo BASE_URL; ?>assets/images/footer/instagram/img4.png" alt="Image_not_found">
 										<a href="#!"><i class="fab fa-instagram"></i></a>
 									</li>
 									<li class="image-wrapper">
-										<img src="assets/images/footer/instagram/img1.png" alt="Image_not_found">
+										<img src="<?php echo BASE_URL; ?>assets/images/footer/instagram/img1.png" alt="Image_not_found">
 										<a href="#!"><i class="fab fa-instagram"></i></a>
 									</li>
 									<li class="image-wrapper">
-										<img src="assets/images/footer/instagram/img1.png" alt="Image_not_found">
+										<img src="<?php echo BASE_URL; ?>assets/images/footer/instagram/img1.png" alt="Image_not_found">
 										<a href="#!"><i class="fab fa-instagram"></i></a>
 									</li>
 								</ul>

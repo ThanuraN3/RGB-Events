@@ -11,7 +11,7 @@
 		<!-- backtotop - end -->
 
 		<!-- preloader - start -->
-		<div id="preloader"></div>
+		<!-- <div id="preloader"></div> -->
 		<!-- preloader - end -->
 
 
@@ -37,7 +37,7 @@
 								<!-- breadcrumb-list - start -->
 								<div class="breadcrumb-list">
 									<ul>
-										<li class="breadcrumb-item"><a href="index-1.html" class="breadcrumb-link">Home</a></li>
+										<li class="breadcrumb-item"><a href="index.php" class="breadcrumb-link">Home</a></li>
 										<li class="breadcrumb-item active" aria-current="page">contact us</li>
 									</ul>
 								</div>

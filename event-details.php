@@ -12,7 +12,7 @@
 <!-- backtotop - end -->
 
 <!-- preloader - start -->
-<div id="preloader"></div>
+<!-- <div id="preloader"></div> -->
 <!-- preloader - end -->
 
 <?php include('header.php') ?>
@@ -22,7 +22,7 @@
 		================================================== -->
 		<section id="main-carousel2" class="main-carousel2 clearfix">
 
-			<div class="item" style="background-image: url(assets/images/new/events-3.jpg);">
+			<div class="item" style="background-image: url(<?php echo BASE_URL; ?>assets/images/new/events-3.jpg);">
 				<div class="overlay-black">
 					<div class="container">
 						<div class="row">
@@ -111,13 +111,13 @@
                         </div>
                         <div class="brand-logo">
                             <a href="#!" class="logo">
-                                <img src="assets/images/RGB-Event-logo.png" alt="logo_not_found">
+                                <img src="<?php echo BASE_URL; ?>assets/images/RGB-Event-logo.png" alt="logo_not_found">
                             </a>
                         </div>
-                        <img src="assets/images/events/Conference-edit.jpg" alt="Image_not_found">
+                        <img src="<?php echo BASE_URL; ?>assets/images/events/Conference-edit.jpg" alt="Image_not_found">
                     </div>
                     <div class="small-image">
-                        <img src="assets/images/events/Product-Launch-2.jpg" alt="Image_not_found">
+                        <img src="<?php echo BASE_URL; ?>assets/images/events/Product-Launch-2.jpg" alt="Image_not_found">
                     </div>
                 </div>
             </div>
@@ -236,7 +236,7 @@
 											<span class="date">26</span>
 											<small class="month">june</small>
 										</div>
-										<img src="assets/images/event/5.event-grid.jpg" alt="Image_not_found">
+										<img src="<?php echo BASE_URL; ?>assets/images/event/5.event-grid.jpg" alt="Image_not_found">
 									</div>
 									<!-- event-image - end -->
 
@@ -268,7 +268,7 @@
 											<span class="date">26</span>
 											<small class="month">june</small>
 										</div>
-										<img src="assets/images/event/5.event-grid.jpg" alt="Image_not_found">
+										<img src="<?php echo BASE_URL; ?>assets/images/event/5.event-grid.jpg" alt="Image_not_found">
 									</div>
 									<!-- event-image - end -->
 
@@ -300,7 +300,7 @@
 											<span class="date">26</span>
 											<small class="month">june</small>
 										</div>
-										<img src="assets/images/event/5.event-grid.jpg" alt="Image_not_found">
+										<img src="<?php echo BASE_URL; ?>assets/images/event/5.event-grid.jpg" alt="Image_not_found">
 									</div>
 									<!-- event-image - end -->
 
@@ -337,7 +337,7 @@
         	<!-- conference-section - start
 		================================================== -->
 		<section id="conference-section" class="conference-section clearfix">
-			<div class="jarallax" style="background-image: url(assets/images/conference/pexels-photo-262669.jpg);">
+			<div class="jarallax" style="background-image: url(<?php echo BASE_URL; ?>assets/images/conference/pexels-photo-262669.jpg);">
 				<div class="overlay-black sec-ptb-100">
 
 					<div class="mb-50">
@@ -370,7 +370,7 @@
 											<li class="nav-item">
 												<a class="nav-link active" id="nav-one-tab" data-toggle="tab" href="#nav-one" aria-expanded="true">
 													<span class="image">
-														<img src="assets/images/conference/RCJAKPP_00016_coddddnversion.jpg" alt="Image_not_found">
+														<img src="<?php echo BASE_URL; ?>assets/images/conference/RCJAKPP_00016_coddddnversion.jpg" alt="Image_not_found">
 													</span>
 													<span class="title">
 														Expo 2020 Hotel
@@ -382,7 +382,7 @@
 											<li class="nav-item">
 												<a class="nav-link" id="nav-two-tab" data-toggle="tab" href="#nav-two" aria-expanded="false">
 													<span class="image">
-														<img src="assets/images/conference/fresh-conference-room-microphones-decoration-ideas-collection-gallery-to-conference-room-microphones-home-ideas.jpg" alt="Image_not_found">
+														<img src="<?php echo BASE_URL; ?>assets/images/conference/fresh-conference-room-microphones-decoration-ideas-collection-gallery-to-conference-room-microphones-home-ideas.jpg" alt="Image_not_found">
 													</span>
 													<span class="title">
 														Expo 2020 Hotel
@@ -394,7 +394,7 @@
 											<li class="nav-item">
 												<a class="nav-link" id="nav-three-tab" data-toggle="tab" href="#nav-three" aria-expanded="false">
 													<span class="image">
-														<img src="assets/images/conference/RCTORON_00047ss.jpg" alt="Image_not_found">
+														<img src="<?php echo BASE_URL; ?>assets/images/conference/RCTORON_00047ss.jpg" alt="Image_not_found">
 													</span>
 													<span class="title">
 														Expo 2020 Hotel
@@ -407,7 +407,7 @@
 											<li class="nav-item">
 												<a class="nav-link" id="nav-four-tab" data-toggle="tab" href="#nav-four" aria-expanded="false">
 													<span class="image">
-														<img src="assets/images/conference/clayton-hotel-leopardstown-meeting-room-1.jpg" alt="Image_not_found">
+														<img src="<?php echo BASE_URL; ?>assets/images/conference/clayton-hotel-leopardstown-meeting-room-1.jpg" alt="Image_not_found">
 													</span>
 													<span class="title">
 														Expo 2020 Hotel
@@ -419,7 +419,7 @@
 											<li class="nav-item">
 												<a class="nav-link" id="nav-five-tab" data-toggle="tab" href="#nav-five" aria-expanded="false">
 													<span class="image">
-														<img src="assets/images/conference/conference-room-with-projection-facilities-3d-model-max.jpg" alt="Image_not_found">
+														<img src="<?php echo BASE_URL; ?>assets/images/conference/conference-room-with-projection-facilities-3d-model-max.jpg" alt="Image_not_found">
 													</span>
 													<span class="title">
 														Expo 2020 Hotel
@@ -431,7 +431,7 @@
 											<li class="nav-item">
 												<a class="nav-link" id="nav-six-tab" data-toggle="tab" href="#nav-six" aria-expanded="false">
 													<span class="image">
-														<img src="assets/images/conference/midlands-park-hotel-meeting-rooms.jpg" alt="Image_not_found">
+														<img src="<?php echo BASE_URL; ?>assets/images/conference/midlands-park-hotel-meeting-rooms.jpg" alt="Image_not_found">
 													</span>
 													<span class="title">
 														Expo 2020 Hotel
@@ -458,7 +458,7 @@
 							<!-- tab-pane - start -->
 							<div class="tab-pane fade active show" id="nav-one" role="tabpanel" aria-labelledby="nav-one-tab" aria-expanded="true">
 								<div class="image">
-									<img src="assets/images/conference/RCJAKPP_00016_coddddnversion.jpg" alt="Image_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/conference/RCJAKPP_00016_coddddnversion.jpg" alt="Image_not_found">
 									<a href="#!" class="custom-btn">
 										booking now
 									</a>
@@ -475,7 +475,7 @@
 							<!-- tab-pane - start -->
 							<div class="tab-pane fade" id="nav-two" role="tabpanel" aria-labelledby="nav-two-tab" aria-expanded="false">
 								<div class="image">
-									<img src="assets/images/conference/fresh-conference-room-microphones-decoration-ideas-collection-gallery-to-conference-room-microphones-home-ideas.jpg" alt="Image_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/conference/fresh-conference-room-microphones-decoration-ideas-collection-gallery-to-conference-room-microphones-home-ideas.jpg" alt="Image_not_found">
 									<a href="#!" class="custom-btn">
 										booking now
 									</a>
@@ -493,7 +493,7 @@
 							<!-- tab-pane - start -->
 							<div class="tab-pane fade" id="nav-three" role="tabpanel" aria-labelledby="nav-three-tab" aria-expanded="false">
 								<div class="image">
-									<img src="assets/images/conference/RCTORON_00047ss.jpg" alt="Image_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/conference/RCTORON_00047ss.jpg" alt="Image_not_found">
 									<a href="#!" class="custom-btn">
 										booking now
 									</a>
@@ -511,7 +511,7 @@
 							<!-- tab-pane - start -->
 							<div class="tab-pane fade" id="nav-four" role="tabpanel" aria-labelledby="nav-four-tab" aria-expanded="false">
 								<div class="image">
-									<img src="assets/images/conference/clayton-hotel-leopardstown-meeting-room-1.jpg" alt="Image_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/conference/clayton-hotel-leopardstown-meeting-room-1.jpg" alt="Image_not_found">
 									<a href="#!" class="custom-btn">
 										booking now
 									</a>
@@ -529,7 +529,7 @@
 							<!-- tab-pane - start -->
 							<div class="tab-pane fade" id="nav-five" role="tabpanel" aria-labelledby="nav-five-tab" aria-expanded="false">
 								<div class="image">
-									<img src="assets/images/conference/conference-room-with-projection-facilities-3d-model-max.jpg" alt="Image_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/conference/conference-room-with-projection-facilities-3d-model-max.jpg" alt="Image_not_found">
 									<a href="#!" class="custom-btn">
 										booking now
 									</a>
@@ -547,7 +547,7 @@
 							<!-- tab-pane - start -->
 							<div class="tab-pane fade" id="nav-six" role="tabpanel" aria-labelledby="nav-six-tab" aria-expanded="false">
 								<div class="image">
-									<img src="assets/images/conference/midlands-park-hotel-meeting-rooms.jpg" alt="Image_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/conference/midlands-park-hotel-meeting-rooms.jpg" alt="Image_not_found">
 									<a href="#!" class="custom-btn">
 										booking now
 									</a>
@@ -606,7 +606,7 @@
 			<div class="grid zoom-gallery clearfix mb-80" data-isotope="{ &quot;masonry&quot;: { &quot;columnWidth&quot;: 0 } }">
 				<div class="grid-item grid-item--height2 photo-gallery " data-category="photo-gallery">
 					<a class="popup-link" href="assets/images/gallery/1.image.jpg">
-						<img src="assets/images/gallery/1.image.jpg" alt="Image_not_found">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/1.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>John Doe Wedding day</h3>
@@ -615,7 +615,7 @@
 				</div>
 				<div class="grid-item grid-item--width2 video-gallery " data-category="video-gallery">
 					<a class="popup-youtube" href="https://youtu.be/-haiaZ011OM">
-						<img src="assets/images/gallery/2.image.jpg" alt="Image_not_found">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/2.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Business Conference in Dubai</h3>
@@ -624,7 +624,7 @@
 				</div>
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
 					<a class="popup-link" href="assets/images/gallery/3.image.jpg">
-						<img src="assets/images/gallery/3.image.jpg" alt="Image_not_found">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/3.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Envato Author Fun Hiking</h3>
@@ -634,7 +634,7 @@
 
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
 					<a class="popup-link" href="assets/images/gallery/4.image.jpg">
-						<img src="assets/images/gallery/4.image.jpg" alt="Image_not_found">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/4.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>John Doe Wedding day</h3>
@@ -643,7 +643,7 @@
 				</div>
 				<div class="grid-item grid-item--width2 video-gallery " data-category="video-gallery">
 					<a class="popup-youtube" href="https://youtu.be/-haiaZ011OM">
-						<img src="assets/images/gallery/5.image.jpg" alt="Image_not_found">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/5.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>New Year Celebration</h3>
@@ -653,7 +653,7 @@
 
 				<div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
 					<a class="popup-link" href="assets/images/gallery/6.image.jpg">
-						<img src="assets/images/gallery/6.image.jpg" alt="Image_not_found">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/6.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>John Doe Wedding day</h3>
@@ -662,7 +662,7 @@
 				</div>
 				<div class="grid-item video-gallery " data-category="video-gallery">
 					<a class="popup-youtube" href="https://youtu.be/-haiaZ011OM">
-						<img src="assets/images/gallery/7.image.jpg" alt="Image_not_found">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/7.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>New Year Celebration</h3>
@@ -671,7 +671,7 @@
 				</div>
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
 					<a class="popup-link" href="assets/images/gallery/8.image.jpg">
-						<img src="assets/images/gallery/8.image.jpg" alt="Image_not_found">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/8.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Envato Author Fun Hiking</h3>

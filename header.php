@@ -10,7 +10,7 @@
 						<div class="col-lg-3">
 							<div class="site-logo-wrapper">
 								<a href="index-1.html" class="logo">
-									<img src="assets/images/RGB-logo.png" alt="logo_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/RGB-logo.png" alt="logo_not_found">
 								</a>
 							</div>
 						</div>
@@ -32,11 +32,11 @@
 													<a href="#">Services</a>
 													<ul class="sub-menu">
 														<li><a href="advertising.php">Advertising</a></li>
-														<li><a href='event.php'>Events</a></li>
+														<li><a href="event.php">Events</a></li>
 													</ul>
 												</li>
 												<li class="menu-item-has-children">
-													<a href="#">Projects</a>
+													<a href="projects.php">Projects</a>
 												</li>
 												<li class="menu-item-has-children">
 													<a href="about.php">about us</a>
@@ -58,14 +58,14 @@
 											<ul>
 												<li>
 											
-													<div id="login-modal" class="reglog-modal-wrapper mfp-hide clearfix" style="background-image: url(assets/imagesRGB-Event-logo.png);">
+													<div id="login-modal" class="reglog-modal-wrapper mfp-hide clearfix" style="background-image: url(<?php echo BASE_URL; ?>assets/imagesRGB-Event-logo.png);">
 														<div class="overlay-black clearfix">
 
 															<!-- leftside-content - start -->
 															<div class="leftside-content">
 																<div class="site-logo-wrapper mb-80">
 																	<a href="#!" class="logo">
-																		<img src="assets/images/2.site-logo.png" alt="logo_not_found">
+																		<img src="<?php echo BASE_URL; ?>assets/images/2.site-logo.png" alt="logo_not_found">
 																	</a>
 																</div>
 																<div class="copyright-text">
@@ -167,7 +167,7 @@
 			<div class="container">
 				<div class="logo-area float-left">
 					<a href="index-1.html">
-						<img src="assets/images/RGB-logo.png" alt="logo_not_found">
+						<img src="<?php echo BASE_URL; ?>assets/images/RGB-logo.png" alt="logo_not_found">
 					</a>
 				</div>
 
@@ -185,7 +185,7 @@
 
 					<div class="sidebar-header">
 						<a href="#!">
-							<img src="assets/images/RGB-Event-logo.png" alt="logo_not_found">
+							<img src="<?php echo BASE_URL; ?>assets/images/RGB-Event-logo.png" alt="logo_not_found">
 						</a>
 					</div>
 
@@ -277,7 +277,7 @@
 								<a href="#!"><i class="fab fa-instagram"></i></a>
 							</li>
 						</ul>
-						<a href="contact.html" class="contact-btn">contact us</a>
+						<a href="contact.php" class="contact-btn">contact us</a>
 					</div>
 					<!-- social-links - end -->
 

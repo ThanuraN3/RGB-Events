@@ -1,3 +1,5 @@
+<?php include('bootstrap.php'); ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,29 +10,29 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 
 	<title>RGB Events</title>
-	<link rel="shortcut icon" href="assets/images/favicon.ico">
+	<link rel="shortcut icon" href="<?php echo BASE_URL; ?>assets/images/favicon.ico">
 
 	<!-- fraimwork - css include -->
-	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>assets/css/bootstrap.min.css">
 
 	<!-- icon css include -->
-	<link rel="stylesheet" type="text/css" href="assets/css/fontawesome-all.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/flaticon.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>assets/css/fontawesome-all.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>assets/css/flaticon.css">
 
 	<!-- carousel css include -->
-	<link rel="stylesheet" type="text/css" href="assets/css/slick.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/slick-theme.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/animate.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/owl.theme.default.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>assets/css/slick.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>assets/css/slick-theme.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>assets/css/animate.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>assets/css/owl.carousel.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>assets/css/owl.theme.default.min.css">
 
 	<!-- others css include -->
-	<link rel="stylesheet" type="text/css" href="assets/css/magnific-popup.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/jquery.mCustomScrollbar.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/calendar.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>assets/css/magnific-popup.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>assets/css/jquery.mCustomScrollbar.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>assets/css/calendar.css">
 
 	<!-- custom css include -->
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>assets/css/style.css">
 
 
 </head>

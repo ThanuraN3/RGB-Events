@@ -1,6 +1,6 @@
 		<!-- special-offer-section - start
 		================================================== -->
-		<section id="special-offer-section" class="special-offer-section clearfix" style="background-image: url(assets/images/special-offer-bg.jpg);">
+		<section id="special-offer-section" class="special-offer-section clearfix" style="background-image: url(<?php echo BASE_URL; ?>assets/images/special-offer-bg.jpg);">
 			<div class="container">
 				<div class="row">
 
@@ -18,7 +18,7 @@
 					<!-- event-makeing-btn - start -->
 					<div class="col-lg-3 col-md-12 col-sm-12">
 						<div class="event-makeing-btn">
-							<a href="#!">make an event now</a>
+							<a href="event.php">make an event now</a>
 						</div>
 					</div>
 					<!-- event-makeing-btn - end -->

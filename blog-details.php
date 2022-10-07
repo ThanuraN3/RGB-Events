@@ -13,7 +13,7 @@
 	<!-- backtotop - end -->
 
 	<!-- preloader - start -->
-	<div id="preloader"></div>
+	<!-- <div id="preloader"></div> -->
 	<!-- preloader - end -->
 
 
@@ -22,7 +22,7 @@
 		<!-- breadcrumb-section - start
 			================================================== -->
 			<section id="breadcrumb-section" class="breadcrumb-section clearfix">
-				<div class="jarallax" style="background-image: url(assets/images/breadcrumb/0.breadcrumb-bg.jpg);">
+				<div class="jarallax" style="background-image: url(<?php echo BASE_URL; ?>assets/images/breadcrumb/0.breadcrumb-bg.jpg);">
 					<div class="overlay-black">
 						<div class="container">
 							<div class="row justify-content-center">
@@ -38,8 +38,8 @@
 									<!-- breadcrumb-list - start -->
 									<div class="breadcrumb-list">
 										<ul>
-											<li class="breadcrumb-item"><a href="index-1.html" class="breadcrumb-link">Home</a></li>
-											<li class="breadcrumb-item"><a href="#" class="breadcrumb-link">blogs</a></li>
+											<li class="breadcrumb-item"><a href="index.php" class="breadcrumb-link">Home</a></li>
+											<li class="breadcrumb-item"><a href="blog.php" class="breadcrumb-link">blogs</a></li>
 											<li class="breadcrumb-item active" aria-current="page">blog details</li>
 										</ul>
 									</div>
@@ -80,13 +80,13 @@
 
 								<div id="event-details-carousel" class="event-details-carousel owl-carousel owl-theme">
 									<div class="item">
-										<img src="assets/images/event/event-details-1.jpg" alt="Image_not_found">
+										<img src="<?php echo BASE_URL; ?>assets/images/event/event-details-1.jpg" alt="Image_not_found">
 									</div>
 									<div class="item">
-										<img src="assets/images/event/event-details-2.jpg" alt="Image_not_found">
+										<img src="<?php echo BASE_URL; ?>assets/images/event/event-details-2.jpg" alt="Image_not_found">
 									</div>
 									<div class="item">
-										<img src="assets/images/event/event-details-3.jpg" alt="Image_not_found">
+										<img src="<?php echo BASE_URL; ?>assets/images/event/event-details-3.jpg" alt="Image_not_found">
 									</div>
 								</div>
 
@@ -154,7 +154,7 @@
 
 								<div class="comment-bar clearfix">
 									<div class="admin-image">
-										<img src="assets/images/admin.png" alt="Image_not_found">
+										<img src="<?php echo BASE_URL; ?>assets/images/admin.png" alt="Image_not_found">
 									</div>
 									<div class="comment-content">
 										<div class="admin-name mb-15">
@@ -350,7 +350,7 @@
 								<!-- faq-wrapper - end -->
 
 								<!-- spacial-event-wrapper - start -->
-								<div class="spacial-event-wrapper text-center" style="background-image: url(assets/images/spacial-event-bg.jpg);">
+								<div class="spacial-event-wrapper text-center" style="background-image: url(<?php echo BASE_URL; ?>assets/images/spacial-event-bg.jpg);">
 									<div class="overlay-black">
 										<p class="sub-title white-color mb-30">26 DECEMBER 2018</p>
 										<h2 class="title-large white-color mb-30">
@@ -376,35 +376,35 @@
 
 
 			<!-- fraimwork - jquery include -->
-			<script src="assets/js/jquery-3.3.1.min.js"></script>
-			<script src="assets/js/popper.min.js"></script>
-			<script src="assets/js/bootstrap.min.js"></script>
+			<script src="<?php echo BASE_URL; ?>assets/js/jquery-3.3.1.min.js"></script>
+			<script src="<?php echo BASE_URL; ?>assets/js/popper.min.js"></script>
+			<script src="<?php echo BASE_URL; ?>assets/js/bootstrap.min.js"></script>
 
 			<!-- carousel jquery include -->
-			<script src="assets/js/slick.min.js"></script>
-			<script src="assets/js/owl.carousel.min.js"></script>
+			<script src="<?php echo BASE_URL; ?>assets/js/slick.min.js"></script>
+			<script src="<?php echo BASE_URL; ?>assets/js/owl.carousel.min.js"></script>
 
 			<!-- map jquery include -->
-			<script src="assets/js/gmap3.min.js"></script>
+			<script src="<?php echo BASE_URL; ?>assets/js/gmap3.min.js"></script>
 			<script src="http://maps.google.com/maps/api/js?key=AIzaSyC61_QVqt9LAhwFdlQmsNwi5aUJy9B2SyA"></script>
 
 			<!-- calendar jquery include -->
-			<script src="assets/js/atc.min.js"></script>
+			<script src="<?php echo BASE_URL; ?>assets/js/atc.min.js"></script>
 
 			<!-- others jquery include -->
-			<script src="assets/js/jquery.magnific-popup.min.js"></script>
-			<script src="assets/js/isotope.pkgd.min.js"></script>
-			<script src="assets/js/jarallax.min.js"></script>
-			<script src="assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
+			<script src="<?php echo BASE_URL; ?>assets/js/jquery.magnific-popup.min.js"></script>
+			<script src="<?php echo BASE_URL; ?>assets/js/isotope.pkgd.min.js"></script>
+			<script src="<?php echo BASE_URL; ?>assets/js/jarallax.min.js"></script>
+			<script src="<?php echo BASE_URL; ?>assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
 
 			<!-- gallery img loaded - jqury include -->
-			<script src="assets/js/imagesloaded.pkgd.min.js"></script>
+			<script src="<?php echo BASE_URL; ?>assets/js/imagesloaded.pkgd.min.js"></script>
 
 			<!-- multy count down - jqury include -->
-			<script src="assets/js/jquery.countdown.js"></script>
+			<script src="<?php echo BASE_URL; ?>assets/js/jquery.countdown.js"></script>
 
 			<!-- custom jquery include -->
-			<script src="assets/js/custom.js"></script>
+			<script src="<?php echo BASE_URL; ?>assets/js/custom.js"></script>
 
 
 
