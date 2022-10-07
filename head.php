@@ -8,7 +8,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 
 	<title>RGB Events</title>
-	<link rel="shortcut icon" href="assets/images/favicon.png">
+	<link rel="shortcut icon" href="assets/images/favicon.ico">
 
 	<!-- fraimwork - css include -->
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">

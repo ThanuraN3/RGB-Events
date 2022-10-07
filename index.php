@@ -388,13 +388,13 @@
 					<div class="col-lg-4 col-md-12 col-sm-12">
 						<div class="section-title text-left mb-30">
 							<span class="line-style"></span>
-							<small class="sub-title">we are harmoni</small>
+							<small class="sub-title">we are RGB</small>
 							<h2 class="big-title"><strong>No.1</strong> Events Management</h2>
 							<p class="black-color mb-50">
 								Lorem ipsum dollor site amet the best  consectuer adipiscing elites sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat insignia the consectuer adipiscing elit. 
 							</p>
 							<a href="#!" class="custom-btn">
-								about harmonei
+								about RGB
 							</a>
 						</div>
 					</div>
