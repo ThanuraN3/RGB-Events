@@ -26,23 +26,16 @@
 					<div class="container">
 						<div class="row justify-content-center">
 							<div class="col-lg-6 col-md-12 col-sm-12">
-
-								<!-- breadcrumb-title - start -->
 								<div class="breadcrumb-title text-center mb-50">
-									<span class="sub-title">What we de</span>
+									<span class="sub-title">What we do</span>
 									<h2 class="big-title"><strong>RGB</strong> OUR PROJECTS</h2>
 								</div>
-								<!-- breadcrumb-title - end -->
-
-								<!-- breadcrumb-list - start -->
 								<div class="breadcrumb-list">
 									<ul>
 										<li class="breadcrumb-item"><a href="index.php" class="breadcrumb-link">Home</a></li>
 										<li class="breadcrumb-item active" aria-current="page">Our Projects</li>
 									</ul>
 								</div>
-								<!-- breadcrumb-list - end -->
-
 							</div>
 						</div>
 					</div>

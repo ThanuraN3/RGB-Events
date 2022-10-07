@@ -2,18 +2,12 @@
 
 
 	<body>	
-		<!-- backtotop - start -->
 		<div id="thetop" class="thetop"></div>
 		<div class='backtotop'>
 			<a href="#thetop" class='scroll'>
 				<i class="fas fa-angle-double-up"></i>
 			</a>
 		</div>
-		<!-- backtotop - end -->
-
-		<!-- preloader - start -->
-		<!-- <div id="preloader"></div> -->
-		<!-- preloader - end -->
 
         <?php include('header.php') ?>
 
@@ -91,17 +85,13 @@
 		<section id="upcomming-event-section" class="upcomming-event-section sec-ptb-100 clearfix">
 			<div class="container">
 
-				<!-- section-title - start -->
+			
 				<div class="section-title text-center mb-50">
 					<small class="sub-title">upcomming events</small>
-					<h2 class="big-title">Latest <strong>Awesome Events</strong></h2>
+					<h2 class="big-title-first">Latest <strong>Awesome Events</strong></h2>
 				</div>
-				<!-- section-title - end -->
-
-				<!-- upcomming-event-carousel - start -->
+				
 				<div id="upcomming-event-carousel" class="upcomming-event-carousel owl-carousel owl-theme">
-
-					<!-- item - start -->
 					<div class="item">
 						<div class="event-item">
 							<div class="event-image">
@@ -142,9 +132,7 @@
 
 						</div>
 					</div>
-					<!-- item - end -->
-
-					<!-- item - start -->
+			
 					<div class="item">
 						<div class="event-item">
 
@@ -186,9 +174,7 @@
 
 						</div>
 					</div>
-					<!-- item - end -->
-
-					<!-- item - start -->
+					
 					<div class="item">
 						<div class="event-item">
 
@@ -231,9 +217,7 @@
 
 						</div>
 					</div>
-					<!-- item - end -->
-
-					<!-- item - start -->
+				
 					<div class="item">
 						<div class="event-item">
 
@@ -276,9 +260,7 @@
 
 						</div>
 					</div>
-					<!-- item - end -->
-
-					<!-- item - start -->
+					
 					<div class="item">
 						<div class="event-item">
 
@@ -320,9 +302,7 @@
 
 						</div>
 					</div>
-					<!-- item - end -->
-
-					<!-- item - start -->
+				
 					<div class="item">
 						<div class="event-item">
 
@@ -364,10 +344,9 @@
 
 						</div>
 					</div>
-					<!-- item - end -->
+				
 
 				</div>
-				<!-- upcomming-event-carousel - end -->
 
 			</div>
 		</section>
@@ -384,12 +363,11 @@
 			<div class="container">
 				<div class="row">
 
-					<!-- section-title - start -->
 					<div class="col-lg-4 col-md-12 col-sm-12">
 						<div class="section-title text-left mb-30">
 							<span class="line-style"></span>
 							<small class="sub-title">we are RGB</small>
-							<h2 class="big-title"><strong>No.1</strong> Events Management</h2>
+							<h2 class="big-title-second"><strong>No.1</strong> Events Management</h2>
 							<p class="black-color mb-50">
 								Lorem ipsum dollor site amet the best  consectuer adipiscing elites sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat insignia the consectuer adipiscing elit. 
 							</p>
@@ -398,9 +376,7 @@
 							</a>
 						</div>
 					</div>
-					<!-- section-title - end -->
-
-					<!-- about-item-wrapper - start -->
+				
 					<div class="col-lg-8 col-md-12 col-sm-12">
 						<div class="about-item-wrapper ul-li">
 							<ul>
@@ -488,7 +464,7 @@
 							</ul>
 						</div>
 					</div>
-					<!-- about-item-wrapper - end -->
+				
 					
 				</div>
 			</div>
@@ -510,7 +486,7 @@
 						<div class="container">
 							<div class="row">
 
-								<!-- section-title - start -->
+								
 								<div class="col-lg-6 col-md-12 col-sm-12">
 									<div class="section-title text-left">
 										<span class="line-style"></span>
@@ -518,15 +494,15 @@
 										<h2 class="big-title">video Showreels:</h2>
 									</div>
 								</div>
-								<!-- section-title - end -->
+								
 							</div>
 						</div>
 					</div>
 
-					<!-- conference-content-wrapper - start -->
+					
 					<div class="tab-wrapper">
 
-						<!-- tab-menu - start -->
+						
 						<div class="container">
 							<div class="row justify-content-lg-start">
 								<div class="col-lg-6 col-md-12 col-sm-12">
@@ -617,17 +593,15 @@
 								</div>
 							</div>
 						</div>
-						<!-- tab-menu - end -->
-
-						<!-- tab-content - start -->
+						
 						<div class="tab-content">
-							<!-- tab-pane - start -->
+							
 							<div class="tab-pane fade active show" id="nav-one" role="tabpanel" aria-labelledby="nav-one-tab" aria-expanded="true">
 								<div class="image">
 									<img src="assets/images/conference/RCJAKPP_00016_coddddnversion.jpg" alt="Image_not_found">
-									<a href="#!" class="custom-btn">
+									<!-- <a href="#!" class="custom-btn">
 										booking now
-									</a>
+									</a> -->
 									<div class="badge-item">
 										<div class="content">
 											<i class="fas fa-star"></i>
@@ -636,15 +610,13 @@
 									</div>
 								</div>
 							</div>
-							<!-- tab-pane - end -->
-
-							<!-- tab-pane - start -->
+							
 							<div class="tab-pane fade" id="nav-two" role="tabpanel" aria-labelledby="nav-two-tab" aria-expanded="false">
 								<div class="image">
 									<img src="assets/images/conference/fresh-conference-room-microphones-decoration-ideas-collection-gallery-to-conference-room-microphones-home-ideas.jpg" alt="Image_not_found">
-									<a href="#!" class="custom-btn">
+									<!-- <a href="#!" class="custom-btn">
 										booking now
-									</a>
+									</a> -->
 									<div class="badge-item">
 										<div class="content">
 											<i class="fas fa-star"></i>
@@ -654,15 +626,13 @@
 									</div>
 								</div>
 							</div>
-							<!-- tab-pane - end -->
-
-							<!-- tab-pane - start -->
+							
 							<div class="tab-pane fade" id="nav-three" role="tabpanel" aria-labelledby="nav-three-tab" aria-expanded="false">
 								<div class="image">
 									<img src="assets/images/conference/RCTORON_00047ss.jpg" alt="Image_not_found">
-									<a href="#!" class="custom-btn">
+									<!-- <a href="#!" class="custom-btn">
 										booking now
-									</a>
+									</a> -->
 									<div class="badge-item">
 										<div class="content">
 											<i class="fas fa-star"></i>
@@ -672,15 +642,13 @@
 									</div>
 								</div>
 							</div>
-							<!-- tab-pane - end -->
-
-							<!-- tab-pane - start -->
+							
 							<div class="tab-pane fade" id="nav-four" role="tabpanel" aria-labelledby="nav-four-tab" aria-expanded="false">
 								<div class="image">
 									<img src="assets/images/conference/clayton-hotel-leopardstown-meeting-room-1.jpg" alt="Image_not_found">
-									<a href="#!" class="custom-btn">
+									<!-- <a href="#!" class="custom-btn">
 										booking now
-									</a>
+									</a> -->
 									<div class="badge-item">
 										<div class="content">
 											<i class="fas fa-star"></i>
@@ -690,15 +658,13 @@
 									</div>
 								</div>
 							</div>
-							<!-- tab-pane - end -->
-
-							<!-- tab-pane - start -->
+							
 							<div class="tab-pane fade" id="nav-five" role="tabpanel" aria-labelledby="nav-five-tab" aria-expanded="false">
 								<div class="image">
 									<img src="assets/images/conference/conference-room-with-projection-facilities-3d-model-max.jpg" alt="Image_not_found">
-									<a href="#!" class="custom-btn">
+									<!-- <a href="#!" class="custom-btn">
 										booking now
-									</a>
+									</a> -->
 									<div class="badge-item">
 										<div class="content">
 											<i class="fas fa-star"></i>
@@ -708,15 +674,13 @@
 									</div>
 								</div>
 							</div>
-							<!-- tab-pane - end -->
-
-							<!-- tab-pane - start -->
+							
 							<div class="tab-pane fade" id="nav-six" role="tabpanel" aria-labelledby="nav-six-tab" aria-expanded="false">
 								<div class="image">
 									<img src="assets/images/conference/midlands-park-hotel-meeting-rooms.jpg" alt="Image_not_found">
-									<a href="#!" class="custom-btn">
+									<!-- <a href="#!" class="custom-btn">
 										booking now
-									</a>
+									</a> -->
 									<div class="badge-item">
 										<div class="content">
 											<i class="fas fa-star"></i>
@@ -726,13 +690,9 @@
 									</div>
 								</div>
 							</div>
-							<!-- tab-pane - end -->
-
+							
 						</div>
-						<!-- tab-content - end -->
-
 					</div>
-					<!-- conference-content-wrapper - end -->
 
 				</div>
 			</div>
@@ -755,16 +715,15 @@
 		<section id="event-expertise-section2" class="event-expertise-section2 bg-gray-light sec-ptb-100 clearfix">
 			<div class="container">
 
-				<!-- section-title - start -->
+				
 				<div class="section-title text-center mb-50">
 					<small class="sub-title">our services</small>
 					<h2 class="big-title">RGB <strong>PROJECTS</strong></h2>
 				</div>
-				<!-- section-title - end -->
+				
 
 				<div class="row">
 
-					<!-- expertise-item - start -->
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="expertise-item">
 
@@ -782,9 +741,7 @@
 
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="expertise-item">
 
@@ -802,9 +759,7 @@
 
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="expertise-item">
 
@@ -822,9 +777,6 @@
 
 						</div>
 					</div>
-					<!-- expertise-item - end -->
-
-					<!-- expertise-item - start -->
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="expertise-item">
 
@@ -842,9 +794,7 @@
 
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="expertise-item">
 
@@ -862,9 +812,7 @@
 
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="expertise-item">
 
@@ -882,9 +830,7 @@
 
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="expertise-item">
 
@@ -902,9 +848,6 @@
 
 						</div>
 					</div>
-					<!-- expertise-item - end -->
-
-					<!-- expertise-item - start -->
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="expertise-item">
 
@@ -922,7 +865,6 @@
 
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
 				</div>
 
@@ -939,13 +881,12 @@
 		================================================== -->
 		<section id="event-gallery-section" class="event-gallery-section sec-ptb-100 clearfix">
 
-			<!-- section-title - start -->
+			
 			<div class="section-title text-center mb-50">
 				<small class="sub-title">RGB gallery</small>
 				<h2 class="big-title">Beautiful & <strong>Unforgettable Times</strong></h2>
 			</div>
-			<!-- section-title - end -->
-
+			
 			<div class="button-group filters-button-group mb-30">
 				<button class="button is-checked" data-filter="*">
 					<i class="fas fa-star"></i>
@@ -1056,210 +997,184 @@
 		<section id="event-expertise-section" class="event-expertise-section bg-gray-light sec-ptb-100 clearfix">
 			<div class="container">
 
-				<!-- section-title - start -->
+				
 				<div class="section-title text-center mb-50">
 					<small class="sub-title">our services</small>
 					<h2 class="big-title">RGB <strong>Advertising</strong></h2>
 				</div>
-				<!-- section-title - end -->
 
-				<!-- event-expertise-carousel - start -->
 				<div id="event-expertise-carousel" class="event-expertise-carousel owl-carousel owl-theme">
 
-					<!-- expertise-item - start -->
+
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">Wedding Party</h3>
+								<h3 class="title">Hoarding</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">birthday Party</h3>
+								<h3 class="title">Dealer Boards</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">business meeting</h3>
+								<h3 class="title">Light Boards</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">Wedding Party</h3>
+								<h3 class="title">Sign Boards</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">birthday Party</h3>
+								<h3 class="title">Banners</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">business meeting</h3>
+								<h3 class="title">X-Stands</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">Wedding Party</h3>
+								<h3 class="title">Hoardings</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">birthday Party</h3>
+								<h3 class="title">Dealer Boards</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">business meeting</h3>
+								<h3 class="title">Light Boadrs</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">Wedding Party</h3>
+								<h3 class="title">Sign Boards</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">birthday Party</h3>
+								<h3 class="title">Banners</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
-					<!-- expertise-item - start -->
 					<div class="item">
-						<span class="expertise-title">RGB party events</span>
+						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
 								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
-								<h3 class="title">business meeting</h3>
+								<h3 class="title">X-Stands</h3>
 								<p>Start from <strong>$1.200-$2.000</strong></p>
 							</div>
 						</div>
 					</div>
-					<!-- expertise-item - end -->
 
 				</div>
-				<!-- event-expertise-carousel - end -->
 
 			</div>
 		</section>
@@ -1276,7 +1191,7 @@
 		<section id="partners-clients-section" class="partners-clients-section bg-gray-light sec-ptb-100 clearfix">
 			<div class="container">
 
-				<!-- section-title - start -->
+				
 				<div class="section-title text-center mb-50">
 					<small class="sub-title">we are RGB Events</small>
 					<h2 class="big-title">We have <strong>Best Partners & Clients</strong></h2>
@@ -1284,15 +1199,14 @@
 						Lorem ipsum dollor site amet the best  consectuer adipiscing elites sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat insignia the consectuer adipiscing elit. 
 					</p>
 				</div>
-				<!-- section-title - end -->
-
+				
 				<div class="row">
 
-					<!-- partners-wrapper - start -->
+				
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="partners-wrapper">
 							<span class="carousel-title">
-								harmoni <strong>sponsors</strong>
+								RGB <strong>sponsors</strong>        
 							</span>
 							<div id="partners-carousel" class="partners-carousel owl-carousel owl-theme">
 
@@ -1336,9 +1250,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- partners-wrapper - end -->
-
-					<!-- clients-testimonial - start -->
+					
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="clients-testimonial" style="background-image: url(assets/images/1.testimonial-bg.jpg);">
 							<div class="overlay-black">
@@ -1383,16 +1295,12 @@
 							</div>
 						</div>
 					</div>
-					<!-- clients-testimonial - end -->
-					
+				
 				</div>
 
 			</div>
 		</section>
-		<!-- partners-clients-section - end
-		================================================== -->
-	<!-- advertisement-section - start
-		================================================== -->
+	
 		<section id="advertisement-section" class="advertisement-section clearfix" style="background-image: url(assets/images/special-offer-bg.jpg);">
 			<div class="container">
 				<div class="advertisement-content text-center">
@@ -1416,15 +1324,15 @@
 			<div class="container">
 				<div class="row">
 
-					<!-- faq-accordion - start -->
+					
 					<div class="col-lg-6 col-md-12 col-sm-12">
-						<!-- section-title - start -->
+						
 						<div class="section-title mb-30">
 							<span class="line-style"></span>
 							<small class="sub-title">find your answer</small>
 							<h2 class="big-title">ask & <strong>questions</strong></h2>
 						</div>
-						<!-- section-title - end -->
+						
 						<div id="faq-accordion" class="faq-accordion">
 
 							<div class="card">
@@ -1486,21 +1394,16 @@
 
 						</div>
 					</div>
-					<!-- faq-accordion - end -->
-
-					<!-- latest-blog-wrapper - start -->
+					
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="latest-blog-wrapper">
 
-							<!-- section-title - start -->
 							<div class="section-title mb-30">
 								<span class="line-style"></span>
 								<small class="sub-title">our blog</small>
 								<h2 class="big-title">latest <strong>news</strong></h2>
 							</div>
-							<!-- section-title - end -->
 
-							<!-- latest-blog - start -->
 							<div class="latest-blog clearfix">
 								<div class="blog-image">
 									<img src="assets/images/blog/1.latest-blog.jpg" alt="Image_not_found">
@@ -1516,9 +1419,7 @@
 									</p>
 								</div>
 							</div>
-							<!-- latest-blog - end -->
 
-							<!-- latest-blog - start -->
 							<div class="latest-blog clearfix">
 								<div class="blog-image">
 									<img src="assets/images/blog/1.latest-blog.jpg" alt="Image_not_found">
@@ -1534,12 +1435,8 @@
 									</p>
 								</div>
 							</div>
-							<!-- latest-blog - end -->
-
 						</div>
-					</div>
-					<!-- latest-blog-wrapper - end -->
-					
+					</div>				
 				</div>
 			</div>
 		</section>
@@ -1554,43 +1451,32 @@
 
 
 
-		<!-- fraimwork - jquery include -->
+		
 		<script src="<?php echo BASE_URL; ?>assets/js/jquery-3.3.1.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/popper.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/bootstrap.min.js"></script>
 
-		<!-- carousel jquery include -->
+		
 		<script src="<?php echo BASE_URL; ?>assets/js/slick.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/owl.carousel.min.js"></script>
 
-		<!-- map jquery include -->
+	
 		<script src="<?php echo BASE_URL; ?>assets/js/gmap3.min.js"></script>
 		<script src="http://maps.google.com/maps/api/js?key=AIzaSyC61_QVqt9LAhwFdlQmsNwi5aUJy9B2SyA"></script>
 
-		<!-- calendar jquery include -->
+		
 		<script src="<?php echo BASE_URL; ?>assets/js/atc.min.js"></script>
 
-		<!-- others jquery include -->
 		<script src="<?php echo BASE_URL; ?>assets/js/jquery.magnific-popup.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/isotope.pkgd.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/jarallax.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
 
-		<!-- gallery img loaded - jqury include -->
 		<script src="<?php echo BASE_URL; ?>assets/js/imagesloaded.pkgd.min.js"></script>
 
-		<!-- multy count down - jqury include -->
 		<script src="<?php echo BASE_URL; ?>assets/js/jquery.countdown.js"></script>
 
-		<!-- color panal - jqury include -->
-		<!-- <script src="assets/js/style-switcher.js"></script> -->
-
-		<!-- custom jquery include -->
 		<script src="<?php echo BASE_URL; ?>assets/js/custom.js"></script>
-
-
-
-
 
 	</body>
 </html>

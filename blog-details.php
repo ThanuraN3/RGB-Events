@@ -3,18 +3,12 @@
 
 <body class="default-header-p">
 
-	<!-- backtotop - start -->
 	<div id="thetop" class="thetop"></div>
 	<div class='backtotop'>
 		<a href="#thetop" class='scroll'>
 			<i class="fas fa-angle-double-up"></i>
 		</a>
 	</div>
-	<!-- backtotop - end -->
-
-	<!-- preloader - start -->
-	<!-- <div id="preloader"></div> -->
-	<!-- preloader - end -->
 
 
     <?php include('header.php') ?>
@@ -28,14 +22,12 @@
 							<div class="row justify-content-center">
 								<div class="col-lg-6 col-md-12 col-sm-12">
 
-									<!-- breadcrumb-title - start -->
+									
 									<div class="breadcrumb-title text-center mb-50">
 										<span class="sub-title">blog</span>
 										<h2 class="big-title">RGB Events <strong>blog details</strong></h2>
 									</div>
-									<!-- breadcrumb-title - end -->
-
-									<!-- breadcrumb-list - start -->
+									
 									<div class="breadcrumb-list">
 										<ul>
 											<li class="breadcrumb-item"><a href="index.php" class="breadcrumb-link">Home</a></li>
@@ -43,8 +35,7 @@
 											<li class="breadcrumb-item active" aria-current="page">blog details</li>
 										</ul>
 									</div>
-									<!-- breadcrumb-list - end -->
-
+									
 								</div>
 							</div>
 						</div>
@@ -64,10 +55,9 @@
 				<div class="container">
 					<div class="row">
 
-						<!-- col - event-details - start -->
+						
 						<div class="col-lg-8 col-md-12 col-sm-12">
 
-							<!-- event-details - start -->
 							<div class="event-details mb-80">
 
 								<div class="event-title mb-30">
@@ -142,10 +132,7 @@
 								</p>
 
 							</div>
-							<!-- event-details - end -->
-
-
-							<!-- reviewer-comment-wrapper - start -->
+					
 							<div class="reviewer-comment-wrapper mb-30 clearfix">
 
 								<div class="section-title text-left mb-50">
@@ -196,10 +183,7 @@
 								</div>
 
 							</div>
-							<!-- reviewer-comment-wrapper - end -->
-
-					
-							<!-- comment-form - start -->
+						
 							<div class="comment-form clearfix">
 
 								<div class="section-title text-left mb-50">
@@ -210,63 +194,51 @@
 									<form action="contact.php">
 										<div class="row">
 
-											<!-- form-item - start -->
+											
 											<div class="col-lg-4 col-md-6 col-sm-12">
 												<div class="form-item mb-30">
 													<input type="text" name="name" placeholder="Your Name" required>
 												</div>
 											</div>
-											<!-- form-item - end -->
-
-											<!-- form-item - start -->
+										
 											<div class="col-lg-4 col-md-6 col-sm-12">
 												<div class="form-item mb-30">
 													<input type="email" name="email" placeholder="Your Email Address" required>
 												</div>
 											</div>
-											<!-- form-item - end -->
-
-											<!-- form-item - start -->
+										
 											<div class="col-lg-4 col-md-12 col-sm-12">
 												<div class="form-item mb-30">
 													<input type="tel" name="phone" placeholder="Your Phone" required>
 												</div>
 											</div>
-											<!-- form-item - end -->
-
-											<!-- form-item - start -->
+											
 											<div class="col-lg-12 col-md-12 col-sm-12">
 												<div class="mb-30">
 													<textarea name="message" placeholder="Your Comment" required></textarea>
 												</div>
 												<button type="submit" class="custom-btn">SUBMIT NOW</button>
 											</div>
-											<!-- form-item - end -->
-
+										
 										</div>
 									</form>
 								</div>
 
 							</div>
-							<!-- comment-form - end -->
-
+							
 						</div>
-						<!-- col - event-details - end -->
-
-						<!-- sidebar-section - start -->
 						<div class="col-lg-4 col-md-12 col-sm-12">
 							<div class="sidebar-section">
 
 
-								<!-- faq-wrapper - start -->
+								
 								<div class="faq-wrapper mb-30">
 
-									<!-- section-title - start -->
+									
 									<div class="section-title mb-30">
 										<h2 class="big-title">Recent <strong>Post</strong></h2>
 									</div>
-									<!-- section-title - end -->
-
+									
 									<div id="faq-accordion" class="faq-accordion">
 										<div class="card">
 											<div class="card-header" id="headingone">
@@ -347,9 +319,7 @@
 									</div>
 
 								</div>
-								<!-- faq-wrapper - end -->
-
-								<!-- spacial-event-wrapper - start -->
+								
 								<div class="spacial-event-wrapper text-center" style="background-image: url(<?php echo BASE_URL; ?>assets/images/spacial-event-bg.jpg);">
 									<div class="overlay-black">
 										<p class="sub-title white-color mb-30">26 DECEMBER 2018</p>
@@ -360,12 +330,10 @@
 										<a href="#!" class="custom-btn">booking ticket</a>
 									</div>
 								</div>
-								<!-- spacial-event-wrapper - end -->
-
+							
 							</div>
 						</div>
-						<!-- sidebar-section - end -->
-
+						
 					</div>
 				</div>
 			</section>
@@ -375,35 +343,34 @@
             <?php include('footer.php') ?>
 
 
-			<!-- fraimwork - jquery include -->
+			
 			<script src="<?php echo BASE_URL; ?>assets/js/jquery-3.3.1.min.js"></script>
 			<script src="<?php echo BASE_URL; ?>assets/js/popper.min.js"></script>
 			<script src="<?php echo BASE_URL; ?>assets/js/bootstrap.min.js"></script>
 
-			<!-- carousel jquery include -->
+			
 			<script src="<?php echo BASE_URL; ?>assets/js/slick.min.js"></script>
 			<script src="<?php echo BASE_URL; ?>assets/js/owl.carousel.min.js"></script>
 
-			<!-- map jquery include -->
+			
 			<script src="<?php echo BASE_URL; ?>assets/js/gmap3.min.js"></script>
 			<script src="http://maps.google.com/maps/api/js?key=AIzaSyC61_QVqt9LAhwFdlQmsNwi5aUJy9B2SyA"></script>
 
-			<!-- calendar jquery include -->
+			
 			<script src="<?php echo BASE_URL; ?>assets/js/atc.min.js"></script>
 
-			<!-- others jquery include -->
+			
 			<script src="<?php echo BASE_URL; ?>assets/js/jquery.magnific-popup.min.js"></script>
 			<script src="<?php echo BASE_URL; ?>assets/js/isotope.pkgd.min.js"></script>
 			<script src="<?php echo BASE_URL; ?>assets/js/jarallax.min.js"></script>
 			<script src="<?php echo BASE_URL; ?>assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
 
-			<!-- gallery img loaded - jqury include -->
+			
 			<script src="<?php echo BASE_URL; ?>assets/js/imagesloaded.pkgd.min.js"></script>
 
-			<!-- multy count down - jqury include -->
+			
 			<script src="<?php echo BASE_URL; ?>assets/js/jquery.countdown.js"></script>
 
-			<!-- custom jquery include -->
 			<script src="<?php echo BASE_URL; ?>assets/js/custom.js"></script>
 
 

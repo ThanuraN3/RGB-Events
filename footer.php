@@ -3,7 +3,7 @@
 		<section id="map-section" class="map-section clearfix">
 			<div class="address-wrapper">
 
-				<!-- address-info-topbar - start -->
+				
 				<div class="address-info-topbar mb-30 clearfix">
 					<div class="address-info-left">
 						<h3 class="title-text">RGB event management</h3>
@@ -31,9 +31,7 @@
 						</ul>
 					</div>
 				</div>
-				<!-- address-info-topbar - end -->
-
-				<!-- address-info-bottombar - start -->
+				
 				<div class="address-info-bottombar clearfix">
 					<div class="address-info-left">
 						<div class="rating-star">
@@ -55,7 +53,7 @@
 						</button>
 					</div>
 				</div>
-				<!-- address-info-bottombar - end -->
+			
 					
 			</div>
 			<div id="google-map">
@@ -71,17 +69,17 @@
 		================================================== -->
 		<footer id="footer-section" class="footer-section default-footer-section clearfix">
 
-			<!-- footer-top - start -->
+			
 			<div class="footer-top sec-ptb-100 clearfix">
 				<div class="container">
 					<div class="row">
 
-						<!-- basic-info - start -->
+						
 						<div class="col-lg-12 col-md-12 col-md-12">
 							<div class="basic-info mb-50 clearfix">
 								<div class="row">
 
-									<!-- basic-info-item - start -->
+									
 									<div class="col-lg-4 col-md-6 col-sm-12">
 										<div class="basic-info-item">
 											<span class="icon">
@@ -93,9 +91,7 @@
 											</div>
 										</div>
 									</div>
-									<!-- basic-info-item - end -->
 									
-									<!-- basic-info-item - start -->
 									<div class="col-lg-4 col-md-6 col-sm-12">
 										<div class="basic-info-item">
 											<span class="icon">
@@ -107,9 +103,7 @@
 											</div>
 										</div>
 									</div>
-									<!-- basic-info-item - end -->
-
-									<!-- basic-info-item - start -->
+									
 									<div class="col-lg-4 col-md-6 col-sm-12">
 										<div class="basic-info-item">
 											<span class="icon">
@@ -121,32 +115,24 @@
 											</div>
 										</div>
 									</div>
-									<!-- basic-info-item - end -->
-
-									
 									
 								</div>
 							</div>
 						</div>
-						<!-- basic-info - end -->
-
-						<!-- about-wrapper - start -->
+						
 						<div class="col-lg-3 col-md-6 col-sm-12">
 							<div class="about-wrapper">
 
-								<!-- site-logo-wrapper - start -->
+								
 								<div class="site-logo-wrapper mb-30">
 									<a href="index-1.html" class="logo">
 										<img src="<?php echo BASE_URL; ?>assets/images/RGB-logo.png" alt="logo_not_found">
 									</a>
 								</div>
-								<!-- site-logo-wrapper - end -->
-
 								<p class="mb-30">
 									Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna.
 								</p>
 
-								<!-- social-links - start -->
 								<div class="social-links ul-li">
 									<h3 class="social-title">network</h3>
 									<ul>
@@ -167,13 +153,10 @@
 										</li>
 									</ul>
 								</div>
-								<!-- social-links - end -->
+								
 								
 							</div>
 						</div>
-						<!-- about-wrapper - end -->
-
-						<!-- usefullinks-wrapper - start -->
 						<div class="col-lg-3 col-md-6 col-sm-12">
 							<div class="usefullinks-wrapper ul-li-block">
 								<h3 class="footer-item-title">
@@ -190,9 +173,7 @@
 								
 							</div>
 						</div>
-						<!-- usefullinks-wrapper - end -->
-
-						<!-- instagram-wrapper - start -->
+						
 						<div class="col-lg-4 col-md-6 col-sm-12">
 							<div class="instagram-wrapper ul-li">
 								<h3 class="footer-item-title">
@@ -229,26 +210,21 @@
 								</h4>
 							</div>
 						</div>
-						<!-- instagram-wrapper - end -->
 
 					</div>
 				</div>
 			</div>
-			<!-- footer-top - end -->
 
 			<div class="footer-bottom">
 				<div class="container">
 					<div class="row">
 
-						<!-- copyright-text - start -->
 						<div class="col-lg-7 col-md-12 col-sm-12">
 							<div class="copyright-text">
 								<p class="m-0">©2022 <a href="#!" class="site-link">Rgbevents</a> all right reserved, made by <a href="#!" class="author-link"><strong>XESS Global</strong></a></p>
 							</div>
 						</div>
-						<!-- copyright-text - end -->
-
-						<!-- footer-menu - start -->
+			
 						<div class="col-lg-5 col-md-12 col-sm-12">
 							<div class="footer-menu">
 								<ul>
@@ -259,8 +235,7 @@
 								</ul>
 							</div>
 						</div>
-						<!-- footer-menu - end -->
-
+				
 					</div>
 				</div>
 			</div>

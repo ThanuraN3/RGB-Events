@@ -1,19 +1,12 @@
         <?php include('head.php') ?>
         <body class="default-header-p">
 		
-		<!-- backtotop - start -->
 		<div id="thetop" class="thetop"></div>
 		<div class='backtotop'>
 			<a href="#thetop" class='scroll'>
 				<i class="fas fa-angle-double-up"></i>
 			</a>
 		</div>
-		<!-- backtotop - end -->
-
-		<!-- preloader - start -->
-		<!-- <div id="preloader"></div> -->
-		<!-- preloader - end -->
-
 
         <?php include('header.php') ?>
 
@@ -26,23 +19,17 @@
 					<div class="container">
 						<div class="row justify-content-center">
 							<div class="col-lg-6 col-md-12 col-sm-12">
-
-								<!-- breadcrumb-title - start -->
 								<div class="breadcrumb-title text-center mb-50">
 									<span class="sub-title">what we can do</span>
 									<h2 class="big-title">RGB<strong>EVENTS</strong></h2>
 								</div>
-								<!-- breadcrumb-title - end -->
-
-								<!-- breadcrumb-list - start -->
+								
 								<div class="breadcrumb-list">
 									<ul>
 										<li class="breadcrumb-item"><a href="index.php" class="breadcrumb-link">Home</a></li>
 										<li class="breadcrumb-item active" aria-current="page">Events</li>
 									</ul>
 								</div>
-								<!-- breadcrumb-list - end -->
-
 							</div>
 						</div>
 					</div>
@@ -61,10 +48,8 @@
 		<section id="service-section" class="service-section sec-ptb-100 clearfix">
 			<div class="container">
 
-				<!-- service-wrapper - start -->
 				<div class="service-wrapper">
 
-					<!-- service-item - start -->
 					<div class="service-item clearfix">
 						<div class="service-image float-left">
 							<div class="big-image">
@@ -93,9 +78,6 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
-
-					<!-- service-item - start -->
 					<div class="service-item clearfix">
 						<div class="service-image float-right">
 							<div class="big-image">
@@ -124,9 +106,6 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
-
-					<!-- service-item - start -->
 					<div class="service-item clearfix">
 						<div class="service-image float-left">
 							<div class="big-image">
@@ -155,9 +134,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
 
-					<!-- service-item - start -->
 					<div class="service-item clearfix">
 						<div class="service-image float-right">
 							<div class="big-image">
@@ -186,9 +163,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
-
-                    <!-- service-item - start -->
+					
 					<div class="service-item clearfix">
 						<div class="service-image float-left">
 							<div class="big-image">
@@ -217,9 +192,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
-
-                    <!-- service-item - start -->
+				
 					<div class="service-item clearfix">
 						<div class="service-image float-right">
 							<div class="big-image">
@@ -248,9 +221,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
-
-                    <!-- service-item - start -->
+				
 					<div class="service-item clearfix">
 						<div class="service-image float-left">
 							<div class="big-image">
@@ -279,9 +250,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
-
-                    <!-- service-item - start -->
+			
 					<div class="service-item clearfix">
 						<div class="service-image float-right">
 							<div class="big-image">
@@ -310,8 +279,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
-                    <!-- service-item - start -->
+					
 					<div class="service-item clearfix">
 						<div class="service-image float-left">
 							<div class="big-image">
@@ -340,8 +308,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
-                    <!-- service-item - start -->
+					
 					<div class="service-item clearfix">
 						<div class="service-image float-right">
 							<div class="big-image">
@@ -370,8 +337,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
-                    <!-- service-item - start -->
+					
 					<div class="service-item clearfix">
 						<div class="service-image float-left">
 							<div class="big-image">
@@ -400,8 +366,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
-                    <!-- service-item - start -->
+					
 					<div class="service-item clearfix">
 						<div class="service-image float-right">
 							<div class="big-image">
@@ -430,8 +395,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
-                    <!-- service-item - start -->
+				
 					<div class="service-item clearfix">
 						<div class="service-image float-left">
 							<div class="big-image">
@@ -460,8 +424,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
-                    <!-- service-item - start -->
+					
 					<div class="service-item clearfix">
 						<div class="service-image float-right">
 							<div class="big-image">
@@ -490,8 +453,7 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
-                    <!-- service-item - start -->
+					
 					<div class="service-item clearfix">
 						<div class="service-image float-left">
 							<div class="big-image">
@@ -520,10 +482,9 @@
 							</div>
 						</div>
 					</div>
-					<!-- service-item - end -->
+				
 
 				</div>
-				<!-- service-wrapper - end -->
 
 			</div>
 		</section>
@@ -533,35 +494,34 @@
 
         <?php include('footer.php') ?>
 
-		<!-- fraimwork - jquery include -->
+		
 		<script src="<?php echo BASE_URL; ?>assets/js/jquery-3.3.1.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/popper.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/bootstrap.min.js"></script>
 
-		<!-- carousel jquery include -->
+		
 		<script src="<?php echo BASE_URL; ?>assets/js/slick.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/owl.carousel.min.js"></script>
 
-		<!-- map jquery include -->
+		
 		<script src="<?php echo BASE_URL; ?>assets/js/gmap3.min.js"></script>
 		<script src="http://maps.google.com/maps/api/js?key=AIzaSyC61_QVqt9LAhwFdlQmsNwi5aUJy9B2SyA"></script>
 
-		<!-- calendar jquery include -->
+		
 		<script src="<?php echo BASE_URL; ?>assets/js/atc.min.js"></script>
 
-		<!-- others jquery include -->
+		
 		<script src="<?php echo BASE_URL; ?>assets/js/jquery.magnific-popup.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/isotope.pkgd.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/jarallax.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
 
-		<!-- gallery img loaded - jqury include -->
+		
 		<script src="<?php echo BASE_URL; ?>assets/js/imagesloaded.pkgd.min.js"></script>
 
-		<!-- multy count down - jqury include -->
+		
 		<script src="<?php echo BASE_URL; ?>assets/js/jquery.countdown.js"></script>
 
-		<!-- custom jquery include -->
 		<script src="<?php echo BASE_URL; ?>assets/js/custom.js"></script>
 
 

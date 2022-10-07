@@ -1,29 +1,11 @@
-/* table of content - start
-==================================================================================================== */
-/* ==================================================
-* Project Name 	:  Harmoni Event Management
-* Author 		:  jThemes Studio
-* File 			:  Css Base
-* Version 		:  1.0.0
-* Project Start :  20 April 2018
-* Last Change 	:  06 june 2018
-================================================== */
-/* table of content - end
-==================================================================================================== */
+
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i|Roboto:400,400i,700,700i,900,900i");
-/* fonts load - start
-==================================================================================================== */
 body, p {
   font-family: "Open Sans", sans-serif; }
 
 button, a,
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", sans-serif; }
-
-/* fonts load - end
-==================================================================================================== */
-/* global area - start
-==================================================================================================== */
 body {
   margin: 0;
   padding: 0;
@@ -180,9 +162,6 @@ textarea {
 .owl-theme .owl-dots {
   margin: 0px;
   padding: 0px; }
-
-/* customization of unorder list - start 
-================================================== */
 .ul-li ul,
 .ul-li-block ul {
   margin: 0px;
@@ -201,10 +180,6 @@ textarea {
   display: block;
   list-style: none; }
 
-/* customization of unorder list - end
-================================================== */
-/* countdown-timer - style - start
-================================================== */
 .countdown-timer {
   width: 100%;
   display: table;
@@ -238,10 +213,7 @@ textarea {
         font-size: 14px;
         text-transform: uppercase; }
 
-/* countdown-timer - style - end
-================================================== */
-/* pagination setting - start
-================================================== */
+
 .pagination {
   border-radius: 0px; }
   .pagination ul {
@@ -309,10 +281,6 @@ textarea {
       right: 15px;
       content: '\f054'; }
 
-/* pagination setting - end
-================================================== */
-/* padding - margin setting - start 
-================================================== */
 .sec-ptb-100 {
   padding: 100px 0px; }
 
@@ -328,10 +296,7 @@ textarea {
 .mb-80 {
   margin-bottom: 80px; }
 
-/* padding - margin setting - end
-================================================== */
-/* link button - start
-================================================== */
+
 .custom-btn {
   z-index: 1;
   font-weight: 600;
@@ -377,10 +342,7 @@ textarea {
   .custom-btn:hover:after {
     opacity: 1; }
 
-/* link button - end
-================================================== */
-/* title - start
-================================================== */
+
 .section-title {
   position: relative; }
   .section-title .line-style {
@@ -424,10 +386,7 @@ textarea {
 .title-xxsmall {
   font-size: 14px; }
 
-/* title - end
-================================================== */
-/* back to top - start
-================================================== */
+
 .thetop {
   top: 0;
   left: 0;
@@ -482,24 +441,6 @@ textarea {
     .backtotop .scroll:hover:after {
       opacity: 1; }
 
-/* back to top - end
-================================================== */
-/* preloader - start
-================================================== */
-/* #preloader {
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 1005;
-  position: fixed;
-  overflow: visible;
-  background: #fff url("../images/preloader.gif") no-repeat center center; } */
-
-/* preloader - end
-================================================== */
-/* plus hover effect - start
-================================================== */
 .plus-effect {
   top: 0;
   left: 0;
@@ -531,10 +472,7 @@ textarea {
     height: 4px;
     width: 50px; }
 
-/* plus hover effect - end
-================================================== */
-/* custom colorz - start
-================================================== */
+
 .default-color {
   color: #878787; }
 
@@ -583,24 +521,14 @@ textarea {
 .overlay-white {
   background: rgba(255, 255, 255, 0.5); }
 
-/* custom colorz - end
-================================================== */
-/* transition - start
-================================================== */
+
 a,
 button {
   -webkit-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
 
-/* transition - end
-================================================== */
-/* global area - end
-==================================================================================================== */
 
-
-/* header section - start
-==================================================================================================== */
 #viewall{
   background-color: white;
   padding-left: 50px;
@@ -1410,16 +1338,12 @@ button {
       -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
       transform: translateY(-50%);
-      background-color: #ffbe30; }
+      background-color: #ed1c24; }
 
 .search-open {
   opacity: 1;
   visibility: visible; }
 
-/* header section - end
-==================================================================================================== */
-/* altranative header - start
-==================================================================================================== */
 .header-altranative {
   top: 0;
   left: 0;
@@ -1650,10 +1574,7 @@ button {
     .sidebar-menu-wrapper .sidebar.active .overlay {
       display: block; }
 
-/* altranative header - end
-==================================================================================================== */
-/* default footer section - start
-==================================================================================================== */
+
 .default-footer-section .footer-item-title {
   color: #ffffff;
   margin-bottom: 30px;
@@ -1777,10 +1698,7 @@ button {
     .default-footer-section .footer-top .instagram-wrapper .followus-link a {
       color: #ff3030; }
 
-/* default footer section - end
-==================================================================================================== */
-/* footer section 2 - start
-==================================================================================================== */
+
 .footer-section2 .footer-item-title {
   color: #ffffff;
   margin-bottom: 30px;
@@ -1882,10 +1800,7 @@ button {
     .footer-section2 .footer-top .instagram-wrapper .followus-link a {
       color: #ffbe30; }
 
-/* footer section 2 - end
-==================================================================================================== */
-/* footer section 3 - start
-==================================================================================================== */
+
 .footer-section3 .footer-item-title {
   color: #ffffff;
   margin-bottom: 30px;
@@ -1944,10 +1859,6 @@ button {
         .footer-section3 .footer-top .about-wrapper .social-links ul li a:hover {
           color: #ffbe30; }
 
-/* footer section 3 - end
-==================================================================================================== */
-/* footer-bottom - end
-==================================================================================================== */
 .footer-bottom {
   padding: 30px 0px;
   background-color: #2e2e2e; }
@@ -1981,10 +1892,7 @@ button {
         .footer-bottom .footer-menu ul li a:hover {
           color: #1272c1; }
 
-/* footer-bottom - end
-==================================================================================================== */
-/* map section - start
-==================================================================================================== */
+
 .map-section {
   position: relative; }
   .map-section .address-wrapper {
@@ -2137,10 +2045,6 @@ button {
   width: 100%;
   height: 900px; }
 
-/* map section - end
-==================================================================================================== */
-/* breadcrumb section - start
-==================================================================================================== */
 .breadcrumb-section {
   background-size: cover;
   background-repeat: no-repeat;
@@ -2198,10 +2102,7 @@ button {
         .breadcrumb-section .breadcrumb-list ul .breadcrumb-item .breadcrumb-link:hover {
           color: #1272c1; }
 
-/* breadcrumb section - end
-==================================================================================================== */
-/* sidebar section - start
-==================================================================================================== */
+
 .sidebar-section .section-title .big-title {
   font-size: 30px; }
 
@@ -2362,10 +2263,7 @@ button {
   .sidebar-section .spacial-event-wrapper .overlay-black {
     padding: 80px 50px; }
 
-/* sidebar section - end
-==================================================================================================== */
-/* index - 1 main-carousel1 - start
-==================================================================================================== */
+
 .slide-section .main-carousel1 .item {
   position: relative;
   background-size: cover;
@@ -2508,10 +2406,7 @@ button {
   .slide-section .owl-theme .owl-nav .owl-next:before {
     content: '\f061'; }
 
-/* index - 1 main-carousel1 - end
-==================================================================================================== */
-/* index - 2 - start
-==================================================================================================== */
+
 .main-carousel2 .item {
   background-size: cover;
   background-repeat: no-repeat;
@@ -2640,10 +2535,7 @@ button {
   .main-carousel2 .slick-next:before {
     content: '\f061'; }
 
-/* index - 2 - end
-==================================================================================================== */
-/* testimonial section - start
-==================================================================================================== */
+
 .testimonial5-section .item {
   padding: 0px 180px; }
   .testimonial5-section .item .quote-icon {
@@ -2727,10 +2619,6 @@ button {
   .testimonial5-section .owl-theme .owl-dots .owl-dot:hover span {
     background: #1272c1; }
 
-/* testimonial section - end
-==================================================================================================== */
-/* sponsor section - start
-==================================================================================================== */
 .default-sponsor-section {
   padding: 80px 0px; }
   .default-sponsor-section ul {
@@ -2840,10 +2728,6 @@ button {
         -webkit-filter: grayscale(0);
         filter: grayscale(0); }
 
-/* sponsor section - end
-==================================================================================================== */
-/* upcomming-event-section - start
-==================================================================================================== */
 .upcomming-event-section .upcomming-event-carousel .item .event-item {
   position: relative;
   margin-bottom: 120px; }
@@ -2990,10 +2874,7 @@ button {
   .upcomming-event-section .owl-theme .owl-nav .owl-next:before {
     content: '\f061'; }
 
-/* upcomming-event-section - end
-==================================================================================================== */
-/* about-section - start
-==================================================================================================== */
+
 .about-section {
   background-color: #f7f7f7; }
   .about-section .section-title .big-title {
@@ -3083,10 +2964,7 @@ button {
           .about-section .about-item-wrapper ul li:hover .about-item .sub-title {
             color: #ffffff; }
 
-/* about-section - end
-==================================================================================================== */
-/* conference-section - start
-==================================================================================================== */
+
 .conference-section .overlay-black {
   background-color: rgba(51, 51, 51, 0.9); }
 
@@ -3283,10 +3161,7 @@ button {
   background: -webkit-radial-gradient(top, #ff3e00, #ffbe30);
   background: radial-gradient(to bottom, #ff3e00, #ffbe30); }
 
-/* conference-section - end
-==================================================================================================== */
-/* special-offer-section - start
-==================================================================================================== */
+
 .special-offer-section {
   padding: 60px 0px;
   color: #ffffff;
@@ -3323,10 +3198,7 @@ button {
         color: #ffffff;
         background-color: #ed1c24 ; }     
 
-/* special-offer-section - end
-==================================================================================================== */
-/* event-section - start
-==================================================================================================== */
+
 .event-section .section-title .big-title {
   font-size: 42px; }
 
@@ -3498,10 +3370,7 @@ button {
 .event-section .tab-content .pagination ul {
   margin: 50px auto 0px; }
 
-/* event-section - end
-==================================================================================================== */
-/* event-gallery-section - start
-==================================================================================================== */
+
 .event-gallery-section {
   width: 100%;
   display: table; }
@@ -3648,10 +3517,7 @@ button {
     display: table;
     margin: 0 auto; }
 
-/* event-gallery-section - end
-==================================================================================================== */
-/* event-expertise-section - start
-==================================================================================================== */
+
 .event-expertise-section .event-expertise-carousel .item {
   padding-left: 40px;
   padding-bottom: 30px;
@@ -3694,7 +3560,7 @@ button {
         margin: 0;
         font-size: 14px; }
   .event-expertise-section .event-expertise-carousel .item:hover .expertise-title {
-    color: #ffbe30; }
+    color: #1272c1; }
   .event-expertise-section .event-expertise-carousel .item:hover .image img {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
@@ -3726,10 +3592,6 @@ button {
     .event-expertise-section .owl-theme .owl-dots .owl-dot.active span {
       background-color: #ffffff; }
 
-/* event-expertise-section - end
-==================================================================================================== */
-/* speaker-section - start
-==================================================================================================== */
 .speaker-section .overlay-white {
   padding-top: 100px;
   background: -webkit-radial-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.9), white);
@@ -3916,10 +3778,6 @@ button {
       border: 3px solid #dddddd;
       background-color: #ffffff; }
 
-/* speaker-section - end
-==================================================================================================== */
-/* advertisement-section - start
-==================================================================================================== */
 .advertisement-section {
   padding: 80px 0px;
   background-size: cover;
@@ -3945,10 +3803,6 @@ button {
         color: #ffffff;
         background-color: #ed1c24 ; }
 
-/* advertisement-section - end
-==================================================================================================== */
-/* partners-clients-section - start
-==================================================================================================== */
 .partners-clients-section .section-title {
   padding: 0px 110px; }
   .partners-clients-section .section-title .big-title {
@@ -4054,10 +3908,10 @@ button {
           z-index: -1;
           content: '';
           position: absolute;
-          background: -webkit-gradient(linear, left top, right bottom, from(#ff3e00), to(#ffbe30));
-          background: -webkit-linear-gradient(top left, #ff3e00, #ffbe30);
-          background: -o-linear-gradient(top left, #ff3e00, #ffbe30);
-          background: linear-gradient(to bottom right, #ff3e00, #ffbe30);
+          background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#ffffff));
+          background: -webkit-linear-gradient(top left, #1272c1, #ffffff);
+          background: -o-linear-gradient(top left, #1272c1, #ffffff);
+          background: linear-gradient(to bottom right, #1272c1, #ffffff);
           -webkit-transition: all 0.3s ease-in-out;
           -o-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
@@ -4096,10 +3950,6 @@ button {
   .partners-clients-section .clients-testimonial .owl-theme .owl-dots .owl-dot.active span {
     background: white; }
 
-/* partners-clients-section - end
-==================================================================================================== */
-/* news-update-section - start
-==================================================================================================== */
 .news-update-section .faq-accordion {
   width: 100%;
   display: table; }
@@ -4192,8 +4042,6 @@ button {
   .news-update-section .latest-blog-wrapper .latest-blog:hover .plus-effect {
     opacity: 1; }
 
-/* news-update-section - end
-==================================================================================================== */
 .homepage2 .event-gallery-section .section-title .big-title {
   font-size: 36px; }
 
@@ -4214,8 +4062,6 @@ button {
   .homepage2 .testimonial5-section .owl-theme .owl-nav .owl-prev:hover {
     opacity: 1; }
 
-/* home page 2 - start
-==================================================================================================== */
 .event-advertisement-section {
   padding: 30px 0px;
   background-size: cover;
@@ -4348,7 +4194,7 @@ button {
       margin: 0px;
       font-size: 14px; }
   .event-expertise-section2 .expertise-item:hover {
-    border-color: #ffbe30;
+    border-color: #1272c1;
     background-color: #ffffff;
     -webkit-box-shadow: 0 3px 20px 2px rgba(0, 0, 0, 0.1);
     box-shadow: 0 3px 20px 2px rgba(0, 0, 0, 0.1); }
@@ -4359,7 +4205,7 @@ button {
     .event-expertise-section2 .expertise-item:hover .expertise-image .plus-effect {
       opacity: 1; }
     .event-expertise-section2 .expertise-item:hover .expertise-content .link-btn {
-      color: #ffbe30; }
+      color: #1272c1; }
 
 .event-section .tab-content .event-item2 {
   margin-bottom: 30px;
@@ -4462,8 +4308,6 @@ button {
 .event-section .tab-content .pagination ul {
   margin: 50px auto 0px; }
 
-/* home page 2 - end
-==================================================================================================== */
 .homepage3 .main-carousel2 .item .slider-content {
   padding: 0px; }
   .homepage3 .main-carousel2 .item .slider-content .custom-btn {
@@ -4574,8 +4418,6 @@ button {
   .homepage3 .default-sponsor-section ul li {
     border-right: 2px solid transparent; }
 
-/* home page 3 - start
-==================================================================================================== */
 .absolute-eventmake-section {
   position: relative; }
   .absolute-eventmake-section .eventmaking-wrapper {
@@ -5003,8 +4845,6 @@ button {
       -webkit-box-shadow: 0 0 70px 3px rgba(0, 0, 0, 0.2);
       box-shadow: 0 0 70px 3px rgba(0, 0, 0, 0.2); }
 
-/* home page 3 - end
-==================================================================================================== */
 .homepage4 .main-carousel2 .item .slider-content {
   padding: 0px; }
   .homepage4 .main-carousel2 .item .slider-content .custom-btn {
@@ -5064,8 +4904,6 @@ button {
 .homepage4 .contact-section .contact-form textarea {
   background-color: #ffffff; }
 
-/* home page 4 - start
-==================================================================================================== */
 .slide-section {
   position: relative; }
   .slide-section .booking-form-section {
@@ -5500,10 +5338,6 @@ button {
   text-align: center;
   margin: 80px auto 0px; }
 
-/* home page 4 - end
-==================================================================================================== */
-/* about page - start
-==================================================================================================== */
 .our-management-section .management-item .item-title {
   margin-bottom: 30px; }
   .our-management-section .management-item .item-title .title-text {
@@ -5692,10 +5526,6 @@ button {
         .service-section .service-wrapper > ul > li a:hover:before {
           opacity: 1; }
 
-/* about page - end
-==================================================================================================== */
-/* event page - start
-==================================================================================================== */
 .event-search-section {
   padding: 80px 0px;
   background-size: cover;
@@ -6028,10 +5858,6 @@ button {
 .event-section .sidebar-section .spacial-event-wrapper .title-large {
   font-size: 24px; }
 
-/* event page - end
-==================================================================================================== */
-/* event details page - start
-==================================================================================================== */
 .event-details-section .section-title .big-title {
   font-size: 36px; }
 
@@ -6495,7 +6321,7 @@ button {
             line-height: 40px;
             color: #878787; }
             .event-details-section .reviewer-comment-wrapper .comment-bar .comment-content .meta-wrapper .btn-group-left ul li button:hover {
-              color: #ffbe30; }
+              color: #1272c1; }
     .event-details-section .reviewer-comment-wrapper .comment-bar .comment-content .meta-wrapper .btn-group-right ul {
       margin: 0px;
       padding: 0px;
@@ -6519,8 +6345,8 @@ button {
           color: #878787;
           border: 1px solid #878787; }
           .event-details-section .reviewer-comment-wrapper .comment-bar .comment-content .meta-wrapper .btn-group-right ul li button:hover {
-            color: #ffbe30;
-            border-color: #ffbe30; }
+            color: #1272c1;
+            border-color: #1272c1; }
 
 .event-details-section .pagination {
   display: block; }
@@ -6567,10 +6393,6 @@ button {
   -webkit-box-shadow: none;
   box-shadow: none; }
 
-/* event details page - end
-==================================================================================================== */
-/* service page - start
-==================================================================================================== */
 .service-section .service-wrapper .service-item {
   margin-bottom: 50px; }
   .service-section .service-wrapper .service-item:last-child {
@@ -6650,10 +6472,6 @@ button {
         color: #ffffff;
         background-color: #ed1c24; }
 
-/* service page - end
-==================================================================================================== */
-/* blog section - start
-==================================================================================================== */
 .blog-section .layout-btn-group {
   width: 100%;
   display: table;
@@ -6835,10 +6653,6 @@ button {
     display: table;
     margin: 0 auto; }
 
-/* blog section - end
-==================================================================================================== */
-/* faq section - start
-==================================================================================================== */
 .faq-section .faq-content-wrapper .faq-accordion .card {
   border: none;
   position: relative;
@@ -6902,10 +6716,6 @@ button {
       color: #ffbe30;
       font-size: 18px; }
 
-/* faq section - end
-==================================================================================================== */
-/* booking page - start
-==================================================================================================== */
 .booking-timeout-section {
   padding: 80px 0px; }
   .booking-timeout-section .rightside-wrapper .clock-wrapper {
@@ -7101,10 +6911,6 @@ button {
 .booking-section .sidebar-section .location-wrapper .location-info-list .area-name {
   background-color: #f7f7f7; }
 
-/* booking page - end
-==================================================================================================== */
-/* contact section - start
-==================================================================================================== */
 .contact-section .contact-form .form-item {
   margin-bottom: 30px; }
   .contact-section .contact-form .form-item input {
@@ -7114,10 +6920,6 @@ button {
   border-radius: 3px;
   margin-bottom: 30px; }
 
-/* contact section - end
-==================================================================================================== */
-/* error section - start
-==================================================================================================== */
 .error-section .icon {
   width: 360px;
   height: 360px;
@@ -7142,20 +6944,6 @@ button {
   -webkit-box-shadow: none;
   box-shadow: none; }
 
-/* error section - end
-==================================================================================================== */
-/* ================================================== 
-* Version: 1.0.0
-* css code for responsive layout
-================================================== */
-/* ==================================================
-* 1 - media screen and (max-width: 1199px)
-* 2 - media screen and (max-width: 991px)
-* 3 - media screen and (max-width: 767px)
-* 4 - media screen and (max-width: 680px)
-* 5 - media screen and (max-width: 480px)
-* 6 - media screen and (max-width: 320px)
-================================================== */
 @media screen and (max-width: 1349px) {
   .event-gallery-section .grid-item,
   .event-gallery-section .grid-sizer {
@@ -7171,10 +6959,6 @@ button {
   .event-gallery-section .grid-item--height2 {
     width: 25%;
     max-height: 560px; } }
-
-/*  ====================================================================================================
-1 - media screen and (max-width: 1199px) - start
-==================================================================================================== */
 @media screen and (max-width: 1199px) {
   .upcomming-event-section .owl-theme .owl-nav .owl-prev {
     left: 5px; }
@@ -7357,13 +7141,6 @@ button {
   .booking-timeout-section .rightside-wrapper .clock-wrapper ul li {
     width: 90px;
     margin: 5px; } }
-
-/* ====================================================================================================
-1 - media screen and (max-width: 1199px) - end
-==================================================================================================== */
-/* ====================================================================================================
-2 - media screen and (max-width: 991px) - start --->>>for medium device
-==================================================================================================== */
 @media screen and (max-width: 991px) {
   .header-section {
     display: none; }
@@ -7658,24 +7435,6 @@ button {
   .our-management-section .owl-theme .owl-dots button {
     width: 56px; } }
 
-/* ====================================================================================================
-2 - media screen and (max-width: 991px) - end --->>>for medium device
-==================================================================================================== */
-/* ====================================================================================================
-3 - media screen and (max-width: 767px) - start --->>>For Mobile Device
-==================================================================================================== */
-/* ====================================================================================================
-3 - media screen and (max-width: 767px) - end --->>>For Mobile Device
-==================================================================================================== */
-/* ====================================================================================================
-4 - media screen and (max-width: 680px) - start
-==================================================================================================== */
-/* ====================================================================================================
-4 - media screen and (max-width: 680px) - end
-==================================================================================================== */
-/* ====================================================================================================
-5 - media screen and (max-width: 480px) - start
-==================================================================================================== */
 @media screen and (max-width: 480px) {
   .sec-ptb-100 {
     padding: 50px 0px; }
@@ -8026,12 +7785,6 @@ button {
   .error-section .error-content {
     text-align: center; } }
 
-/* ====================================================================================================
-5 - media screen and (max-width: 480px) - end
-==================================================================================================== */
-/* ====================================================================================================
-6 - media screen and (max-width: 320px) - start
-==================================================================================================== */
 @media screen and (max-width: 320px) {
   .countdown-timer ul li {
     height: 65px;
@@ -8133,7 +7886,3 @@ button {
     line-height: 250px; }
   .event-section .tab-content .event-item2 .event-content .tickets-details-btn {
     padding: 15px 30px; } }
-
-/* ====================================================================================================
-6 - media screen and (max-width: 320px) - end
-==================================================================================================== */

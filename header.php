@@ -1,12 +1,12 @@
 		<!-- header-section - start
 		================================================== -->
 		<header id="header-section" class="header-section sticky-header-section not-stuck clearfix">
-			<!-- header-bottom - start -->
+			
 			<div class="header-bottom">
 				<div class="container">
 					<div class="row">
 
-						<!-- site-logo-wrapper - start -->
+						
 						<div class="col-lg-3">
 							<div class="site-logo-wrapper">
 								<a href="index-1.html" class="logo">
@@ -14,14 +14,12 @@
 								</a>
 							</div>
 						</div>
-						<!-- site-logo-wrapper - end -->
-
-						<!-- mainmenu-wrapper - start -->
+						
 						<div class="col-lg-9">
 							<div class="mainmenu-wrapper">
 								<div class="row">
 
-									<!-- menu-item-list - start -->
+									
 									<div class="col-lg-10">
 										<div class="menu-item-list ul-li clearfix">
 											<ul>
@@ -50,9 +48,7 @@
 											</ul>
 										</div>
 									</div>
-									<!-- menu-item-list - end -->
-
-									<!-- menu-item-list - start -->
+									
 									<div class="col-lg-2">
 										<div class="user-search-btn-group ul-li clearfix">
 											<ul>
@@ -61,7 +57,7 @@
 													<div id="login-modal" class="reglog-modal-wrapper mfp-hide clearfix" style="background-image: url(<?php echo BASE_URL; ?>assets/imagesRGB-Event-logo.png);">
 														<div class="overlay-black clearfix">
 
-															<!-- leftside-content - start -->
+															
 															<div class="leftside-content">
 																<div class="site-logo-wrapper mb-80">
 																	<a href="#!" class="logo">
@@ -72,9 +68,7 @@
 																	<p class="m-0">©2022 <a href="#!" class="yellow-color">rgbevents.com</a> all right reserved, made with <i class="fas fa-heart"></i> by jThemes Studio </p>
 																</div>
 															</div>
-															<!-- leftside-content - end -->
-
-															<!-- rightside-content - start -->
+															
 															<div class="rightside-content text-center">
 
 																<div class="mb-30">
@@ -115,8 +109,7 @@
 																</div>
 
 															</div>
-															<!-- rightside-content - end -->
-
+															
 															<a class="popup-modal-dismiss" href="#!">
 																<i class="fas fa-times"></i>
 															</a>
@@ -128,7 +121,7 @@
 													<button type="button" class="toggle-overlay search-btn">
 														<i class="fas fa-search"></i>
 													</button>
-													<!-- search-body - start -->
+												
 													<div class="search-body">
 														<div class="search-form">
 															<form action="#">
@@ -141,22 +134,21 @@
 															</form>
 														</div>
 													</div>
-													<!-- search-body - end -->
+													
 												</li>
 											</ul>
 										</div>
 									</div>
-									<!-- menu-item-list - end -->
 
 								</div>
 							</div>
 						</div>
-						<!-- mainmenu-wrapper - end -->
+					
 
 					</div>
 				</div>
 			</div>
-			<!-- header-bottom - end -->
+		
 		</header>
 		<!-- header-section - end
 		================================================== -->
@@ -176,7 +168,7 @@
 				</button>
 			</div>
 
-			<!-- sidebar menu - start -->
+			
 			<div class="sidebar-menu-wrapper">
 				<div id="sidebar" class="sidebar">
 					<span id="sidebar-dismiss" class="sidebar-dismiss">
@@ -189,15 +181,14 @@
 						</a>
 					</div>
 
-					<!-- sidebar-form - start -->
+					
 					<div class="sidebar-form">
 						<form action="#">
 							<input id="altmenu-sidebar-search" type="search" placeholder="Search">
 							<label for="altmenu-sidebar-search"><i class="fas fa-search"></i></label>
 						</form>
 					</div>
-					<!-- sidebar-form - end -->
-					<!-- other-pages-links - start -->
+					
 					<div class="menu-link-list other-pages-links">
 						<ul>
 						<li class="active">
@@ -207,7 +198,7 @@
 								</a>
 							</li>
 							<li>
-								<a href="project.php">
+								<a href="projects.php">
 									<span class="icon"><i class="fas fa-home"></i></span>
 									Projects
 								</a>
@@ -245,9 +236,7 @@
 							</li>
 						</ul>
 					</div>
-					<!-- other-pages-links - end -->
-
-					<!-- social-links - start -->
+			
 					<div class="social-links">
 						<h2 class="menu-title">get in touch</h2>
 						<div class="mb-15">
@@ -279,12 +268,12 @@
 						</ul>
 						<a href="contact.php" class="contact-btn">contact us</a>
 					</div>
-					<!-- social-links - end -->
+					
 
 					<div class="overlay"></div>
 				</div>
 			</div>
-			<!-- sidebar menu - end -->
+		
 		</div>
 		<!-- altranative-header - end
 		================================================== -->

@@ -12,10 +12,6 @@
 		</div>
 		<!-- backtotop - end -->
 
-		<!-- preloader - start -->
-		<!-- <div id="preloader"></div> -->
-		<!-- preloader - end -->
-
         <?php include('header.php') ?>
 
 		<!-- breadcrumb-section - start
@@ -27,21 +23,18 @@
 						<div class="row justify-content-center">
 							<div class="col-lg-6 col-md-12 col-sm-12">
 
-								<!-- breadcrumb-title - start -->
+							
 								<div class="breadcrumb-title text-center mb-50">
 									<span class="sub-title">all you need to know</span>
 									<h2 class="big-title"><strong>about</strong> RGB Events</h2>
 								</div>
-								<!-- breadcrumb-title - end -->
-
-								<!-- breadcrumb-list - start -->
+							
 								<div class="breadcrumb-list">
 									<ul>
 										<li class="breadcrumb-item"><a href="index.php" class="breadcrumb-link">Home</a></li>
 										<li class="breadcrumb-item active" aria-current="page">about us</li>
 									</ul>
 								</div>
-								<!-- breadcrumb-list - end -->
 
 							</div>
 						</div>
@@ -62,7 +55,7 @@
 			<div class="container">
 				<div class="row">
 
-					<!-- section-title - start -->
+				
 					<div class="col-lg-4 col-md-12 col-sm-12">
 						<div class="section-title text-left mb-50 sr-fade1">
 							<small class="sub-title">we are RGB Events</small>
@@ -72,12 +65,11 @@
 							</a>
 						</div>
 					</div>
-					<!-- section-title - end -->
+					
 
 					<div class="col-lg-8 col-md-12 col-sm-12">
 						<div class="row">
 
-							<!-- management-item - start -->
 							<div class="col-lg-6 col-md-6 col-sm-12">
 								<div class="management-item sr-fade2">
 									<div class="item-title">
@@ -97,9 +89,7 @@
 									</p>
 								</div>
 							</div>
-							<!-- management-item - end -->
-
-							<!-- management-item - start -->
+						
 							<div class="col-lg-6 col-md-6 col-sm-12">
 								<div class="management-item sr-fade3">
 									<div class="item-title">
@@ -119,7 +109,6 @@
 									</p>
 								</div>
 							</div>
-							<!-- management-item - end -->
 
 						</div>
 					</div>
@@ -140,25 +129,23 @@
 			<div class="container">
 				<div class="row">
 
-					<!-- company-age - start -->
+					
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="company-age sr-fade1" style="background-image: url(<?php echo BASE_URL; ?>assets/images/about/company-age-bg.jpg);">
 							<div class="banner-img">
-								<img src="<?php echo BASE_URL; ?>assets/images/about/company-banner.png" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/about/rgb.svg" alt="Image_not_found">
 							</div>
 						</div>
 					</div>
-					<!-- company-age - end -->
+					
 
 					<div class="col-lg-6 col-md-12 col-sm-12">
-						<!-- section-title - start -->
+						
 						<div class="section-title text-left mb-80 sr-fade1">
 							<small class="sub-title">rgb event award</small>
 							<h2 class="big-title">Our Winning <strong>Awards</strong></h2>
 						</div>
-						<!-- section-title - end -->
-
-						<!-- awaed-item-area - start -->
+					
 						<div class="awaed-item-area sr-fade2">
 							<span class="arrow-up">
 								<i class="fas fa-chevron-circle-up"></i>
@@ -168,7 +155,7 @@
 							</span>
 							<div class="awaed-wrapper">
 
-								<!-- awaed-item - start -->
+								
 								<div class="awaed-item">
 									<div class="awaed-content">
 										<h3 class="awaed-title">
@@ -180,9 +167,7 @@
 										</p>
 									</div>
 								</div>
-								<!-- awaed-item - end -->
-
-								<!-- awaed-item - start -->
+							
 								<div class="awaed-item">
 									<div class="awaed-content">
 										<h3 class="awaed-title">
@@ -194,9 +179,7 @@
 										</p>
 									</div>
 								</div>
-								<!-- awaed-item - end -->
-
-								<!-- awaed-item - start -->
+								
 								<div class="awaed-item">
 									<div class="awaed-content">
 										<h3 class="awaed-title">
@@ -208,9 +191,7 @@
 										</p>
 									</div>
 								</div>
-								<!-- awaed-item - end -->
-
-								<!-- awaed-item - start -->
+							
 								<div class="awaed-item">
 									<div class="awaed-content">
 										<h3 class="awaed-title">
@@ -222,9 +203,7 @@
 										</p>
 									</div>
 								</div>
-								<!-- awaed-item - end -->
-
-								<!-- awaed-item - start -->
+								
 								<div class="awaed-item">
 									<div class="awaed-content">
 										<h3 class="awaed-title">
@@ -236,9 +215,7 @@
 										</p>
 									</div>
 								</div>
-								<!-- awaed-item - end -->
-
-								<!-- awaed-item - start -->
+								
 								<div class="awaed-item">
 									<div class="awaed-content">
 										<h3 class="awaed-title">
@@ -250,11 +227,10 @@
 										</p>
 									</div>
 								</div>
-								<!-- awaed-item - end -->
-
+								
 							</div>
 						</div>
-						<!-- awaed-item-area - end -->
+						
 					</div>
 					
 				</div>
@@ -390,14 +366,12 @@
 			<div class="overlay-black sec-ptb-100">
 			<div class="container">
 
-				<!-- section-title - start -->
+				
 				<div class="section-title text-center mb-80 sr-fade1">
 					<small class="sub-title">testimonials</small>
 					<h2 class="big-title">clients <strong>testimonial</strong></h2>
 				</div>
-				<!-- section-title - end -->
-
-				<!-- testimonial5-carousel - start -->
+			
 				<div id="testimonial5-carousel" class="testimonial5-carousel sr-fade2 owl-carousel owl-theme">
 
 					<div class="item text-center">
@@ -453,8 +427,7 @@
 					</div>
 
 				</div>
-				<!-- testimonial5-carousel - end -->
-
+				
 			</div>
 		</section>
 		<!-- testimonial5-section - end
@@ -505,33 +478,30 @@
 			<div class="overlay-white">
 				<div class="container">
 
-					<!-- speaker-carousel - start -->
 					<div class="speaker-carousel">
 						<div class="slider-for">
 
 							<div class="item">
 								<div class="row">
 
-									<!-- speaker-image - start -->
+									
 									<div class="col-lg-6">
 										<div class="speaker-image image-wrapper text-center">
 											<img src="<?php echo BASE_URL; ?>assets/images/speaker/speakes1.png" alt="Image_not_found">
 											<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
 										</div>
 									</div>
-									<!-- speaker-image - end -->
-
-									<!-- speaker-content - start -->
+								
 									<div class="col-lg-6">
 										<div class="speaker-content">
 
-											<!-- section-title - start -->
+										
 											<div class="section-title text-left mb-50">
 												<span class="line-style"></span>
 												<small class="sub-title">RGB EVENTS staffs</small>
 												<h2 class="big-title">Meet the<strong>Team</strong></h2>
 											</div>
-											<!-- section-title - end -->
+										
 
 											<div class="speaker-info">
 												<div class="speaker-title mb-30">
@@ -546,7 +516,82 @@
 
 										</div>
 									</div>
-									<!-- speaker-content - end -->
+									
+								</div>
+							</div>
+
+							<div class="item">
+								<div class="row">
+
+									
+									<div class="col-lg-6">
+										<div class="speaker-image image-wrapper text-center">
+											<img src="<?php echo BASE_URL; ?>assets/images/speaker/speakes1.png" alt="Image_not_found">
+											<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
+										</div>
+									</div>
+									
+									<div class="col-lg-6">
+										<div class="speaker-content">
+
+										
+											<div class="section-title text-left mb-50">
+												<span class="line-style"></span>
+												<small class="sub-title">RGB EVENTS staffs</small>
+												<h2 class="big-title">Meet the<strong>Team</strong></h2>
+											</div>
+											
+											<div class="speaker-info">
+												<div class="speaker-title mb-30">
+													<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
+													<span class="work-experienc yellow-color"><strong>Director</strong></span>
+												</div>
+												<p class="black-color mb-30">
+													Director at RGB Advertising (pvt) Ltd Degree in Supply chain and Material Management <br><br>
+													Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias soluta doloribus harum saepe, accusamus repellat magnam....
+												</p>
+											</div>
+
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="item">
+								<div class="row">
+
+									
+									<div class="col-lg-6">
+										<div class="speaker-image image-wrapper text-center">
+											<img src="<?php echo BASE_URL; ?>assets/images/speaker/speakes1.png" alt="Image_not_found">
+											<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
+										</div>
+									</div>
+									
+									<div class="col-lg-6">
+										<div class="speaker-content">
+
+											
+											<div class="section-title text-left mb-50">
+												<span class="line-style"></span>
+												<small class="sub-title">RGB EVENTS staffs</small>
+												<h2 class="big-title">Meet the<strong>Team</strong></h2>
+											</div>
+											
+											<div class="speaker-info">
+												<div class="speaker-title mb-30">
+													<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
+													<span class="work-experienc yellow-color"><strong>Director</strong></span>
+												</div>
+												<p class="black-color mb-30">
+													Director at RGB Advertising (pvt) Ltd Degree in Supply chain and Material Management <br><br>
+													Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias soluta doloribus harum saepe, accusamus repellat magnam....
+												</p>
+											</div>
+
+										</div>
+									</div>
+									
 
 								</div>
 							</div>
@@ -554,27 +599,23 @@
 							<div class="item">
 								<div class="row">
 
-									<!-- speaker-image - start -->
+									
 									<div class="col-lg-6">
 										<div class="speaker-image image-wrapper text-center">
 											<img src="<?php echo BASE_URL; ?>assets/images/speaker/speakes1.png" alt="Image_not_found">
 											<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
 										</div>
 									</div>
-									<!-- speaker-image - end -->
-
-									<!-- speaker-content - start -->
+	
 									<div class="col-lg-6">
 										<div class="speaker-content">
 
-											<!-- section-title - start -->
+				
 											<div class="section-title text-left mb-50">
 												<span class="line-style"></span>
 												<small class="sub-title">RGB EVENTS staffs</small>
 												<h2 class="big-title">Meet the<strong>Team</strong></h2>
 											</div>
-											<!-- section-title - end -->
-
 											<div class="speaker-info">
 												<div class="speaker-title mb-30">
 													<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
@@ -588,91 +629,6 @@
 
 										</div>
 									</div>
-									<!-- speaker-content - end -->
-
-								</div>
-							</div>
-
-							<div class="item">
-								<div class="row">
-
-									<!-- speaker-image - start -->
-									<div class="col-lg-6">
-										<div class="speaker-image image-wrapper text-center">
-											<img src="<?php echo BASE_URL; ?>assets/images/speaker/speakes1.png" alt="Image_not_found">
-											<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
-										</div>
-									</div>
-									<!-- speaker-image - end -->
-
-									<!-- speaker-content - start -->
-									<div class="col-lg-6">
-										<div class="speaker-content">
-
-											<!-- section-title - start -->
-											<div class="section-title text-left mb-50">
-												<span class="line-style"></span>
-												<small class="sub-title">RGB EVENTS staffs</small>
-												<h2 class="big-title">Meet the<strong>Team</strong></h2>
-											</div>
-											<!-- section-title - end -->
-
-											<div class="speaker-info">
-												<div class="speaker-title mb-30">
-													<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
-													<span class="work-experienc yellow-color"><strong>Director</strong></span>
-												</div>
-												<p class="black-color mb-30">
-													Director at RGB Advertising (pvt) Ltd Degree in Supply chain and Material Management <br><br>
-													Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias soluta doloribus harum saepe, accusamus repellat magnam....
-												</p>
-											</div>
-
-										</div>
-									</div>
-									<!-- speaker-content - end -->
-
-								</div>
-							</div>
-
-							<div class="item">
-								<div class="row">
-
-									<!-- speaker-image - start -->
-									<div class="col-lg-6">
-										<div class="speaker-image image-wrapper text-center">
-											<img src="<?php echo BASE_URL; ?>assets/images/speaker/speakes1.png" alt="Image_not_found">
-											<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
-										</div>
-									</div>
-									<!-- speaker-image - end -->
-
-									<!-- speaker-content - start -->
-									<div class="col-lg-6">
-										<div class="speaker-content">
-
-											<!-- section-title - start -->
-											<div class="section-title text-left mb-50">
-												<span class="line-style"></span>
-												<small class="sub-title">RGB EVENTS staffs</small>
-												<h2 class="big-title">Meet the<strong>Team</strong></h2>
-											</div>
-											<!-- section-title - end -->
-
-											<div class="speaker-info">
-												<div class="speaker-title mb-30">
-													<span class="speaker-name"><strong>Lakmini Wickramarachchi</strong></span>
-													<span class="work-experienc yellow-color"><strong>Director</strong></span>
-												</div>
-												<p class="black-color mb-30">
-													Director at RGB Advertising (pvt) Ltd Degree in Supply chain and Material Management <br><br>
-													Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias soluta doloribus harum saepe, accusamus repellat magnam....
-												</p>
-											</div>
-
-										</div>
-									</div>
-									<!-- speaker-content - end -->
 
 								</div>
 							</div>
@@ -716,7 +672,6 @@
 
 						</div>
 					</div>
-					<!-- speaker-carousel - end -->
 
 				</div>
 			</div>
@@ -731,36 +686,34 @@
         <?php include('footer.php') ?>
 
 
-		<!-- fraimwork - jquery include -->
+
 		<script src="<?php echo BASE_URL; ?>assets/js/jquery-3.3.1.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/popper.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/bootstrap.min.js"></script>
 
-		<!-- carousel jquery include -->
+
 		<script src="<?php echo BASE_URL; ?>assets/js/slick.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/owl.carousel.min.js"></script>
 
-		<!-- map jquery include -->
+
 		<script src="<?php echo BASE_URL; ?>assets/js/gmap3.min.js"></script>
 		<script src="http://maps.google.com/maps/api/js?key=AIzaSyC61_QVqt9LAhwFdlQmsNwi5aUJy9B2SyA"></script>
 
-		<!-- calendar jquery include -->
+
 		<script src="<?php echo BASE_URL; ?>assets/js/atc.min.js"></script>
 
-		<!-- others jquery include -->
+
 		<script src="<?php echo BASE_URL; ?>assets/js/jquery.magnific-popup.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/isotope.pkgd.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/jarallax.min.js"></script>
 		<script src="<?php echo BASE_URL; ?>assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
 
-		<!-- gallery img loaded - jqury include -->
+
 		<script src="<?php echo BASE_URL; ?>assets/js/imagesloaded.pkgd.min.js"></script>
 
-		<!-- multy count down - jqury include -->
 		<script src="<?php echo BASE_URL; ?>assets/js/jquery.countdown.js"></script>
 
 
-		<!-- custom jquery include -->
 		<script src="<?php echo BASE_URL; ?>assets/js/custom.js"></script>
 
 
