@@ -118,7 +118,7 @@
 													</div>
 												</li>
 												<li>
-													<button type="button" class="toggle-overlay search-btn">
+													<!-- <button type="button" class="toggle-overlay search-btn">
 														<i class="fas fa-search"></i>
 													</button>
 												
@@ -133,7 +133,7 @@
 																</div>
 															</form>
 														</div>
-													</div>
+													</div> -->
 													
 												</li>
 											</ul>
@@ -179,14 +179,6 @@
 						<a href="#!">
 							<img src="<?php echo BASE_URL; ?>assets/images/RGB-Event-logo.png" alt="logo_not_found">
 						</a>
-					</div>
-
-					
-					<div class="sidebar-form">
-						<form action="#">
-							<input id="altmenu-sidebar-search" type="search" placeholder="Search">
-							<label for="altmenu-sidebar-search"><i class="fas fa-search"></i></label>
-						</form>
 					</div>
 					
 					<div class="menu-link-list other-pages-links">

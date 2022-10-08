@@ -1,20 +1,12 @@
 <?php include('head.php') ?>
-
-
-	<body class="default-header-p">
+        <body class="default-header-p">
 		
-		<!-- backtotop - start -->
 		<div id="thetop" class="thetop"></div>
 		<div class='backtotop'>
 			<a href="#thetop" class='scroll'>
 				<i class="fas fa-angle-double-up"></i>
 			</a>
 		</div>
-		<!-- backtotop - end -->
-
-		<!-- preloader - start -->
-		<!-- <div id="preloader"></div> -->
-		<!-- preloader - end -->
 
         <?php include('header.php') ?>
 
@@ -44,4 +36,8 @@
 		</section>
 		<!-- breadcrumb-section - end
 		================================================== -->
+
+		
 <?php include('offers.php') ?>
+
+</body>

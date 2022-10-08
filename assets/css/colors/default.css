@@ -4,8 +4,8 @@
 .custom-btn:before {background: linear-gradient(to bottom right, #ed1c24 , #ff666b)!important;}
 .custom-btn:after {background: linear-gradient(to bottom right, #ed1c24 , #ff666b)!important;}
 
-.scroll:before {background: linear-gradient(to bottom right, #ff666b , #ed1c24)!important;}
-.scroll:after {background: linear-gradient(to bottom right, #ed1c24 , #ff666b)!important;}
+.scroll:before {background: linear-gradient(to bottom right, #015ba6 , #1272c1)!important;}
+.scroll:after {background: linear-gradient(to bottom right, #1272c1 , #015ba6)!important;}
 
 .map-larger-btn,
 .special-offer-section .event-makeing-btn a,

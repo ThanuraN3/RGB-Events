@@ -2,16 +2,13 @@
 
 
 	<body class="default-header-p">
-		
-		<!-- backtotop - start -->
 		<div id="thetop" class="thetop"></div>
 		<div class='backtotop'>
 			<a href="#thetop" class='scroll'>
 				<i class="fas fa-angle-double-up"></i>
 			</a>
 		</div>
-		<!-- backtotop - end -->
-
+		
         <?php include('header.php') ?>
 
 		<!-- breadcrumb-section - start
@@ -369,7 +366,7 @@
 				
 				<div class="section-title text-center mb-80 sr-fade1">
 					<small class="sub-title">testimonials</small>
-					<h2 class="big-title">clients <strong>testimonial</strong></h2>
+					<h2 class="big-title-te">clients <strong>testimonial</strong></h2>
 				</div>
 			
 				<div id="testimonial5-carousel" class="testimonial5-carousel sr-fade2 owl-carousel owl-theme">
@@ -499,7 +496,7 @@
 											<div class="section-title text-left mb-50">
 												<span class="line-style"></span>
 												<small class="sub-title">RGB EVENTS staffs</small>
-												<h2 class="big-title">Meet the<strong>Team</strong></h2>
+												<h2 class="big-title">Meet the <strong>Team</strong></h2>
 											</div>
 										
 
@@ -538,7 +535,7 @@
 											<div class="section-title text-left mb-50">
 												<span class="line-style"></span>
 												<small class="sub-title">RGB EVENTS staffs</small>
-												<h2 class="big-title">Meet the<strong>Team</strong></h2>
+												<h2 class="big-title">Meet the <strong>Team</strong></h2>
 											</div>
 											
 											<div class="speaker-info">
@@ -575,7 +572,7 @@
 											<div class="section-title text-left mb-50">
 												<span class="line-style"></span>
 												<small class="sub-title">RGB EVENTS staffs</small>
-												<h2 class="big-title">Meet the<strong>Team</strong></h2>
+												<h2 class="big-title">Meet the <strong>Team</strong></h2>
 											</div>
 											
 											<div class="speaker-info">
@@ -614,7 +611,7 @@
 											<div class="section-title text-left mb-50">
 												<span class="line-style"></span>
 												<small class="sub-title">RGB EVENTS staffs</small>
-												<h2 class="big-title">Meet the<strong>Team</strong></h2>
+												<h2 class="big-title">Meet the <strong>Team</strong></h2>
 											</div>
 											<div class="speaker-info">
 												<div class="speaker-title mb-30">

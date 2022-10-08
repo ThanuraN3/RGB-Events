@@ -169,7 +169,7 @@
 															<i class="fas fa-bookmark"></i>
 															special event
 														</a>
-														<h4 class="blog-title">hermoni personal event</h4>
+														<h4 class="blog-title"> personal event</h4>
 														<p class="mb-15">
 															Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 														</p>
@@ -198,7 +198,7 @@
 															<i class="fas fa-bookmark"></i>
 															special event
 														</a>
-														<h4 class="blog-title">hermoni personal event</h4>
+														<h4 class="blog-title">personal event</h4>
 														<p class="mb-15">
 															Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 														</p>

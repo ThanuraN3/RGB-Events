@@ -34,7 +34,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="item" style="background-image: url(assets/images/new/slide-1.jpg);">
+				<div class="item" style="background-image: url(<?php echo BASE_URL; ?>assets/images/new/slide-1.jpg);">
 					<div class="overlay-black">
 						<div class="container">
 							<div class="slider-item-content">
@@ -52,7 +52,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="item" style="background-image: url(assets/images/new/slide-1.jpg);">
+				<div class="item" style="background-image: url(<?php echo BASE_URL; ?>assets/images/new/slide-1.jpg);">
 					<div class="overlay-black">
 						<div class="container">
 							<div class="slider-item-content">
@@ -95,7 +95,7 @@
 					<div class="item">
 						<div class="event-item">
 							<div class="event-image">
-								<img src="assets/images/new/events-1.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/new/events-1.jpg" alt="Image_not_found">
 								<div class="post-date">
 									<span class="date">26</span>
 									<small class="month">june</small>
@@ -137,7 +137,7 @@
 						<div class="event-item">
 
 							<div class="event-image">
-								<img src="assets/images/new/events-2.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/new/events-2.jpg" alt="Image_not_found">
 								<div class="post-date">
 									<span class="date">28</span>
 									<small class="month">aug</small>
@@ -180,7 +180,7 @@
 
 
 							<div class="event-image">
-								<img src="assets/images/new/events-3.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/new/events-3.jpg" alt="Image_not_found">
 								<div class="post-date">
 									<span class="date">20</span>
 									<small class="month">may</small>
@@ -223,7 +223,7 @@
 
 
 							<div class="event-image">
-								<img src="assets/images/upcomming-events/event-1.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/upcomming-events/event-1.jpg" alt="Image_not_found">
 								<div class="post-date">
 									<span class="date">26</span>
 									<small class="month">june</small>
@@ -265,7 +265,7 @@
 						<div class="event-item">
 
 							<div class="event-image">
-								<img src="assets/images/upcomming-events/event-2.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/upcomming-events/event-2.jpg" alt="Image_not_found">
 								<div class="post-date">
 									<span class="date">28</span>
 									<small class="month">aug</small>
@@ -307,7 +307,7 @@
 						<div class="event-item">
 
 							<div class="event-image">
-								<img src="assets/images/upcomming-events/event-3.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/upcomming-events/event-3.jpg" alt="Image_not_found">
 								<div class="post-date">
 									<span class="date">20</span>
 									<small class="month">may</small>
@@ -479,7 +479,7 @@
 		<!-- conference-section - start
 		================================================== -->
 		<section id="conference-section" class="conference-section clearfix">
-			<div class="jarallax" style="background-image: url(assets/images/conference/pexels-photo-262669.jpg);">
+			<div class="jarallax" style="background-image: url(<?php echo BASE_URL; ?>assets/images/conference/pexels-photo-262669.jpg);">
 				<div class="overlay-black sec-ptb-100">
 
 					<div class="mb-50">
@@ -512,10 +512,10 @@
 											<li class="nav-item">
 												<a class="nav-link active" id="nav-one-tab" data-toggle="tab" href="#nav-one" aria-expanded="true">
 													<span class="image">
-														<img src="assets/images/conference/RCJAKPP_00016_coddddnversion.jpg" alt="Image_not_found">
+														<img src="<?php echo BASE_URL; ?>assets/images/conference/RCJAKPP_00016_coddddnversion.jpg" alt="Image_not_found">
 													</span>
 													<span class="title">
-														Expo 2020 Hotel
+														RGB EVENT 2022
 													</span>
 													<small class="sub-title">Dubai</small><br>
 													<strong class="yellow-color">5 <i class="fas fa-star"></i></strong>
@@ -524,10 +524,10 @@
 											<li class="nav-item">
 												<a class="nav-link" id="nav-two-tab" data-toggle="tab" href="#nav-two" aria-expanded="false">
 													<span class="image">
-														<img src="assets/images/conference/fresh-conference-room-microphones-decoration-ideas-collection-gallery-to-conference-room-microphones-home-ideas.jpg" alt="Image_not_found">
+														<img src="<?php echo BASE_URL; ?>assets/images/conference/fresh-conference-room-microphones-decoration-ideas-collection-gallery-to-conference-room-microphones-home-ideas.jpg" alt="Image_not_found">
 													</span>
 													<span class="title">
-														Expo 2020 Hotel
+													RGB EVENT 2022
 													</span>
 													<small class="sub-title">Dubai</small><br>
 													<strong class="yellow-color">5 <i class="fas fa-star"></i></strong>
@@ -536,10 +536,10 @@
 											<li class="nav-item">
 												<a class="nav-link" id="nav-three-tab" data-toggle="tab" href="#nav-three" aria-expanded="false">
 													<span class="image">
-														<img src="assets/images/conference/RCTORON_00047ss.jpg" alt="Image_not_found">
+														<img src="<?php echo BASE_URL; ?>assets/images/conference/RCTORON_00047ss.jpg" alt="Image_not_found">
 													</span>
 													<span class="title">
-														Expo 2020 Hotel
+													RGB EVENT 2022
 													</span>
 													<small class="sub-title">Dubai</small><br>
 													<strong class="yellow-color">5 <i class="fas fa-star"></i></strong>
@@ -549,10 +549,10 @@
 											<li class="nav-item">
 												<a class="nav-link" id="nav-four-tab" data-toggle="tab" href="#nav-four" aria-expanded="false">
 													<span class="image">
-														<img src="assets/images/conference/clayton-hotel-leopardstown-meeting-room-1.jpg" alt="Image_not_found">
+														<img src="<?php echo BASE_URL; ?>assets/images/conference/clayton-hotel-leopardstown-meeting-room-1.jpg" alt="Image_not_found">
 													</span>
 													<span class="title">
-														Expo 2020 Hotel
+													RGB EVENT 2022
 													</span>
 													<small class="sub-title">Dubai</small><br>
 													<strong class="yellow-color">5 <i class="fas fa-star"></i></strong>
@@ -561,10 +561,10 @@
 											<li class="nav-item">
 												<a class="nav-link" id="nav-five-tab" data-toggle="tab" href="#nav-five" aria-expanded="false">
 													<span class="image">
-														<img src="assets/images/conference/conference-room-with-projection-facilities-3d-model-max.jpg" alt="Image_not_found">
+														<img src="<?php echo BASE_URL; ?>assets/images/conference/conference-room-with-projection-facilities-3d-model-max.jpg" alt="Image_not_found">
 													</span>
 													<span class="title">
-														Expo 2020 Hotel
+													RGB EVENT 2022
 													</span>
 													<small class="sub-title">Dubai</small><br>
 													<strong class="yellow-color">5 <i class="fas fa-star"></i></strong>
@@ -573,10 +573,10 @@
 											<li class="nav-item">
 												<a class="nav-link" id="nav-six-tab" data-toggle="tab" href="#nav-six" aria-expanded="false">
 													<span class="image">
-														<img src="assets/images/conference/midlands-park-hotel-meeting-rooms.jpg" alt="Image_not_found">
+														<img src="<?php echo BASE_URL; ?>assets/images/conference/midlands-park-hotel-meeting-rooms.jpg" alt="Image_not_found">
 													</span>
 													<span class="title">
-														Expo 2020 Hotel
+													RGB EVENT 2022
 													</span>
 													<small class="sub-title">Dubai</small><br>
 													<strong class="yellow-color">5 <i class="fas fa-star"></i></strong>
@@ -598,7 +598,7 @@
 							
 							<div class="tab-pane fade active show" id="nav-one" role="tabpanel" aria-labelledby="nav-one-tab" aria-expanded="true">
 								<div class="image">
-									<img src="assets/images/conference/RCJAKPP_00016_coddddnversion.jpg" alt="Image_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/conference/RCJAKPP_00016_coddddnversion.jpg" alt="Image_not_found">
 									<!-- <a href="#!" class="custom-btn">
 										booking now
 									</a> -->
@@ -613,7 +613,7 @@
 							
 							<div class="tab-pane fade" id="nav-two" role="tabpanel" aria-labelledby="nav-two-tab" aria-expanded="false">
 								<div class="image">
-									<img src="assets/images/conference/fresh-conference-room-microphones-decoration-ideas-collection-gallery-to-conference-room-microphones-home-ideas.jpg" alt="Image_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/conference/fresh-conference-room-microphones-decoration-ideas-collection-gallery-to-conference-room-microphones-home-ideas.jpg" alt="Image_not_found">
 									<!-- <a href="#!" class="custom-btn">
 										booking now
 									</a> -->
@@ -629,7 +629,7 @@
 							
 							<div class="tab-pane fade" id="nav-three" role="tabpanel" aria-labelledby="nav-three-tab" aria-expanded="false">
 								<div class="image">
-									<img src="assets/images/conference/RCTORON_00047ss.jpg" alt="Image_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/conference/RCTORON_00047ss.jpg" alt="Image_not_found">
 									<!-- <a href="#!" class="custom-btn">
 										booking now
 									</a> -->
@@ -645,7 +645,7 @@
 							
 							<div class="tab-pane fade" id="nav-four" role="tabpanel" aria-labelledby="nav-four-tab" aria-expanded="false">
 								<div class="image">
-									<img src="assets/images/conference/clayton-hotel-leopardstown-meeting-room-1.jpg" alt="Image_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/conference/clayton-hotel-leopardstown-meeting-room-1.jpg" alt="Image_not_found">
 									<!-- <a href="#!" class="custom-btn">
 										booking now
 									</a> -->
@@ -661,7 +661,7 @@
 							
 							<div class="tab-pane fade" id="nav-five" role="tabpanel" aria-labelledby="nav-five-tab" aria-expanded="false">
 								<div class="image">
-									<img src="assets/images/conference/conference-room-with-projection-facilities-3d-model-max.jpg" alt="Image_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/conference/conference-room-with-projection-facilities-3d-model-max.jpg" alt="Image_not_found">
 									<!-- <a href="#!" class="custom-btn">
 										booking now
 									</a> -->
@@ -677,7 +677,7 @@
 							
 							<div class="tab-pane fade" id="nav-six" role="tabpanel" aria-labelledby="nav-six-tab" aria-expanded="false">
 								<div class="image">
-									<img src="assets/images/conference/midlands-park-hotel-meeting-rooms.jpg" alt="Image_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/conference/midlands-park-hotel-meeting-rooms.jpg" alt="Image_not_found">
 									<!-- <a href="#!" class="custom-btn">
 										booking now
 									</a> -->
@@ -728,7 +728,7 @@
 						<div class="expertise-item">
 
 							<div class="expertise-image">
-								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 
@@ -746,7 +746,7 @@
 						<div class="expertise-item">
 
 							<div class="expertise-image">
-								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 
@@ -764,7 +764,7 @@
 						<div class="expertise-item">
 
 							<div class="expertise-image">
-								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img3.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 
@@ -781,25 +781,7 @@
 						<div class="expertise-item">
 
 							<div class="expertise-image">
-								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
-								<a href="#!" class="plus-effect"></a>
-							</div>
-
-							<div class="expertise-content">
-								<h3 class="title">Wedding Party</h3>
-								<a href="#!" class="link-btn">
-									<i class="fas fa-arrow-circle-right"></i>
-								</a>
-							</div>
-
-						</div>
-					</div>
-
-					<div class="col-lg-3 col-md-6 col-sm-12">
-						<div class="expertise-item">
-
-							<div class="expertise-image">
-								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 
@@ -817,7 +799,7 @@
 						<div class="expertise-item">
 
 							<div class="expertise-image">
-								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 
@@ -835,7 +817,25 @@
 						<div class="expertise-item">
 
 							<div class="expertise-image">
-								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img3.jpg" alt="Image_not_found">
+								<a href="#!" class="plus-effect"></a>
+							</div>
+
+							<div class="expertise-content">
+								<h3 class="title">Wedding Party</h3>
+								<a href="#!" class="link-btn">
+									<i class="fas fa-arrow-circle-right"></i>
+								</a>
+							</div>
+
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-md-6 col-sm-12">
+						<div class="expertise-item">
+
+							<div class="expertise-image">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 
@@ -852,7 +852,7 @@
 						<div class="expertise-item">
 
 							<div class="expertise-image">
-								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 
@@ -904,8 +904,8 @@
 
 			<div class="grid zoom-gallery clearfix mb-80" data-isotope="{ &quot;masonry&quot;: { &quot;columnWidth&quot;: 0 } }">
 				<div class="grid-item grid-item--height2 photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/1.image.jpg">
-						<img src="assets/images/gallery/1.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="<?php echo BASE_URL; ?>assets/images/gallery/1.image.jpg">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/1.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>John Doe Wedding day</h3>
@@ -914,7 +914,7 @@
 				</div>
 				<div class="grid-item grid-item--width2 video-gallery " data-category="video-gallery">
 					<a class="popup-youtube" href="https://youtu.be/-haiaZ011OM">
-						<img src="assets/images/gallery/2.image.jpg" alt="Image_not_found">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/2.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Business Conference in Dubai</h3>
@@ -922,8 +922,8 @@
 					</div>
 				</div>
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/3.image.jpg">
-						<img src="assets/images/gallery/3.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="<?php echo BASE_URL; ?>assets/images/gallery/3.image.jpg">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/3.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Envato Author Fun Hiking</h3>
@@ -932,8 +932,8 @@
 				</div>
 
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/4.image.jpg">
-						<img src="assets/images/gallery/4.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="<?php echo BASE_URL; ?>assets/images/gallery/4.image.jpg">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/4.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>John Doe Wedding day</h3>
@@ -942,7 +942,7 @@
 				</div>
 				<div class="grid-item grid-item--width2 video-gallery " data-category="video-gallery">
 					<a class="popup-youtube" href="https://youtu.be/-haiaZ011OM">
-						<img src="assets/images/gallery/5.image.jpg" alt="Image_not_found">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/5.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>New Year Celebration</h3>
@@ -951,8 +951,8 @@
 				</div>
 
 				<div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/6.image.jpg">
-						<img src="assets/images/gallery/6.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="<?php echo BASE_URL; ?>assets/images/gallery/6.image.jpg">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/6.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>John Doe Wedding day</h3>
@@ -961,7 +961,7 @@
 				</div>
 				<div class="grid-item video-gallery " data-category="video-gallery">
 					<a class="popup-youtube" href="https://youtu.be/-haiaZ011OM">
-						<img src="assets/images/gallery/7.image.jpg" alt="Image_not_found">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/7.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>New Year Celebration</h3>
@@ -969,8 +969,8 @@
 					</div>
 				</div>
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/8.image.jpg">
-						<img src="assets/images/gallery/8.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="<?php echo BASE_URL; ?>assets/images/gallery/8.image.jpg">
+						<img src="<?php echo BASE_URL; ?>assets/images/gallery/8.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Envato Author Fun Hiking</h3>
@@ -1010,7 +1010,7 @@
 						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
-								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
@@ -1024,7 +1024,7 @@
 						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
-								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
@@ -1038,7 +1038,7 @@
 						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
-								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img3.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
@@ -1052,7 +1052,7 @@
 						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
-								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
@@ -1066,7 +1066,7 @@
 						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
-								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
@@ -1080,7 +1080,7 @@
 						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
-								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img3.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
@@ -1094,7 +1094,7 @@
 						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
-								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
@@ -1108,7 +1108,7 @@
 						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
-								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
@@ -1122,7 +1122,7 @@
 						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
-								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img3.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
@@ -1136,7 +1136,7 @@
 						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
-								<img src="assets/images/experties/img1.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img1.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
@@ -1150,7 +1150,7 @@
 						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
-								<img src="assets/images/experties/img2.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img2.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
@@ -1164,7 +1164,7 @@
 						<span class="expertise-title">RGB Advertising</span>
 						<div class="expertise-item">
 							<div class="image image-wrapper">
-								<img src="assets/images/experties/img3.jpg" alt="Image_not_found">
+								<img src="<?php echo BASE_URL; ?>assets/images/experties/img3.jpg" alt="Image_not_found">
 								<a href="#!" class="plus-effect"></a>
 							</div>
 							<div class="content">
@@ -1215,32 +1215,32 @@
 
 										<li>
 											<a href="#!">
-												<img src="assets/images/company/hnb.png" alt="Image_not_found">
+												<img src="<?php echo BASE_URL; ?>assets/images/company/hnb.png" alt="Image_not_found">
 											</a>
 										</li>
 										<li>
 											<a href="#!">
-												<img src="assets/images/company/cricket.jpg" alt="Image_not_found">
+												<img src="<?php echo BASE_URL; ?>assets/images/company/cricket.jpg" alt="Image_not_found">
 											</a>
 										</li>
 										<li>
 											<a href="#!">
-												<img src="assets/images/company/hnb.png" alt="Image_not_found">
+												<img src="<?php echo BASE_URL; ?>assets/images/company/hnb.png" alt="Image_not_found">
 											</a>
 										</li>
 										<li>
 											<a href="#!">
-												<img src="assets/images/company/hnb.png" alt="Image_not_found">
+												<img src="<?php echo BASE_URL; ?>assets/images/company/hnb.png" alt="Image_not_found">
 											</a>
 										</li>
 										<li>
 											<a href="#!">
-												<img src="assets/images/company/hemas.png" alt="Image_not_found">
+												<img src="<?php echo BASE_URL; ?>assets/images/company/hemas.png" alt="Image_not_found">
 											</a>
 										</li>
 										<li>
 											<a href="#!">
-												<img src="assets/images/company/hnb.png" alt="Image_not_found">
+												<img src="<?php echo BASE_URL; ?>assets/images/company/hnb.png" alt="Image_not_found">
 											</a>
 										</li>
 
@@ -1252,7 +1252,7 @@
 					</div>
 					
 					<div class="col-lg-6 col-md-12 col-sm-12">
-						<div class="clients-testimonial" style="background-image: url(assets/images/1.testimonial-bg.jpg);">
+						<div class="clients-testimonial" style="background-image: url(<?php echo BASE_URL; ?>assets/images/1.testimonial-bg.jpg);">
 							<div class="overlay-black">
 
 								<div class="section-title text-center mb-50">
@@ -1301,7 +1301,7 @@
 			</div>
 		</section>
 	
-		<section id="advertisement-section" class="advertisement-section clearfix" style="background-image: url(assets/images/special-offer-bg.jpg);">
+		<section id="advertisement-section" class="advertisement-section clearfix" style="background-image: url(<?php echo BASE_URL; ?>assets/images/special-offer-bg.jpg);">
 			<div class="container">
 				<div class="advertisement-content text-center">
 
@@ -1345,7 +1345,7 @@
 								<div id="collapseone" class="collapse" aria-labelledby="headingone" data-parent="#faq-accordion">
 									<div class="card-body">
 										<h3>answer</h3>
-										Bring people together, or turn your passion into a business. Harmoni gives you everything you need to host your best event yet. lorem ipsum diamet.
+										Bring people together, or turn your passion into a business. RGB gives you everything you need to host your best event yet. lorem ipsum diamet.
 									</div>
 								</div>
 							</div>
@@ -1359,7 +1359,7 @@
 								<div id="collapsetwo" class="collapse show" aria-labelledby="headingtwo" data-parent="#faq-accordion">
 									<div class="card-body">
 										<h3>answer</h3>
-										Bring people together, or turn your passion into a business. Harmoni gives you everything you need to host your best event yet. lorem ipsum diamet.
+										Bring people together, or turn your passion into a business. RGB gives you everything you need to host your best event yet. lorem ipsum diamet.
 									</div>
 								</div>
 							</div>
@@ -1373,7 +1373,7 @@
 								<div id="collapsethree" class="collapse" aria-labelledby="headingthree" data-parent="#faq-accordion">
 									<div class="card-body">
 										<h3>answer</h3>
-										Bring people together, or turn your passion into a business. Harmoni gives you everything you need to host your best event yet. lorem ipsum diamet.
+										Bring people together, or turn your passion into a business. RGB gives you everything you need to host your best event yet. lorem ipsum diamet.
 									</div>
 								</div>
 							</div>
@@ -1387,7 +1387,7 @@
 								<div id="collapsefour" class="collapse" aria-labelledby="headingfour" data-parent="#faq-accordion">
 									<div class="card-body">
 										<h3>answer</h3>
-										Bring people together, or turn your passion into a business. Harmoni gives you everything you need to host your best event yet. lorem ipsum diamet.
+										Bring people together, or turn your passion into a business. RGB gives you everything you need to host your best event yet. lorem ipsum diamet.
 									</div>
 								</div>
 							</div>
@@ -1406,7 +1406,7 @@
 
 							<div class="latest-blog clearfix">
 								<div class="blog-image">
-									<img src="assets/images/blog/1.latest-blog.jpg" alt="Image_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/blog/1.latest-blog.jpg" alt="Image_not_found">
 									<a href="#!" class="plus-effect"></a>
 								</div>
 								<div class="blog-content">
@@ -1415,14 +1415,14 @@
 										<span>26 June 2018</span>
 									</div>
 									<p class="m-0">
-										Harmoni gives you everything you need to host your best event yet. lorem ipsum diamet.
+										RGB gives you everything you need to host your best event yet. lorem ipsum diamet.
 									</p>
 								</div>
 							</div>
 
 							<div class="latest-blog clearfix">
 								<div class="blog-image">
-									<img src="assets/images/blog/1.latest-blog.jpg" alt="Image_not_found">
+									<img src="<?php echo BASE_URL; ?>assets/images/blog/1.latest-blog.jpg" alt="Image_not_found">
 									<a href="#!" class="plus-effect"></a>
 								</div>
 								<div class="blog-content">
@@ -1431,7 +1431,7 @@
 										<span>26 June 2018</span>
 									</div>
 									<p class="m-0">
-										Harmoni gives you everything you need to host your best event yet. lorem ipsum diamet.
+										RGB gives you everything you need to host your best event yet. lorem ipsum diamet.
 									</p>
 								</div>
 							</div>
