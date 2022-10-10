@@ -66,7 +66,7 @@ strong {
 
 a:hover {
   text-decoration: none;
-  color: #1272c1; }
+  color: #2574d5; }
 
 button:focus,
 select:focus {
@@ -327,16 +327,16 @@ textarea {
     -o-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out; }
   .custom-btn:before {
-    background: -webkit-gradient(linear, left top, right bottom, from(#ff666b), to(#ed1c24));
-    background: -webkit-linear-gradient(top left, #ed1c24, #ff666b);
-    background: -o-linear-gradient(top left, #ed1c24, #ff666b);
-    background: linear-gradient(to bottom right, #ed1c24, #ff666b); }
+    background: -webkit-gradient(linear, left top, right bottom, from(#f93800), to(#ed1c24));
+    background: -webkit-linear-gradient(top left, #ed1c24, #f93800);
+    background: -o-linear-gradient(top left, #ed1c24, #f93800);
+    background: linear-gradient(to bottom right, #ed1c24, #f93800); }
   .custom-btn:after {
     opacity: 0;
-    background: -webkit-gradient(linear, left top, right bottom, from(#ff666b), to(#ed1c24));
-    background: -webkit-linear-gradient(top left, #ff0000, #ed1c24);
-    background: -o-linear-gradient(top left, #ff0000, #ed1c24);
-    background: linear-gradient(to bottom right, #ff0000, #ed1c24); }
+    background: -webkit-gradient(linear, left top, right bottom, from(#f93800), to(#ed1c24));
+    background: -webkit-linear-gradient(top left, #f93800, #ed1c24);
+    background: -o-linear-gradient(top left, #f93800, #ed1c24);
+    background: linear-gradient(to bottom right, #f93800, #ed1c24); }
   .custom-btn:hover:before {
     opacity: 0; }
   .custom-btn:hover:after {
@@ -352,7 +352,7 @@ textarea {
     width: 70px;
     height: 3px;
     position: absolute;
-    background-color: #036117; }
+    background-color: #84b400; }
   .section-title .sub-title {
     margin-bottom: 15px;
     letter-spacing: 5px;
@@ -364,7 +364,7 @@ textarea {
     padding: 0px;
     font-size: 48px;
     font-weight: 400;
-    color: #1272c1; }
+    color: #2574d5; }
     .section-title .big-title strong {
       font-weight: 900; }
 
@@ -426,16 +426,16 @@ textarea {
       -o-transition: all 0.3s ease-in-out;
       transition: all 0.3s ease-in-out; }
     .backtotop .scroll:before {
-      background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-      background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-      background: -o-linear-gradient(top left, #1272c1, #015ba6);
-      background: linear-gradient(to bottom right, #1272c1, #015ba6); }
+      background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+      background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+      background: -o-linear-gradient(top left, #2574d5, #2574d5);
+      background: linear-gradient(to bottom right, #2574d5, #2574d5); }
     .backtotop .scroll:after {
       opacity: 0;
-      background: -webkit-gradient(linear, left top, right bottom, from(#015ba6), to(#1272c1));
-      background: -webkit-linear-gradient(top left, #015ba6, #1272c1);
-      background: -o-linear-gradient(top left, #015ba6, #1272c1);
-      background: linear-gradient(to bottom right, #015ba6, #1272c1); }
+      background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+      background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+      background: -o-linear-gradient(top left, #2574d5, #2574d5);
+      background: linear-gradient(to bottom right, #2574d5, #2574d5); }
     .backtotop .scroll:hover:before {
       opacity: 0; }
     .backtotop .scroll:hover:after {
@@ -448,10 +448,10 @@ textarea {
   bottom: 0;
   opacity: 0;
   position: absolute;
-  background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ca636));
-  background: -webkit-linear-gradient(top left, #1272c1, #015ca636);
-  background: -o-linear-gradient(top left, #1272c1, #015ca636);
-  background: linear-gradient(to bottom right, #1272c1, #015ca636); }
+  background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#015ca636));
+  background: -webkit-linear-gradient(top left, #2574d5, #015ca636);
+  background: -o-linear-gradient(top left, #2574d5, #015ca636);
+  background: linear-gradient(to bottom right, #2574d5, #015ca636); }
   .plus-effect:before, .plus-effect:after {
     top: 50%;
     left: 50%;
@@ -816,10 +816,10 @@ button {
               z-index: -1;
               border-radius: 3px;
               position: absolute;
-              background: -webkit-gradient(linear, left top, right bottom, from(#ed1c24), to(#ff666b));
-              background: -webkit-linear-gradient(top left, #ed1c24, #ff666b);
-              background: -o-linear-gradient(top left, #ed1c24, #ff666b);
-              background: linear-gradient(to bottom right, #ed1c24, #ff666b);
+              background: -webkit-gradient(linear, left top, right bottom, from(#ed1c24), to(#f93800));
+              background: -webkit-linear-gradient(top left, #ed1c24, #f93800);
+              background: -o-linear-gradient(top left, #ed1c24, #f93800);
+              background: linear-gradient(to bottom right, #ed1c24, #f93800);
               -webkit-transition: all 0.3s ease-in-out;
               -o-transition: all 0.3s ease-in-out;
               transition: all 0.3s ease-in-out; }
@@ -879,11 +879,11 @@ button {
             text-transform: capitalize;
             color: rgba(255, 255, 255, 0.5); }
           .sticky-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li .active {
-            color: #1272c1; }
+            color: #2574d5; }
           .sticky-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > li:hover > a {
-            color: #1272c1; }
+            color: #2574d5; }
         .sticky-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu > .active > a {
-          color: #1272c1; }
+          color: #2574d5; }
       .sticky-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children:hover .sub-menu {
         opacity: 1;
         visibility: visible; }
@@ -899,7 +899,7 @@ button {
           .sticky-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children > .sub-menu > .menu-item-has-children > .sub-menu > li {
             border-left: 1px solid rgba(255, 255, 255, 0.5); }
             .sticky-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children > .sub-menu > .menu-item-has-children > .sub-menu > li:hover a {
-              color: #1272c1; }
+              color: #2574d5; }
         .sticky-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children > .sub-menu > .menu-item-has-children:hover > .sub-menu {
           opacity: 1;
           visibility: visible; }
@@ -969,9 +969,9 @@ button {
             font-size: 16px;
             text-transform: uppercase; }
           .scrolltop-fixed-header-section .header-bottom .menu-item-list > ul > li:hover a {
-            color: #1272c1; }
+            color: #2574d5; }
         .scrolltop-fixed-header-section .header-bottom .menu-item-list > ul > .active a {
-          color: #1272c1; }
+          color: #2574d5; }
       .scrolltop-fixed-header-section .header-bottom .menu-item-list > ul > .menu-item-has-children .sub-menu {
         left: 50%;
         top: 34px;
@@ -1616,7 +1616,7 @@ button {
           color: greenyellow;
         }
         .default-footer-section .footer-top .basic-info .basic-info-item .info-content h3 a {
-          color: rgba(40, 40, 247, 0.808); }
+          color: rgb(92 92 217 / 81%); }
   .default-footer-section .footer-top .about-wrapper .social-links .social-title {
     font-weight: 700;
     margin-bottom: 15px;
@@ -1631,7 +1631,7 @@ button {
       color: #878787;
       font-size: 18px; }
       .default-footer-section .footer-top .about-wrapper .social-links ul li a:hover {
-        color: #1272c1; }
+        color: #2574d5; }
   .default-footer-section .footer-top .usefullinks-wrapper {
     padding: 0px 30px; }
     .default-footer-section .footer-top .usefullinks-wrapper ul li a {
@@ -1661,10 +1661,10 @@ button {
       border-bottom: none; }
     .default-footer-section .footer-top .usefullinks-wrapper ul li:hover a {
       padding-left: 40px;
-      color: #1272c1; }
+      color: #2574d5; }
       .default-footer-section .footer-top .usefullinks-wrapper ul li:hover a:before {
         left: 15px;
-        color: #1272c1; }
+        color: #2574d5; }
   .default-footer-section .footer-top .instagram-wrapper ul {
     width: 100%;
     margin: -5px;
@@ -1685,10 +1685,10 @@ button {
         position: absolute;
         color: #ffffff;
         font-size: 24px;
-        background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-        background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-        background: -o-linear-gradient(top left, #1272c1, #015ba6);
-        background: linear-gradient(to bottom right, #1272c1, #015ba6); }
+        background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+        background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+        background: -o-linear-gradient(top left, #2574d5, #2574d5);
+        background: linear-gradient(to bottom right, #2574d5, #2574d5); }
       .default-footer-section .footer-top .instagram-wrapper ul li:hover a {
         opacity: 1; }
   .default-footer-section .footer-top .instagram-wrapper .followus-link {
@@ -1890,7 +1890,7 @@ button {
         color: #878787;
         text-transform: capitalize; }
         .footer-bottom .footer-menu ul li a:hover {
-          color: #1272c1; }
+          color: #2574d5; }
 
 
 .map-section {
@@ -1905,10 +1905,10 @@ button {
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-    background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-    background: -o-linear-gradient(top left, #1272c1, #015ba6);
-    background: linear-gradient(to bottom right, #1272c1, #015ba6);
+    background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+    background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+    background: -o-linear-gradient(top left, #2574d5, #2574d5);
+    background: linear-gradient(to bottom right, #2574d5, #2574d5);
     -webkit-box-shadow: 0px 0px 30px 2px rgba(0, 0, 0, 0.2);
     box-shadow: 0px 0px 30px 2px rgba(0, 0, 0, 0.2); }
     .map-section .address-wrapper p {
@@ -2100,7 +2100,7 @@ button {
         color: #ffffff;
         text-transform: capitalize; }
         .breadcrumb-section .breadcrumb-list ul .breadcrumb-item .breadcrumb-link:hover {
-          color: #1272c1; }
+          color: #2574d5; }
 
 
 .sidebar-section .section-title .big-title {
@@ -2156,7 +2156,7 @@ button {
       padding: 10px 30px;
       border-radius: 3px;
       text-align: center;
-      color: #1272c1;
+      color: #2574d5;
       text-transform: capitalize;
       background-color: #ffffff; }
     .sidebar-section .location-wrapper .location-info-list ul {
@@ -2170,7 +2170,7 @@ button {
         .sidebar-section .location-wrapper .location-info-list ul li:last-child {
           margin-bottom: 0px; }
         .sidebar-section .location-wrapper .location-info-list ul li i {
-          color: #1272c1; }
+          color: #2574d5; }
   .sidebar-section .location-wrapper .button {
     padding: 30px;
     padding-top: 0px;
@@ -2239,18 +2239,18 @@ button {
         -ms-transform: translateY(-50%);
         transform: translateY(-50%); }
       .sidebar-section .faq-wrapper .faq-accordion .card .card-header .btn:not(.collapsed) {
-        color: #1272c1;
+        color: #2574d5;
         background-color: #ffffff;
         -webkit-box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.1);
         box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.1); }
         .sidebar-section .faq-wrapper .faq-accordion .card .card-header .btn:not(.collapsed):after {
           content: '\f0ab';
-          color: #1272c1; }
+          color: #2574d5; }
       .sidebar-section .faq-wrapper .faq-accordion .card .card-header .btn:hover {
-        color: #015ba6;
+        color: #2574d5;
         text-decoration: none; }
         .sidebar-section .faq-wrapper .faq-accordion .card .card-header .btn:hover:after {
-          color: #015ba6; }
+          color: #2574d5; }
   .sidebar-section .faq-wrapper .faq-accordion .card .card-body {
     padding: 20px; }
 
@@ -2347,7 +2347,7 @@ button {
       -webkit-transition: all 0.3s ease-in-out;
       -o-transition: all 0.3s ease-in-out;
       transition: all 0.3s ease-in-out;
-      background-color: #1272c1; }
+      background-color: #2574d5; }
   .slide-section .owl-theme .owl-dots .owl-dot.active {
     font-size: 30px; }
     .slide-section .owl-theme .owl-dots .owl-dot.active:after {
@@ -2617,7 +2617,7 @@ button {
   margin-top: 50px; }
   .testimonial5-section .owl-theme .owl-dots .owl-dot.active span,
   .testimonial5-section .owl-theme .owl-dots .owl-dot:hover span {
-    background: #1272c1; }
+    background: #2574d5; }
 
 .default-sponsor-section {
   padding: 80px 0px; }
@@ -2750,10 +2750,10 @@ button {
       min-width: 70px;
       text-align: center;
       position: absolute;
-      background: -webkit-gradient(linear, left top, right bottom, from(#ed1c24), to(#ff666b));
-      background: -webkit-linear-gradient(top left, #ed1c24, #ff666b);
-      background: -o-linear-gradient(top left, #ed1c24, #ff666b);
-      background: linear-gradient(to bottom right, #ed1c24, #ff666b); }
+      background: -webkit-gradient(linear, left top, right bottom, from(#ed1c24), to(#f93800));
+      background: -webkit-linear-gradient(top left, #ed1c24, #f93800);
+      background: -o-linear-gradient(top left, #ed1c24, #f93800);
+      background: linear-gradient(to bottom right, #ed1c24, #f93800); }
       .upcomming-event-section .upcomming-event-carousel .item .event-item .event-image .post-date .date,
       .upcomming-event-section .upcomming-event-carousel .item .event-item .event-image .post-date .month {
         display: block;
@@ -2911,10 +2911,10 @@ button {
             content: '';
             z-index: -1;
             position: absolute;
-            background: -webkit-gradient(linear, left top, right bottom, from(#1272c1 ), to(#015ba6));
-            background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-            background: -o-linear-gradient(top left, #1272c1, #015ba6);
-            background: linear-gradient(to bottom right, #1272c1, #015ba6);
+            background: -webkit-gradient(linear, left top, right bottom, from(#2574d5 ), to(#2574d5));
+            background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+            background: -o-linear-gradient(top left, #2574d5, #2574d5);
+            background: linear-gradient(to bottom right, #2574d5, #2574d5);
             -webkit-transition: all 0.3s ease-in-out;
             -o-transition: all 0.3s ease-in-out;
             transition: all 0.3s ease-in-out; }
@@ -2923,10 +2923,10 @@ button {
             margin: 0 auto 30px; }
             .about-section .about-item-wrapper ul li .about-item .icon i {
               font-size: 48px;
-              background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-              background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-              background: -o-linear-gradient(top left, #1272c1, #015ba6);
-              background: linear-gradient(to bottom right, #1272c1, #015ba6);
+              background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+              background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+              background: -o-linear-gradient(top left, #2574d5, #2574d5);
+              background: linear-gradient(to bottom right, #2574d5, #2574d5);
               -webkit-transition: all 0.3s ease-in-out;
               -o-transition: all 0.3s ease-in-out;
               transition: all 0.3s ease-in-out;
@@ -3456,10 +3456,10 @@ button {
         left: 0px;
         right: 0px;
         bottom: 0px;
-        background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-        background: -webkit-linear-gradient(#1272c1, rgb(2,0,36));
-        background: -o-linear-gradient(#1272c1, rgb(2,0,36));
-        background: linear-gradient(#1272c1, rgb(2,0,36)); }
+        background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+        background: -webkit-linear-gradient(#2574d5, rgb(2,0,36));
+        background: -o-linear-gradient(#2574d5, rgb(2,0,36));
+        background: linear-gradient(#2574d5, rgb(2,0,36)); }
       .event-gallery-section .grid-item a:after {
         top: 50%;
         left: 50%;
@@ -3560,7 +3560,7 @@ button {
         margin: 0;
         font-size: 14px; }
   .event-expertise-section .event-expertise-carousel .item:hover .expertise-title {
-    color: #1272c1; }
+    color: #2574d5; }
   .event-expertise-section .event-expertise-carousel .item:hover .image img {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
@@ -3688,10 +3688,10 @@ button {
           z-index: -1;
           content: '';
           position: absolute;
-          background: -webkit-gradient(linear, left top, right bottom, from(#ed1c24), to(#ff666b));
-          background: -webkit-linear-gradient(top left, #ed1c24, #ff666b);
-          background: -o-linear-gradient(top left, #ed1c24, #ff666b);
-          background: linear-gradient(to bottom right, #ed1c24, #ff666b);
+          background: -webkit-gradient(linear, left top, right bottom, from(#ed1c24), to(#f93800));
+          background: -webkit-linear-gradient(top left, #ed1c24, #f93800);
+          background: -o-linear-gradient(top left, #ed1c24, #f93800);
+          background: linear-gradient(to bottom right, #ed1c24, #f93800);
           -webkit-transition: all 0.3s ease-in-out;
           -o-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
@@ -3908,10 +3908,10 @@ button {
           z-index: -1;
           content: '';
           position: absolute;
-          /* background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#ffffff));
-          background: -webkit-linear-gradient(top left, #1272c1, #ffffff);
-          background: -o-linear-gradient(top left, #1272c1, #ffffff);
-          background: linear-gradient(to bottom right, #1272c1, #ffffff); */
+          /* background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#ffffff));
+          background: -webkit-linear-gradient(top left, #2574d5, #ffffff);
+          background: -o-linear-gradient(top left, #2574d5, #ffffff);
+          background: linear-gradient(to bottom right, #2574d5, #ffffff); */
           -webkit-transition: all 0.3s ease-in-out;
           -o-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out; }
@@ -4004,20 +4004,20 @@ button {
           font-family: 'Font Awesome 5 Free'; }
         .news-update-section .faq-accordion .card .card-header .btn:not(.collapsed) {
           background-color: #f7f7f7;
-          border-left: 3px solid #1272c1;
+          border-left: 3px solid #2574d5;
           border-bottom: 1px solid #ffffff; }
           .news-update-section .faq-accordion .card .card-header .btn:not(.collapsed):after {
             content: '\f0ab';
-            color: #1272c1; }
+            color: #2574d5; }
     .news-update-section .faq-accordion .card .card-body {
       padding: 30px;
       color: #333333;
       background-color: #f7f7f7;
-      border-left: 3px solid #1272c1; }
+      border-left: 3px solid #2574d5; }
       .news-update-section .faq-accordion .card .card-body > h3 {
         font-weight: 700;
         margin-bottom: 15px;
-        color: #1272c1;
+        color: #2574d5;
         font-size: 18px; }
 .big-title-te{
   color: white;
@@ -4040,7 +4040,7 @@ button {
       font-size: 18px; }
     .news-update-section .latest-blog-wrapper .latest-blog .blog-content .blog-title span {
       font-weight: 700;
-      color: #1272c1; }
+      color: #2574d5; }
   .news-update-section .latest-blog-wrapper .latest-blog:hover .plus-effect {
     opacity: 1; }
 
@@ -4196,7 +4196,7 @@ button {
       margin: 0px;
       font-size: 14px; }
   .event-expertise-section2 .expertise-item:hover {
-    border-color: #1272c1;
+    border-color: #2574d5;
     background-color: #ffffff;
     -webkit-box-shadow: 0 3px 20px 2px rgba(0, 0, 0, 0.1);
     box-shadow: 0 3px 20px 2px rgba(0, 0, 0, 0.1); }
@@ -4207,7 +4207,7 @@ button {
     .event-expertise-section2 .expertise-item:hover .expertise-image .plus-effect {
       opacity: 1; }
     .event-expertise-section2 .expertise-item:hover .expertise-content .link-btn {
-      color: #1272c1; }
+      color: #2574d5; }
 
 .event-section .tab-content .event-item2 {
   margin-bottom: 30px;
@@ -4229,10 +4229,10 @@ button {
       text-align: center;
       position: absolute;
       color: #ffffff;
-      background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-      background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-      background: -o-linear-gradient(top left, #1272c1, #015ba6);
-      background: linear-gradient(to bottom right, #1272c1, #015ba6); }
+      background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+      background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+      background: -o-linear-gradient(top left, #2574d5, #2574d5);
+      background: linear-gradient(to bottom right, #2574d5, #2574d5); }
       .event-section .tab-content .event-item2 .event-image .post-date .date {
         font-weight: 900;
         font-size: 24px;
@@ -4252,11 +4252,11 @@ button {
         content: '';
         height: 100%;
         position: absolute;
-        background-color: #015ba6; }
+        background-color: #2574d5; }
       .event-section .tab-content .event-item2 .event-content .event-title .title {
         margin: 0px;
         font-weight: 900;
-        color: #1272c1;
+        color: #2574d5;
         font-size: 24px; }
     .event-section .tab-content .event-item2 .event-content .event-post-meta ul li {
       margin-bottom: 5px;
@@ -4292,10 +4292,10 @@ button {
         content: '';
         position: absolute;
         border-radius: 30px;
-        background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-        background: -webkit-linear-gradient(top left,#1272c1, #015ba6);
-        background: -o-linear-gradient(top left, #1272c1, #015ba6);
-        background: linear-gradient(to bottom right, #1272c1, #015ba6);
+        background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+        background: -webkit-linear-gradient(top left,#2574d5, #2574d5);
+        background: -o-linear-gradient(top left, #2574d5, #2574d5);
+        background: linear-gradient(to bottom right, #2574d5, #2574d5);
         -webkit-transition: all 0.3s ease-in-out;
         -o-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
@@ -4305,7 +4305,7 @@ button {
         .event-section .tab-content .event-item2 .event-content .tickets-details-btn:hover:before {
           opacity: 1; }
   .event-section .tab-content .event-item2:hover {
-    border-color: #1272c1; }
+    border-color: #2574d5; }
 
 .event-section .tab-content .pagination ul {
   margin: 50px auto 0px; }
@@ -4343,10 +4343,10 @@ button {
     .homepage3 .testimonial5-section .item .quote-icon i {
       font-size: 48px;
       line-height: 66px;
-      background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-      background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-      background: -o-linear-gradient(top left, #1272c1, #015ba6);
-      background: linear-gradient(to bottom right, #1272c1, #015ba6);
+      background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+      background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+      background: -o-linear-gradient(top left, #2574d5, #2574d5);
+      background: linear-gradient(to bottom right, #2574d5, #2574d5);
       -webkit-transition: all 0.3s ease-in-out;
       -o-transition: all 0.3s ease-in-out;
       transition: all 0.3s ease-in-out;
@@ -4601,10 +4601,10 @@ button {
         z-index: -1;
         content: '';
         position: absolute;
-        background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-        background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-        background: -o-linear-gradient(top left, #1272c1, #015ba6);
-        background: linear-gradient(to bottom right, #1272c1, #015ba6);
+        background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+        background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+        background: -o-linear-gradient(top left, #2574d5, #2574d5);
+        background: linear-gradient(to bottom right, #2574d5, #2574d5);
         -webkit-transition: all 0.3s ease-in-out;
         -o-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
@@ -4627,10 +4627,10 @@ button {
         .about-section2 .services-list ul li a .icon i {
           font-size: 48px;
           line-height: 66px;
-          background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-          background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-          background: -o-linear-gradient(top left, #1272c1, #015ba6);
-          background: linear-gradient(to bottom right, #1272c1, #015ba6);
+          background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+          background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+          background: -o-linear-gradient(top left, #2574d5, #2574d5);
+          background: linear-gradient(to bottom right, #2574d5, #2574d5);
           -webkit-transition: all 0.3s ease-in-out;
           -o-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out;
@@ -5072,15 +5072,15 @@ button {
       -o-transition: all 0.3s ease-in-out;
       transition: all 0.3s ease-in-out; }
     .our-management-section .owl-theme .owl-dots button:hover span {
-      background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-      background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-      background: -o-linear-gradient(top left, #1272c1, #015ba6);
-      background: linear-gradient(to bottom right, #1272c1, #015ba6); }
+      background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+      background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+      background: -o-linear-gradient(top left, #2574d5, #2574d5);
+      background: linear-gradient(to bottom right, #2574d5, #2574d5); }
   .our-management-section .owl-theme .owl-dots .active span {
-    background: -webkit-gradient(linear, left top, right bottom, from(#015ba6), to(#1272c1));
-    background: -webkit-linear-gradient(top left, #015ba6, #1272c1);
-    background: -o-linear-gradient(top left, #015ba6, #1272c1);
-    background: linear-gradient(to bottom right, #015ba6, #1272c1); }
+    background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+    background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+    background: -o-linear-gradient(top left, #2574d5, #2574d5);
+    background: linear-gradient(to bottom right, #2574d5, #2574d5); }
 
 .upcomming-event-section3 .section-title {
   padding: 0px 120px; }
@@ -5356,7 +5356,7 @@ button {
       width: 50px;
       content: '';
       position: absolute;
-      background-color: #1272c1; }
+      background-color: #2574d5; }
 
 .award-section .company-age {
   height: 620px;
@@ -5415,7 +5415,7 @@ button {
           padding-left: 10px;
           position: absolute;
           padding-bottom: 10px;
-          color: #1272c1;
+          color: #2574d5;
           font-size: 16px;
           text-transform: uppercase; }
           .award-section .awaed-item-area .awaed-wrapper .awaed-item .awaed-content .awaed-title .awaed-date:before {
@@ -5427,7 +5427,7 @@ button {
             height: 10px;
             position: absolute;
             border-radius: 100%;
-            background-color: #1272c1 ; }
+            background-color: #2574d5 ; }
           .award-section .awaed-item-area .awaed-wrapper .awaed-item .awaed-content .awaed-title .awaed-date:after {
             left: 0;
             right: 0;
@@ -5477,10 +5477,10 @@ button {
         transition: all 0.3s ease-in-out; }
         .service-section .service-wrapper > ul > li a .icon i {
           font-size: 54px;
-          background: -webkit-gradient(linear, left top, right bottom, from(#1272c1 ), to(#015ba6));
-          background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-          background: -o-linear-gradient(top left, #1272c1, #015ba6);
-          background: linear-gradient(to bottom right, #1272c1, #015ba6);
+          background: -webkit-gradient(linear, left top, right bottom, from(#2574d5 ), to(#2574d5));
+          background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+          background: -o-linear-gradient(top left, #2574d5, #2574d5);
+          background: linear-gradient(to bottom right, #2574d5, #2574d5);
           -webkit-transition: all 0.3s ease-in-out;
           -o-transition: all 0.3s ease-in-out;
           transition: all 0.3s ease-in-out;
@@ -5507,10 +5507,10 @@ button {
         z-index: -1;
         content: '';
         position: absolute;
-        background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-        background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-        background: -o-linear-gradient(top left, #1272c1, #015ba6);
-        background: linear-gradient(to bottom right, #1272c1, #015ba6);
+        background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+        background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+        background: -o-linear-gradient(top left, #2574d5, #2574d5);
+        background: linear-gradient(to bottom right, #2574d5, #2574d5);
         -webkit-transition: all 0.3s ease-in-out;
         -o-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
@@ -5664,10 +5664,10 @@ button {
       text-align: center;
       position: absolute;
       color: #ffffff;
-      background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-      background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-      background: -o-linear-gradient(top left, #1272c1, #015ba6);
-      background: linear-gradient(to bottom right, #1272c1, #015ba6); }
+      background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+      background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+      background: -o-linear-gradient(top left, #2574d5, #2574d5);
+      background: linear-gradient(to bottom right, #2574d5, #2574d5); }
       .event-section .event-list-item .event-image .post-date .date {
         font-weight: 900;
         font-size: 24px;
@@ -5688,7 +5688,7 @@ button {
         content: '';
         height: 100%;
         position: absolute;
-        background-color: #1272c1; }
+        background-color: #2574d5; }
       .event-section .event-list-item .event-content .event-title .title {
         margin: 0px;
         font-weight: 400;
@@ -5739,10 +5739,10 @@ button {
         content: '';
         position: absolute;
         border-radius: 30px;
-        background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-        background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-        background: -o-linear-gradient(top left, #1272c1, #015ba6);
-        background: linear-gradient(to bottom right, #1272c1, #015ba6);
+        background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+        background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+        background: -o-linear-gradient(top left, #2574d5, #2574d5);
+        background: linear-gradient(to bottom right, #2574d5, #2574d5);
         -webkit-transition: all 0.3s ease-in-out;
         -o-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out; }
@@ -5752,7 +5752,7 @@ button {
         .event-section .event-list-item .event-content .tickets-details-btn:hover:before {
           opacity: 1; }
   .event-section .event-list-item:hover {
-    border-color: #015ba6; }
+    border-color: #2574d5; }
 
 .event-section .event-grid-item {
   margin-bottom: 30px;
@@ -5775,10 +5775,10 @@ button {
       text-align: center;
       position: absolute;
       color: #ffffff;
-      background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-      background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-      background: -o-linear-gradient(top left, #1272c1, #015ba6);
-      background: linear-gradient(to bottom right, #1272c1, #015ba6); }
+      background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+      background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+      background: -o-linear-gradient(top left, #2574d5, #2574d5);
+      background: linear-gradient(to bottom right, #2574d5, #2574d5); }
       .event-section .event-grid-item .event-image .post-date .date {
         font-weight: 900;
         font-size: 24px;
@@ -5799,7 +5799,7 @@ button {
         content: '';
         height: 100%;
         position: absolute;
-        background-color: #1272c1; }
+        background-color: #2574d5; }
       .event-section .event-grid-item .event-content .event-title .title {
         font-weight: 700;
         font-size: 24px; }
@@ -5839,10 +5839,10 @@ button {
       content: '';
       position: absolute;
       border-radius: 30px;
-      background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-      background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-      background: -o-linear-gradient(top left, #1272c1, #015ba6);
-      background: linear-gradient(to bottom right, #1272c1, #015ba6);
+      background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+      background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+      background: -o-linear-gradient(top left, #2574d5, #2574d5);
+      background: linear-gradient(to bottom right, #2574d5, #2574d5);
       -webkit-transition: all 0.3s ease-in-out;
       -o-transition: all 0.3s ease-in-out;
       transition: all 0.3s ease-in-out; }
@@ -5870,7 +5870,7 @@ button {
   .event-details-section .event-details .event-title .tag-item i {
     margin-right: 5px;
     margin-bottom: 5px;
-    color: #1272c1; }
+    color: #2574d5; }
 
 .event-details-section .event-details .event-title .event-title {
   margin: 0px;
@@ -5950,7 +5950,7 @@ button {
       border-radius: 100%;
       color: #ffffff;
       font-size: 18px;
-      background-color: #1272c1; }
+      background-color: #2574d5; }
     .event-details-section .event-details .event-info-list ul li .event-content {
       display: table;
       padding-left: 15px; }
@@ -6286,7 +6286,7 @@ button {
       color: #878787;
       font-size: 14px; }
     .event-details-section .reviewer-comment-wrapper .comment-bar .comment-content .admin-name .rateing-star ul .rated {
-      color: #1272c1; }
+      color: #2574d5; }
     .event-details-section .reviewer-comment-wrapper .comment-bar .comment-content .admin-name .name a {
       font-weight: 700;
       color: #333333;
@@ -6323,7 +6323,7 @@ button {
             line-height: 40px;
             color: #878787; }
             .event-details-section .reviewer-comment-wrapper .comment-bar .comment-content .meta-wrapper .btn-group-left ul li button:hover {
-              color: #1272c1; }
+              color: #2574d5; }
     .event-details-section .reviewer-comment-wrapper .comment-bar .comment-content .meta-wrapper .btn-group-right ul {
       margin: 0px;
       padding: 0px;
@@ -6347,8 +6347,8 @@ button {
           color: #878787;
           border: 1px solid #878787; }
           .event-details-section .reviewer-comment-wrapper .comment-bar .comment-content .meta-wrapper .btn-group-right ul li button:hover {
-            color: #1272c1;
-            border-color: #1272c1; }
+            color: #2574d5;
+            border-color: #2574d5; }
 
 .event-details-section .pagination {
   display: block; }
@@ -6431,7 +6431,7 @@ button {
           font-weight: 900; }
       .service-section .service-wrapper .service-item .service-content .service-title .service-price {
         font-weight: 900;
-        color: #1272c1; }
+        color: #2574d5; }
     .service-section .service-wrapper .service-item .service-content .service-type-list ul {
       width: 100%;
       margin: 0px;
@@ -6515,7 +6515,7 @@ button {
 
 .blog-section .tag {
   font-weight: 600;
-  color:#1272c1;
+  color:#2574d5;
   font-size: 14px;
   text-transform: capitalize; }
 
@@ -6546,10 +6546,10 @@ button {
     content: '';
     position: absolute;
     border-radius: 3px;
-    background: -webkit-gradient(linear, left top, right bottom, from(#1272c1), to(#015ba6));
-    background: -webkit-linear-gradient(top left, #1272c1, #015ba6);
-    background: -o-linear-gradient(top left, #1272c1, #015ba6);
-    background: linear-gradient(to bottom right, #1272c1, #015ba6);
+    background: -webkit-gradient(linear, left top, right bottom, from(#2574d5), to(#2574d5));
+    background: -webkit-linear-gradient(top left, #2574d5, #2574d5);
+    background: -o-linear-gradient(top left, #2574d5, #2574d5);
+    background: linear-gradient(to bottom right, #2574d5, #2574d5);
     -webkit-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out; }
@@ -6582,7 +6582,7 @@ button {
     .blog-section .blog-grid-item .blog-content .tickets-details-btn {
       background: #ffffff; }
   .blog-section .blog-grid-item:hover {
-    border-color:#1272c1; }
+    border-color:#2574d5; }
     .blog-section .blog-grid-item:hover .plus-effect {
       opacity: 1; }
 
