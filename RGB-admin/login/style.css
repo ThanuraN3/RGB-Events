@@ -11,8 +11,7 @@ body {
 
 
 .form-wrapper {
-width:300px;
-height:370px;
+
   position: absolute;
   top: 50%;
   left: 48%;
@@ -40,8 +39,37 @@ width:100%;
 	border: 1px solid #cbcbcb;
 }
 form{
-	width: 50%;
 	margin: 20px auto;
+}
+.thead-light{
+  background-color: #00b6df;
+}
+#home-wrapper{
+    width:900px;
+    height:550px;
+      position: absolute;
+      top: 40%;
+      left: 30%;
+      margin: -184px 0px 0px -155px;
+      background: #141414ab;
+      padding: 50px 75px;
+      border-radius: 5px;
+      box-shadow: 0px 1px 0px rgba(0,0,0,0.6),inset 0px 1px 0px rgba(255,255,255,0.04);
+   
+}
+.form-label{
+  color: #fff;
+}
+#bloglist-button{
+  float: right;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-decoration: none;
+  color: #fff !important;
+}
+.home-h3{
+  color: #ffffff;
+  font-weight: 600;
 }
 
 #display-image{
@@ -146,8 +174,8 @@ input[type='text']{
 }
 .sidebar{
   position: fixed;
+  text-decoration: none;
   width: 240px;
-  left: -240px;
   height: 100%;
   background: #1e1e1e;
   transition: all .5s ease;
@@ -184,11 +212,15 @@ a.active,a:hover{
   margin-right: 16px;
 }
 .sidebar a span{
+  text-decoration: none;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
 #check{
   display: none;
+}
+.table{
+  background-color: #cbcbcb;
 }
 label #btn,label #cancel{
   position: absolute;
@@ -220,7 +252,7 @@ label #cancel{
 #check:checked ~ label #cancel{
   margin-left: 245px;
   opacity: 1;
-  visibility: visible;
+  /* visibility: visible; */
 }
 @media(max-width : 860px){
   .sidebar{
@@ -250,7 +282,9 @@ label #cancel{
   }
   .sidebar a:hover span{
     opacity: 1;
-    visibility: visible;
+    /* visibility: visible; */
   }
 }
-/* Don't Forget to Subscribe our Channel[CodingNepal] */
+.form-wrapper a.active,a:hover{
+    border: none;
+}

@@ -18,48 +18,11 @@ $row=mysqli_fetch_array($result);
 </head>
 <body>
 
-<div class="form-wrapper" id="home-wrapper"> 
-    <h3 class="home-h3">Blog List</h3>
-          <table class="table">
-            <thead class="thead-light">
-              <tr>
-                <th scope="col">#</th>
-                <th scope="col">Title</th>
-                <th scope="col">Paragraph</th>
-                <th scope="col">image</th>
-                <th scope="col">Action</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <th scope="row">1</th>
-                <td>Mark</td>
-                <td>Otto</td>
-                <td>@mdo</td>
-                <td><button type="button" class="btn btn-success">Edit</button>
-                    <button type="button" class="btn btn-danger">Delete</button></td>
-              </tr>
-              <tr>
-                <th scope="row">2</th>
-                <td>Jacob</td>
-                <td>Thornton</td>
-                <td>@fat</td>
-                <td><button type="button" class="btn btn-success">Edit</button>
-                    <button type="button" class="btn btn-danger">Delete</button></td>
-              </tr>
-              <tr>
-                <th scope="row">3</th>
-                <td>Larry</td>
-                <td>the Bird</td>
-                <td>@twitter</td>
-                <td><button type="button" class="btn btn-success">Edit</button>
-                    <button type="button" class="btn btn-danger">Delete</button></td>
-              </tr>
-            </tbody>
-          </table>
-<br>
-<br>
-          <h3 class="home-h3">Gallary List</h3>
+<div class="form-wrapper" id="home-wrapper">
+    <a href="gallary.php">
+        <button type="button" class="btn btn-danger" id="bloglist-button">Back</button>
+    </a> 
+    <h3 class="home-h3">Gallary List</h3>
           <table class="table">
             <thead class="thead-light">
               <tr>

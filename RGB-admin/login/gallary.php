@@ -19,18 +19,14 @@ $row=mysqli_fetch_array($result);
 <body>
 
 <div class="form-wrapper" id="home-wrapper"> 
-    <a href="bloglist.php">
-        <button type="button" class="btn btn-success" id="bloglist-button">Blog List</button>
+    <a href="imagelist.php">
+        <button type="button" class="btn btn-success" id="bloglist-button">Image List</button>
     </a>
-    <h3 class="home-h3">ADD BLOG</h3>
-    <br>
+    <h3 class="home-h3">Add Image</h3>
+<br>
           <div class="mb-3">
-              <label for="email" class="form-label" id="form-label">Add Title</label>
+              <label for="email" class="form-label" id="form-label">Add Image Title</label>
               <input type="email" class="form-control" id="email">
-          </div>
-          <div class="mb-3">
-              <label for="Reasonforinquiry" class="form-label" id="form-label">Add Paragraph</label>
-              <textarea class="form-control" id="Reason-for-inquiry-discrip" rows="4"></textarea>
           </div>
           <label for="Reasonforinquiry" class="form-label" id="form-label">Add Image</label>
           <div class="input-group mb-3">
@@ -39,9 +35,6 @@ $row=mysqli_fetch_array($result);
           </div>
           <input class="btn btn-primary" type="submit" value="Add Blog">
           <button type="button" class="btn btn-danger">Clear</button>
-
-          <br>
-          <br>
     </div>
     
     
