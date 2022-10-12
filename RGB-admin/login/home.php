@@ -2,8 +2,12 @@
 include('dbcon.php');
 include('session.php'); 
 include('slidebar.php');
-$result=mysqli_query($con, "select * from users where user_id='$session_id'")or die('Error In Session');
-$row=mysqli_fetch_array($result);
+
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "login";
+
 ?>
 
 <html>
@@ -17,20 +21,42 @@ $row=mysqli_fetch_array($result);
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
 </head>
 <body>
+<?php
+    if (isset($_POST['submit'])){
+        if(!empty($_POST['add-title']) && !empty($_POST['add-content'])){
+            $blog_title = $_POST['add-title'];
+            $blog_content = $_POST['add-content'];
 
+            $query = "INSERT INTO blog (blog_title, blog_content) VALUES('$blog_title','$blog_content')";
+            $run = mysqli_query($conn, $query) or die(mysqli_error());
+
+            if ($run) {
+                echo "Blog is Posted";
+            }
+            else {
+                echo "Blog is not Posted";
+            }
+
+        }
+        else{
+            echo "All fields are required";
+        }
+    }
+?>
 <div class="form-wrapper" id="home-wrapper"> 
     <a href="bloglist.php">
         <button type="button" class="btn btn-success" id="bloglist-button">Blog List</button>
     </a>
     <h3 class="home-h3">ADD BLOG</h3>
     <br>
+    <from action="#" method="post">
           <div class="mb-3">
-              <label for="email" class="form-label" id="form-label">Add Title</label>
-              <input type="email" class="form-control" id="email">
+              <label for="email" class="form-label" id="form-label" >Add Title</label>
+              <input type="email" class="form-control" id="add-title">
           </div>
           <div class="mb-3">
-              <label for="Reasonforinquiry" class="form-label" id="form-label">Add Paragraph</label>
-              <textarea class="form-control" id="Reason-for-inquiry-discrip" rows="4"></textarea>
+              <label for="Reasonforinquiry" class="form-label" id="form-label">Add Content</label>
+              <textarea class="form-control" id="add-content" rows="4"></textarea>
           </div>
           <label for="Reasonforinquiry" class="form-label" id="form-label">Add Image</label>
           <div class="input-group mb-3">
@@ -42,6 +68,8 @@ $row=mysqli_fetch_array($result);
 
           <br>
           <br>
+
+    </form>      
     </div>
 </div>
 </body>
