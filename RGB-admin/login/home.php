@@ -43,10 +43,6 @@ $row=mysqli_fetch_array($result);
           <br>
           <br>
     </div>
-    
-    
-   
-
 </div>
 </body>
 </html>

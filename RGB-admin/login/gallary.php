@@ -22,7 +22,7 @@ $row=mysqli_fetch_array($result);
     <a href="imagelist.php">
         <button type="button" class="btn btn-success" id="bloglist-button">Image List</button>
     </a>
-    <h3 class="home-h3">Add Image</h3>
+    <h3 class="home-h3">ADD IMAGE</h3>
 <br>
           <div class="mb-3">
               <label for="email" class="form-label" id="form-label">Add Image Title</label>
@@ -36,10 +36,6 @@ $row=mysqli_fetch_array($result);
           <input class="btn btn-primary" type="submit" value="Add Blog">
           <button type="button" class="btn btn-danger">Clear</button>
     </div>
-    
-    
-   
-
 </div>
 </body>
 </html>

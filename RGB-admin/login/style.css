@@ -41,6 +41,14 @@ width:100%;
 form{
 	margin: 20px auto;
 }
+.recover-mail-up{
+  color: #ffffff;
+  font-size: 25px;
+}
+.recover-mail{
+  color: #ffde22;
+  font-size: large;
+}
 .thead-light{
   background-color: #00b6df;
 }

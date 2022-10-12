@@ -15,26 +15,16 @@
   <form action="#" method="post">
     <h1 class="home-h3">Change Password</h1>
 
-    <div class="form-item">
-		<input type="password" name="pass" required="required" placeholder="Old Password" required></input>
-    </div> 
-    
-    <div class="form-item">
-		<input type="password" name="pass" required="required" placeholder="New Password" required></input>
+    <div class="mb-3">
+        <label for="email" class="form-label" id="form-label">Enter Your Valid Email</label>
+        <input type="email" class="form-control" id="email">
     </div>
-    
-    <div class="form-item">
-		<input type="password" name="pass" required="required" placeholder="Retype Password" required></input>
-    </div>
-    
-    <div class="button-panel">
-		<input type="submit" class="button" title="Log In" name="login" value="Submit"></input>
-    </div>
+    <input class="btn btn-primary" type="submit" value="Submit">
   </form>
   
   <div class="reminder">
     <!-- <p>Not a member? <a href="#">Sign up now</a></p> -->
-    <p><a href="index.php">Back</a></p>
+    <button type="button" class="btn btn-success"><a href="index.php">Back</a></button>
   </div>
   
 </div>
