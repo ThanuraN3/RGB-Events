@@ -27,18 +27,18 @@ include('slidebar.php');
     // $connection = new mysql($localhost, $username, $password, $dbname);
 
     if (isset($_POST['submit'])){
-        if(!empty($_POST['add-title']) && !empty($_POST['add-content'])){
-            $blog_title = $_POST['add-title'];
-            $blog_content = $_POST['add-content'];
+        if(!empty($_POST['ad-title']) && !empty($_POST['ad-content'])){
+            $ad_title = $_POST['add-title'];
+            $ad_content = $_POST['ad-content'];
 
-            $query = "INSERT INTO blog (blog_title, blog_content) VALUES('$blog_title','$blog_content')";
-            $run = mysqli_query($conn, $query) or die(mysqli_error());
+            $query = "INSERT INTO ad (ad_title,ad_content) VALUES('$ad_title','$ad_content')";
+            $run = mysqli_query($con, $query) or die(mysqli_error());
 
             if ($run) {
-                echo "Blog is Posted";
+                echo "Advertisements are Post Sucsessfully";
             }
             else {
-                echo "Blog is not Posted";
+                echo "Advertisements are not Posted";
             }
 
         }
@@ -56,11 +56,11 @@ include('slidebar.php');
     <from action="#" method="post">
           <div class="mb-3">
               <label for="email" class="form-label" id="form-label" >Add Advertisement Title</label>
-              <input type="email" class="form-control" id="add--ad-title">
+              <input type="email" class="form-control" id="ad-title">
           </div>
           <div class="mb-3">
               <label for="Reasonforinquiry" class="form-label" id="form-label">Add Advertisement Content</label>
-              <textarea class="form-control" id="add-content" rows="4"></textarea>
+              <textarea class="form-control" id="ad-content" rows="4"></textarea>
           </div>
           <label for="Reasonforinquiry" class="form-label" id="form-label">Add Image</label>
           <div class="input-group mb-3">
@@ -68,7 +68,7 @@ include('slidebar.php');
             <label class="input-group-text" for="inputGroupFile02">Upload</label>
           </div>
           <input class="btn btn-primary" type="submit" value="Add advertisement">
-          <button type="button" class="btn btn-danger">Clear</button>
+          <button type="button" class="btn btn-danger" value="">Clear</button>
 
           <br>
           <br>
