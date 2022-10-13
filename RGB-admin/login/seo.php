@@ -3,7 +3,6 @@ include('dbcon.php');
 include('session.php'); 
 include('slidebar.php');
 
-
 ?>
 
 <html>
@@ -48,26 +47,27 @@ include('slidebar.php');
     }
 ?>
 <div class="form-wrapper" id="home-wrapper"> 
-    <a href="bloglist.php">
-        <button type="button" class="btn btn-success" id="bloglist-button">Blog List</button>
-    </a>
-    <h3 class="home-h3">ADD BLOG</h3>
+    <h3 class="home-h3">ADD SEO</h3>
     <br>
     <from action="#" method="post">
           <div class="mb-3">
-              <label for="email" class="form-label" id="form-label" >Add Title</label>
-              <input type="email" class="form-control" id="add-title" value="">
+              <label for="email" class="form-label" id="form-label" >Meta Title</label>
+              <input type="email" class="form-control" id="meta-title">
           </div>
           <div class="mb-3">
-              <label for="Reasonforinquiry" class="form-label" id="form-label">Add Content</label>
-              <textarea class="form-control" id="add-content" rows="4"></textarea>
+              <label for="Reasonforinquiry" class="form-label" id="form-label">Meta Tags</label>
+              <textarea class="form-control" id="add-content" rows="1"></textarea>
+          </div>
+          <div class="mb-3">
+              <label for="Reasonforinquiry" class="form-label" id="form-label">Meta Discription</label>
+              <textarea class="form-control" id="add-content" rows="2"></textarea>
           </div>
           <label for="Reasonforinquiry" class="form-label" id="form-label">Add Image</label>
           <div class="input-group mb-3">
             <input type="file" class="form-control" id="inputGroupFile02">
             <label class="input-group-text" for="inputGroupFile02">Upload</label>
           </div>
-          <input class="btn btn-primary" type="submit" value="Add Blog">
+          <input class="btn btn-primary" type="submit" value="Add Meta">
           <button type="button" class="btn btn-danger">Clear</button>
 
           <br>

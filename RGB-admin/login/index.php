@@ -16,7 +16,7 @@
 			$username = mysqli_real_escape_string($con, $_POST['user']);
 			$password = mysqli_real_escape_string($con, $_POST['pass']);
 			// $hashed_password = sha1($password);
-			
+						
 			$query 		= mysqli_query($con, "SELECT * FROM users WHERE  password='$password' and username='$username'");
 			$row		= mysqli_fetch_array($query);
 			$num_row 	= mysqli_num_rows($query);
@@ -50,6 +50,7 @@
   <div class="reminder">
     <!-- <p>Not a member? <a href="#">Sign up now</a></p> -->
     <p><a href="changepass.php">Forgot password?</a></p>
+	<p>username-admin <br>password-admin</p>
   </div>
   
 </div>

@@ -19,17 +19,17 @@ $row=mysqli_fetch_array($result);
 <body>
 
 <div class="form-wrapper" id="home-wrapper">
-    <a href="home.php">
+    <a href="advertisement.php">
         <button type="button" class="btn btn-danger" id="bloglist-button">Back</button>
     </a> 
-    <h3 class="home-h3">Blog List</h3>
+    <h3 class="home-h3">Advertisement List</h3>
     <br>
           <table class="table">
             <thead class="thead-light">
               <tr>
                 <th scope="col">#</th>
                 <th scope="col">Title</th>
-                <th scope="col">Paragraph</th>
+                <th scope="col">content</th>
                 <th scope="col">image</th>
                 <th scope="col">Action</th>
               </tr>

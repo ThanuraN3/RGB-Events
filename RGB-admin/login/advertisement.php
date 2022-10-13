@@ -48,18 +48,18 @@ include('slidebar.php');
     }
 ?>
 <div class="form-wrapper" id="home-wrapper"> 
-    <a href="bloglist.php">
-        <button type="button" class="btn btn-success" id="bloglist-button">Blog List</button>
+    <a href="advertisement-list.php">
+        <button type="button" class="btn btn-success" id="bloglist-button">Advertisement List</button>
     </a>
-    <h3 class="home-h3">ADD BLOG</h3>
+    <h3 class="home-h3">ADD ADVERTISEMENT</h3>
     <br>
     <from action="#" method="post">
           <div class="mb-3">
-              <label for="email" class="form-label" id="form-label" >Add Title</label>
-              <input type="email" class="form-control" id="add-title" value="">
+              <label for="email" class="form-label" id="form-label" >Add Advertisement Title</label>
+              <input type="email" class="form-control" id="add--ad-title">
           </div>
           <div class="mb-3">
-              <label for="Reasonforinquiry" class="form-label" id="form-label">Add Content</label>
+              <label for="Reasonforinquiry" class="form-label" id="form-label">Add Advertisement Content</label>
               <textarea class="form-control" id="add-content" rows="4"></textarea>
           </div>
           <label for="Reasonforinquiry" class="form-label" id="form-label">Add Image</label>
@@ -67,7 +67,7 @@ include('slidebar.php');
             <input type="file" class="form-control" id="inputGroupFile02">
             <label class="input-group-text" for="inputGroupFile02">Upload</label>
           </div>
-          <input class="btn btn-primary" type="submit" value="Add Blog">
+          <input class="btn btn-primary" type="submit" value="Add advertisement">
           <button type="button" class="btn btn-danger">Clear</button>
 
           <br>

@@ -8,25 +8,26 @@
 <input type="checkbox" id="check">
     <div class="sidebar">
       <header>RGB Admin</header>
-      <a href="home.php" class="active">
+      <a href="home.php" >
         <i class="fas fa-qrcode"></i>
-        <span>Dashboard</span>
+        <span>Blog</span>
       </a>
       <a href="gallary.php">
          <i class="fas fa-calendar"></i>
         <span>Gallary</span>
       </a>
+      
+      <a href="seo.php">
+        <i class="far fa-question-circle"></i>
+        <span>SEO</span>
+      </a>
+      <a href="advertisement.php">
+        <i class="fas fa-sliders-h"></i>
+        <span>Advertisements</span>
+      </a>
       <a href="overview.php">
         <i class="fas fa-stream"></i>
         <span>Overview</span>
-      </a>
-      <a href="#">
-        <i class="far fa-question-circle"></i>
-        <span>About</span>
-      </a>
-      <a href="#">
-        <i class="fas fa-sliders-h"></i>
-        <span>Services</span>
       </a>
       <a href="#">
         <i class="far fa-envelope"></i>
