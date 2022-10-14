@@ -67,7 +67,7 @@ include('slidebar.php');
             <input type="file" class="form-control" id="inputGroupFile02">
             <label class="input-group-text" for="inputGroupFile02">Upload</label>
           </div>
-          <input class="btn btn-primary" type="submit" value="Add advertisement">
+          <input class="btn btn-primary" type="submit" value="Add Advertisement">
           <button type="button" class="btn btn-danger" value="">Clear</button>
 
           <br>
